@@ -1,0 +1,1592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="693" lt="693" ts="1578502404396" s="false" lb="Homepage" rc="500" rm="HTTP/1.1 500" tn="Browser Thread Group 1-1" dt="text" by="1193" ng="1" na="4" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 500
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=6C523E8865F1193209C837F1A797B945; Path=/yacceleratorstorefront; Secure; HttpOnly
+Set-Cookie: anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; Max-Age=31536000; Expires=Thu, 07-Jan-2021 16:53:24 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: profile.consent.given=false; Max-Age=360000000; Expires=Fri, 06-Jun-2031 08:53:24 GMT; Path=/; Secure
+Set-Cookie: electronics-consentReference=; Max-Age=0; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure
+Set-Cookie: cookie-notification=NOT_ACCEPTED; Max-Age=360000000; Expires=Fri, 06-Jun-2031 08:53:25 GMT; Path=/; Secure
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Length: 141
+Date: Wed, 08 Jan 2020 16:53:25 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+    &lt;head&gt;
+        &lt;title&gt;Server Error&lt;/title&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;p&gt;Server Error&lt;/p&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
+</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="1355" lt="1355" ts="1578502403741" s="false" lb="Homepage" rc="500" rm="HTTP/1.1 500" tn="Modules 4-2" dt="text" by="1193" ng="3" na="4" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 500
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=1C4FCE03AF571DFC90094204A2E05CB6; Path=/yacceleratorstorefront; Secure; HttpOnly
+Set-Cookie: anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; Max-Age=31536000; Expires=Thu, 07-Jan-2021 16:53:24 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: profile.consent.given=false; Max-Age=360000000; Expires=Fri, 06-Jun-2031 08:53:24 GMT; Path=/; Secure
+Set-Cookie: electronics-consentReference=; Max-Age=0; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure
+Set-Cookie: cookie-notification=NOT_ACCEPTED; Max-Age=360000000; Expires=Fri, 06-Jun-2031 08:53:25 GMT; Path=/; Secure
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Length: 141
+Date: Wed, 08 Jan 2020 16:53:25 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+    &lt;head&gt;
+        &lt;title&gt;Server Error&lt;/title&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;p&gt;Server Error&lt;/p&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
+</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="6" ts="1578502459421" s="false" lb="Remove From Cart" rc="403" rm="HTTP/1.1 403" tn="Modules 4-3" dt="text" by="2207" ng="3" na="11" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 403
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Length: 1840
+Date: Wed, 08 Jan 2020 16:54:19 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+Content-Length: 143
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+&lt;head&gt;
+    &lt;title&gt;hybris administration console | Login&lt;/title&gt;
+    &lt;meta charset=&quot;utf-8&quot;/&gt;
+    &lt;meta name=&quot;_csrf_parameter&quot; content=&quot;_csrf&quot; /&gt;&lt;meta name=&quot;_csrf_header&quot; content=&quot;X-CSRF-TOKEN&quot; /&gt;&lt;meta name=&quot;_csrf&quot; content=&quot;eca67754-35bd-4b5c-8ff6-b26c9e3fea67&quot; /&gt;
+    
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/blueprint.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/fancy-type/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/buttons/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/static/js/jquery/jquery-3.0.0.min.js&quot;&gt;&lt;/script&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/style.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/static/img/favicon.png&quot;/&gt;
+	&lt;link rel=&quot;icon&quot; href=&quot;/static/img/favicon.png&quot; type=&quot;image/x-icon&quot;&gt;
+	&lt;!-- redirect_detection - do not remove! --&gt;
+&lt;/head&gt;
+&lt;body class=&quot;logincontainer&quot;&gt;
+
+&lt;form action=&quot;/j_spring_security_check&quot; method=&quot;POST&quot;&gt;
+	&lt;div id=&quot;logincontrols&quot; class=&quot;logincontrols&quot;&gt;
+		&lt;div id=&quot;loginErrors&quot;&gt;&amp;nbsp;
+			
+				Login failed: 
+			
+		&lt;/div&gt;
+		&lt;ul&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;text&quot; name=&quot;j_username&quot; placeholder=&quot;Username&quot; value=&quot;admin&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;password&quot; name=&quot;j_password&quot; placeholder=&quot;Password&quot; value=&quot;&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;label&gt;&lt;input type=&quot;checkbox&quot; name=&quot;_spring_security_remember_me&quot; class=&quot;checkbox&quot; id=&quot;_spring_security_remember_me&quot;  /&gt; Remember Login&lt;/label&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;button type=&quot;submit&quot; class=&quot;button&quot; autofocus&gt;login&lt;/button&gt;
+                &lt;input type=&quot;hidden&quot;
+                       name=&quot;_csrf&quot;
+                       value=&quot;eca67754-35bd-4b5c-8ff6-b26c9e3fea67&quot;/&gt;
+			&lt;/li&gt;
+			
+			
+		&lt;/ul&gt;
+	&lt;/div&gt;
+&lt;/form&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String">$Version=0; profile.consent.given=false; $Path=/; cookie-notification=NOT_ACCEPTED; $Path=/; JSESSIONID=A85D3D27942EC76762EDA6F2E210710E; $Path=/; anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; $Path=/</cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">entryNumber=# -----------------------------------------------------------------------&amp;quantity=0&amp;CSRFToken=b885ee9d-8cdb-4fb7-957d-a80e9d758cf2</queryString>
+  <java.net.URL>https://electronics.local:9002/cart/update</java.net.URL>
+</httpSample>
+<httpSample t="3" lt="3" ts="1578502461018" s="false" lb="Remove From Cart" rc="403" rm="HTTP/1.1 403" tn="Modules 4-1" dt="text" by="2207" ng="3" na="11" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 403
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Length: 1840
+Date: Wed, 08 Jan 2020 16:54:20 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+Content-Length: 147
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+&lt;head&gt;
+    &lt;title&gt;hybris administration console | Login&lt;/title&gt;
+    &lt;meta charset=&quot;utf-8&quot;/&gt;
+    &lt;meta name=&quot;_csrf_parameter&quot; content=&quot;_csrf&quot; /&gt;&lt;meta name=&quot;_csrf_header&quot; content=&quot;X-CSRF-TOKEN&quot; /&gt;&lt;meta name=&quot;_csrf&quot; content=&quot;224ea51c-b4a7-4626-b240-81c2b72f32f4&quot; /&gt;
+    
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/blueprint.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/fancy-type/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/buttons/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/static/js/jquery/jquery-3.0.0.min.js&quot;&gt;&lt;/script&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/style.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/static/img/favicon.png&quot;/&gt;
+	&lt;link rel=&quot;icon&quot; href=&quot;/static/img/favicon.png&quot; type=&quot;image/x-icon&quot;&gt;
+	&lt;!-- redirect_detection - do not remove! --&gt;
+&lt;/head&gt;
+&lt;body class=&quot;logincontainer&quot;&gt;
+
+&lt;form action=&quot;/j_spring_security_check&quot; method=&quot;POST&quot;&gt;
+	&lt;div id=&quot;logincontrols&quot; class=&quot;logincontrols&quot;&gt;
+		&lt;div id=&quot;loginErrors&quot;&gt;&amp;nbsp;
+			
+				Login failed: 
+			
+		&lt;/div&gt;
+		&lt;ul&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;text&quot; name=&quot;j_username&quot; placeholder=&quot;Username&quot; value=&quot;admin&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;password&quot; name=&quot;j_password&quot; placeholder=&quot;Password&quot; value=&quot;&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;label&gt;&lt;input type=&quot;checkbox&quot; name=&quot;_spring_security_remember_me&quot; class=&quot;checkbox&quot; id=&quot;_spring_security_remember_me&quot;  /&gt; Remember Login&lt;/label&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;button type=&quot;submit&quot; class=&quot;button&quot; autofocus&gt;login&lt;/button&gt;
+                &lt;input type=&quot;hidden&quot;
+                       name=&quot;_csrf&quot;
+                       value=&quot;224ea51c-b4a7-4626-b240-81c2b72f32f4&quot;/&gt;
+			&lt;/li&gt;
+			
+			
+		&lt;/ul&gt;
+	&lt;/div&gt;
+&lt;/form&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String">$Version=0; profile.consent.given=false; $Path=/; cookie-notification=NOT_ACCEPTED; $Path=/; JSESSIONID=9A198ED2D2DCC67D27CF33A0354CD61F; $Path=/; anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; $Path=/</cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">entryNumber=# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved.&amp;quantity=0&amp;CSRFToken=4071aae2-600c-4ed0-be22-3b2b7ec7cbf3</queryString>
+  <java.net.URL>https://electronics.local:9002/cart/update</java.net.URL>
+</httpSample>
+<httpSample t="3" lt="3" ts="1578502461702" s="false" lb="Remove From Cart" rc="403" rm="HTTP/1.1 403" tn="Modules 4-2" dt="text" by="2207" ng="3" na="11" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 403
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Length: 1840
+Date: Wed, 08 Jan 2020 16:54:21 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+Content-Length: 143
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+&lt;head&gt;
+    &lt;title&gt;hybris administration console | Login&lt;/title&gt;
+    &lt;meta charset=&quot;utf-8&quot;/&gt;
+    &lt;meta name=&quot;_csrf_parameter&quot; content=&quot;_csrf&quot; /&gt;&lt;meta name=&quot;_csrf_header&quot; content=&quot;X-CSRF-TOKEN&quot; /&gt;&lt;meta name=&quot;_csrf&quot; content=&quot;d78c0c0f-0126-42ab-a90e-9f50c38b2175&quot; /&gt;
+    
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/blueprint.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/fancy-type/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/buttons/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/static/js/jquery/jquery-3.0.0.min.js&quot;&gt;&lt;/script&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/style.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/static/img/favicon.png&quot;/&gt;
+	&lt;link rel=&quot;icon&quot; href=&quot;/static/img/favicon.png&quot; type=&quot;image/x-icon&quot;&gt;
+	&lt;!-- redirect_detection - do not remove! --&gt;
+&lt;/head&gt;
+&lt;body class=&quot;logincontainer&quot;&gt;
+
+&lt;form action=&quot;/j_spring_security_check&quot; method=&quot;POST&quot;&gt;
+	&lt;div id=&quot;logincontrols&quot; class=&quot;logincontrols&quot;&gt;
+		&lt;div id=&quot;loginErrors&quot;&gt;&amp;nbsp;
+			
+				Login failed: 
+			
+		&lt;/div&gt;
+		&lt;ul&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;text&quot; name=&quot;j_username&quot; placeholder=&quot;Username&quot; value=&quot;admin&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;password&quot; name=&quot;j_password&quot; placeholder=&quot;Password&quot; value=&quot;&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;label&gt;&lt;input type=&quot;checkbox&quot; name=&quot;_spring_security_remember_me&quot; class=&quot;checkbox&quot; id=&quot;_spring_security_remember_me&quot;  /&gt; Remember Login&lt;/label&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;button type=&quot;submit&quot; class=&quot;button&quot; autofocus&gt;login&lt;/button&gt;
+                &lt;input type=&quot;hidden&quot;
+                       name=&quot;_csrf&quot;
+                       value=&quot;d78c0c0f-0126-42ab-a90e-9f50c38b2175&quot;/&gt;
+			&lt;/li&gt;
+			
+			
+		&lt;/ul&gt;
+	&lt;/div&gt;
+&lt;/form&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String">$Version=0; profile.consent.given=false; $Path=/; cookie-notification=NOT_ACCEPTED; $Path=/; JSESSIONID=DE06E08D155C47EE818DADAA8D5A4CB6; $Path=/; anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; $Path=/</cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">entryNumber=# -----------------------------------------------------------------------&amp;quantity=0&amp;CSRFToken=98d6f795-4ef7-474f-b62c-e4e7196bf4b2</queryString>
+  <java.net.URL>https://electronics.local:9002/cart/update</java.net.URL>
+</httpSample>
+<httpSample t="11" lt="11" ts="1578502491970" s="false" lb="Product Page" rc="400" rm="HTTP/1.1 400" tn="Modules 4-1" dt="text" by="954" ng="3" na="11" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 400
+Content-Type: text/html;charset=utf-8
+Content-Language: en
+Content-Length: 800
+Date: Wed, 08 Jan 2020 16:54:51 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 400 – Bad Request&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 400 – Bad Request&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String">$Version=0; anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; $Path=/; profile.consent.given=false; $Path=/; cookie-notification=NOT_ACCEPTED; $Path=/; JSESSIONID=D18D7265CD7033B3A974AAFAADCBEA82; $Path=/</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://electronics.local:9002/Open-Catalogue/Components/Power-Supplies/Rechargeable-Batteries/InfoLITHIUM™-H-Series-Battery/p/805693</java.net.URL>
+</httpSample>
+<httpSample t="3" lt="3" ts="1578502492463" s="false" lb="Product Page" rc="400" rm="HTTP/1.1 400" tn="Modules 4-2" dt="text" by="954" ng="3" na="11" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 400
+Content-Type: text/html;charset=utf-8
+Content-Language: en
+Content-Length: 800
+Date: Wed, 08 Jan 2020 16:54:52 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 400 – Bad Request&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 400 – Bad Request&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String">$Version=0; anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; $Path=/; profile.consent.given=false; $Path=/; cookie-notification=NOT_ACCEPTED; $Path=/; JSESSIONID=68AB546E8F4EACA2DA06E4C614690273; $Path=/</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://electronics.local:9002/Open-Catalogue/Components/Power-Supplies/Rechargeable-Batteries/InfoLITHIUM™-H-Series-Battery/p/824267</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="5" ts="1578502514902" s="false" lb="Remove From Cart" rc="403" rm="HTTP/1.1 403" tn="Modules 4-3" dt="text" by="2207" ng="3" na="11" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 403
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Length: 1840
+Date: Wed, 08 Jan 2020 16:55:14 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+Content-Length: 71
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+&lt;head&gt;
+    &lt;title&gt;hybris administration console | Login&lt;/title&gt;
+    &lt;meta charset=&quot;utf-8&quot;/&gt;
+    &lt;meta name=&quot;_csrf_parameter&quot; content=&quot;_csrf&quot; /&gt;&lt;meta name=&quot;_csrf_header&quot; content=&quot;X-CSRF-TOKEN&quot; /&gt;&lt;meta name=&quot;_csrf&quot; content=&quot;ad36b432-dbdf-4b46-a763-22076d386bf5&quot; /&gt;
+    
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/blueprint.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/fancy-type/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/buttons/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/static/js/jquery/jquery-3.0.0.min.js&quot;&gt;&lt;/script&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/style.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/static/img/favicon.png&quot;/&gt;
+	&lt;link rel=&quot;icon&quot; href=&quot;/static/img/favicon.png&quot; type=&quot;image/x-icon&quot;&gt;
+	&lt;!-- redirect_detection - do not remove! --&gt;
+&lt;/head&gt;
+&lt;body class=&quot;logincontainer&quot;&gt;
+
+&lt;form action=&quot;/j_spring_security_check&quot; method=&quot;POST&quot;&gt;
+	&lt;div id=&quot;logincontrols&quot; class=&quot;logincontrols&quot;&gt;
+		&lt;div id=&quot;loginErrors&quot;&gt;&amp;nbsp;
+			
+				Login failed: 
+			
+		&lt;/div&gt;
+		&lt;ul&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;text&quot; name=&quot;j_username&quot; placeholder=&quot;Username&quot; value=&quot;admin&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;password&quot; name=&quot;j_password&quot; placeholder=&quot;Password&quot; value=&quot;&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;label&gt;&lt;input type=&quot;checkbox&quot; name=&quot;_spring_security_remember_me&quot; class=&quot;checkbox&quot; id=&quot;_spring_security_remember_me&quot;  /&gt; Remember Login&lt;/label&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;button type=&quot;submit&quot; class=&quot;button&quot; autofocus&gt;login&lt;/button&gt;
+                &lt;input type=&quot;hidden&quot;
+                       name=&quot;_csrf&quot;
+                       value=&quot;ad36b432-dbdf-4b46-a763-22076d386bf5&quot;/&gt;
+			&lt;/li&gt;
+			
+			
+		&lt;/ul&gt;
+	&lt;/div&gt;
+&lt;/form&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String">$Version=0; profile.consent.given=false; $Path=/; cookie-notification=NOT_ACCEPTED; $Path=/; JSESSIONID=1EEB0782FCFB1C6C19172F35EB3CBD06; $Path=/; anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; $Path=/</cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">entryNumber=0&amp;quantity=0&amp;CSRFToken=ac1cd24d-986c-40be-818f-bbe86d5617fa</queryString>
+  <java.net.URL>https://electronics.local:9002/cart/update</java.net.URL>
+</httpSample>
+<httpSample t="3" lt="3" ts="1578502553447" s="false" lb="Update Cart Quantity" rc="403" rm="HTTP/1.1 403" tn="Modules 4-1" dt="text" by="2207" ng="3" na="11" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 403
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Length: 1840
+Date: Wed, 08 Jan 2020 16:55:53 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+Content-Length: 71
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+&lt;head&gt;
+    &lt;title&gt;hybris administration console | Login&lt;/title&gt;
+    &lt;meta charset=&quot;utf-8&quot;/&gt;
+    &lt;meta name=&quot;_csrf_parameter&quot; content=&quot;_csrf&quot; /&gt;&lt;meta name=&quot;_csrf_header&quot; content=&quot;X-CSRF-TOKEN&quot; /&gt;&lt;meta name=&quot;_csrf&quot; content=&quot;3df0f398-aa89-447d-916b-691a301f9242&quot; /&gt;
+    
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/blueprint.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/fancy-type/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/buttons/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/static/js/jquery/jquery-3.0.0.min.js&quot;&gt;&lt;/script&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/style.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/static/img/favicon.png&quot;/&gt;
+	&lt;link rel=&quot;icon&quot; href=&quot;/static/img/favicon.png&quot; type=&quot;image/x-icon&quot;&gt;
+	&lt;!-- redirect_detection - do not remove! --&gt;
+&lt;/head&gt;
+&lt;body class=&quot;logincontainer&quot;&gt;
+
+&lt;form action=&quot;/j_spring_security_check&quot; method=&quot;POST&quot;&gt;
+	&lt;div id=&quot;logincontrols&quot; class=&quot;logincontrols&quot;&gt;
+		&lt;div id=&quot;loginErrors&quot;&gt;&amp;nbsp;
+			
+				Login failed: 
+			
+		&lt;/div&gt;
+		&lt;ul&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;text&quot; name=&quot;j_username&quot; placeholder=&quot;Username&quot; value=&quot;admin&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;password&quot; name=&quot;j_password&quot; placeholder=&quot;Password&quot; value=&quot;&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;label&gt;&lt;input type=&quot;checkbox&quot; name=&quot;_spring_security_remember_me&quot; class=&quot;checkbox&quot; id=&quot;_spring_security_remember_me&quot;  /&gt; Remember Login&lt;/label&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;button type=&quot;submit&quot; class=&quot;button&quot; autofocus&gt;login&lt;/button&gt;
+                &lt;input type=&quot;hidden&quot;
+                       name=&quot;_csrf&quot;
+                       value=&quot;3df0f398-aa89-447d-916b-691a301f9242&quot;/&gt;
+			&lt;/li&gt;
+			
+			
+		&lt;/ul&gt;
+	&lt;/div&gt;
+&lt;/form&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String">$Version=0; profile.consent.given=false; $Path=/; cookie-notification=NOT_ACCEPTED; $Path=/; JSESSIONID=D3A37975A98955E6B86280C077AEA60C; $Path=/; anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; $Path=/</cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">entryNumber=0&amp;quantity=2&amp;CSRFToken=b03078ff-986f-42c0-9b8e-3c71968f4eb8</queryString>
+  <java.net.URL>https://electronics.local:9002/cart/update</java.net.URL>
+</httpSample>
+<httpSample t="57" lt="57" ts="1578502555370" s="false" lb="Update Cart Quantity" rc="403" rm="HTTP/1.1 403" tn="Modules 4-2" dt="text" by="2207" ng="3" na="11" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 403
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Length: 1840
+Date: Wed, 08 Jan 2020 16:55:55 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+Content-Length: 71
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+&lt;head&gt;
+    &lt;title&gt;hybris administration console | Login&lt;/title&gt;
+    &lt;meta charset=&quot;utf-8&quot;/&gt;
+    &lt;meta name=&quot;_csrf_parameter&quot; content=&quot;_csrf&quot; /&gt;&lt;meta name=&quot;_csrf_header&quot; content=&quot;X-CSRF-TOKEN&quot; /&gt;&lt;meta name=&quot;_csrf&quot; content=&quot;23f4fe3c-5257-4c02-a2ff-87becf6b7c5a&quot; /&gt;
+    
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/blueprint.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/fancy-type/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/buttons/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/static/js/jquery/jquery-3.0.0.min.js&quot;&gt;&lt;/script&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/style.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/static/img/favicon.png&quot;/&gt;
+	&lt;link rel=&quot;icon&quot; href=&quot;/static/img/favicon.png&quot; type=&quot;image/x-icon&quot;&gt;
+	&lt;!-- redirect_detection - do not remove! --&gt;
+&lt;/head&gt;
+&lt;body class=&quot;logincontainer&quot;&gt;
+
+&lt;form action=&quot;/j_spring_security_check&quot; method=&quot;POST&quot;&gt;
+	&lt;div id=&quot;logincontrols&quot; class=&quot;logincontrols&quot;&gt;
+		&lt;div id=&quot;loginErrors&quot;&gt;&amp;nbsp;
+			
+				Login failed: 
+			
+		&lt;/div&gt;
+		&lt;ul&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;text&quot; name=&quot;j_username&quot; placeholder=&quot;Username&quot; value=&quot;admin&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;password&quot; name=&quot;j_password&quot; placeholder=&quot;Password&quot; value=&quot;&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;label&gt;&lt;input type=&quot;checkbox&quot; name=&quot;_spring_security_remember_me&quot; class=&quot;checkbox&quot; id=&quot;_spring_security_remember_me&quot;  /&gt; Remember Login&lt;/label&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;button type=&quot;submit&quot; class=&quot;button&quot; autofocus&gt;login&lt;/button&gt;
+                &lt;input type=&quot;hidden&quot;
+                       name=&quot;_csrf&quot;
+                       value=&quot;23f4fe3c-5257-4c02-a2ff-87becf6b7c5a&quot;/&gt;
+			&lt;/li&gt;
+			
+			
+		&lt;/ul&gt;
+	&lt;/div&gt;
+&lt;/form&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String">$Version=0; profile.consent.given=false; $Path=/; cookie-notification=NOT_ACCEPTED; $Path=/; JSESSIONID=F80E7F3C29B9AD4094A7B5E057E47E32; $Path=/; anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; $Path=/</cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">entryNumber=0&amp;quantity=3&amp;CSRFToken=835d3dd7-e9a7-43c2-8399-e9dc3a245170</queryString>
+  <java.net.URL>https://electronics.local:9002/cart/update</java.net.URL>
+</httpSample>
+<httpSample t="2" lt="2" ts="1578502578570" s="false" lb="Remove From Cart" rc="403" rm="HTTP/1.1 403" tn="Modules 4-3" dt="text" by="2207" ng="3" na="11" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 403
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Length: 1840
+Date: Wed, 08 Jan 2020 16:56:18 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+Content-Length: 71
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+&lt;head&gt;
+    &lt;title&gt;hybris administration console | Login&lt;/title&gt;
+    &lt;meta charset=&quot;utf-8&quot;/&gt;
+    &lt;meta name=&quot;_csrf_parameter&quot; content=&quot;_csrf&quot; /&gt;&lt;meta name=&quot;_csrf_header&quot; content=&quot;X-CSRF-TOKEN&quot; /&gt;&lt;meta name=&quot;_csrf&quot; content=&quot;bd066a65-3d95-4442-8d1f-46b1c11a602a&quot; /&gt;
+    
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/blueprint.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/fancy-type/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/buttons/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/static/js/jquery/jquery-3.0.0.min.js&quot;&gt;&lt;/script&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/style.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/static/img/favicon.png&quot;/&gt;
+	&lt;link rel=&quot;icon&quot; href=&quot;/static/img/favicon.png&quot; type=&quot;image/x-icon&quot;&gt;
+	&lt;!-- redirect_detection - do not remove! --&gt;
+&lt;/head&gt;
+&lt;body class=&quot;logincontainer&quot;&gt;
+
+&lt;form action=&quot;/j_spring_security_check&quot; method=&quot;POST&quot;&gt;
+	&lt;div id=&quot;logincontrols&quot; class=&quot;logincontrols&quot;&gt;
+		&lt;div id=&quot;loginErrors&quot;&gt;&amp;nbsp;
+			
+				Login failed: 
+			
+		&lt;/div&gt;
+		&lt;ul&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;text&quot; name=&quot;j_username&quot; placeholder=&quot;Username&quot; value=&quot;admin&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;password&quot; name=&quot;j_password&quot; placeholder=&quot;Password&quot; value=&quot;&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;label&gt;&lt;input type=&quot;checkbox&quot; name=&quot;_spring_security_remember_me&quot; class=&quot;checkbox&quot; id=&quot;_spring_security_remember_me&quot;  /&gt; Remember Login&lt;/label&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;button type=&quot;submit&quot; class=&quot;button&quot; autofocus&gt;login&lt;/button&gt;
+                &lt;input type=&quot;hidden&quot;
+                       name=&quot;_csrf&quot;
+                       value=&quot;bd066a65-3d95-4442-8d1f-46b1c11a602a&quot;/&gt;
+			&lt;/li&gt;
+			
+			
+		&lt;/ul&gt;
+	&lt;/div&gt;
+&lt;/form&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String">$Version=0; profile.consent.given=false; $Path=/; cookie-notification=NOT_ACCEPTED; $Path=/; JSESSIONID=86419373792E9934F0C1D133DEC92418; $Path=/; anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; $Path=/</cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">entryNumber=0&amp;quantity=0&amp;CSRFToken=0bdeb869-e001-4fec-a53e-e8f401dd914d</queryString>
+  <java.net.URL>https://electronics.local:9002/cart/update</java.net.URL>
+</httpSample>
+<httpSample t="2" lt="2" ts="1578502583569" s="false" lb="Product Page" rc="400" rm="HTTP/1.1 400" tn="Modules 4-2" dt="text" by="954" ng="3" na="11" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 400
+Content-Type: text/html;charset=utf-8
+Content-Language: en
+Content-Length: 800
+Date: Wed, 08 Jan 2020 16:56:23 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 400 – Bad Request&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 400 – Bad Request&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String">$Version=0; anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; $Path=/; profile.consent.given=false; $Path=/; cookie-notification=NOT_ACCEPTED; $Path=/; JSESSIONID=51D9B2C3CC84DC52AC540D06B03C8FBC; $Path=/</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://electronics.local:9002/Open-Catalogue/Components/Power-Supplies/Rechargeable-Batteries/InfoLITHIUM™-H-Series-Battery/p/805693</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="1" ts="1578502584134" s="false" lb="Product Page" rc="400" rm="HTTP/1.1 400" tn="Modules 4-1" dt="text" by="954" ng="3" na="11" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 400
+Content-Type: text/html;charset=utf-8
+Content-Language: en
+Content-Length: 800
+Date: Wed, 08 Jan 2020 16:56:23 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 400 – Bad Request&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 400 – Bad Request&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String">$Version=0; anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; $Path=/; profile.consent.given=false; $Path=/; cookie-notification=NOT_ACCEPTED; $Path=/; JSESSIONID=B178760C3AA19DB08F3F98D3308CF14A; $Path=/</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://electronics.local:9002/Open-Catalogue/Components/Power-Supplies/Rechargeable-Batteries/InfoLITHIUM™-H-Series-Battery/p/824267</java.net.URL>
+</httpSample>
+<httpSample t="3" lt="3" ts="1578502635600" s="false" lb="Remove From Cart" rc="403" rm="HTTP/1.1 403" tn="Modules 4-3" dt="text" by="2207" ng="3" na="11" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 403
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Length: 1840
+Date: Wed, 08 Jan 2020 16:57:15 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+Content-Length: 143
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+&lt;head&gt;
+    &lt;title&gt;hybris administration console | Login&lt;/title&gt;
+    &lt;meta charset=&quot;utf-8&quot;/&gt;
+    &lt;meta name=&quot;_csrf_parameter&quot; content=&quot;_csrf&quot; /&gt;&lt;meta name=&quot;_csrf_header&quot; content=&quot;X-CSRF-TOKEN&quot; /&gt;&lt;meta name=&quot;_csrf&quot; content=&quot;dbf8e177-1916-42e5-9a06-9782a2d4356d&quot; /&gt;
+    
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/blueprint.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/fancy-type/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/buttons/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/static/js/jquery/jquery-3.0.0.min.js&quot;&gt;&lt;/script&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/style.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/static/img/favicon.png&quot;/&gt;
+	&lt;link rel=&quot;icon&quot; href=&quot;/static/img/favicon.png&quot; type=&quot;image/x-icon&quot;&gt;
+	&lt;!-- redirect_detection - do not remove! --&gt;
+&lt;/head&gt;
+&lt;body class=&quot;logincontainer&quot;&gt;
+
+&lt;form action=&quot;/j_spring_security_check&quot; method=&quot;POST&quot;&gt;
+	&lt;div id=&quot;logincontrols&quot; class=&quot;logincontrols&quot;&gt;
+		&lt;div id=&quot;loginErrors&quot;&gt;&amp;nbsp;
+			
+				Login failed: 
+			
+		&lt;/div&gt;
+		&lt;ul&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;text&quot; name=&quot;j_username&quot; placeholder=&quot;Username&quot; value=&quot;admin&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;password&quot; name=&quot;j_password&quot; placeholder=&quot;Password&quot; value=&quot;&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;label&gt;&lt;input type=&quot;checkbox&quot; name=&quot;_spring_security_remember_me&quot; class=&quot;checkbox&quot; id=&quot;_spring_security_remember_me&quot;  /&gt; Remember Login&lt;/label&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;button type=&quot;submit&quot; class=&quot;button&quot; autofocus&gt;login&lt;/button&gt;
+                &lt;input type=&quot;hidden&quot;
+                       name=&quot;_csrf&quot;
+                       value=&quot;dbf8e177-1916-42e5-9a06-9782a2d4356d&quot;/&gt;
+			&lt;/li&gt;
+			
+			
+		&lt;/ul&gt;
+	&lt;/div&gt;
+&lt;/form&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String">$Version=0; profile.consent.given=false; $Path=/; cookie-notification=NOT_ACCEPTED; $Path=/; JSESSIONID=5A3885DFAAB55D68731F2798514C6F91; $Path=/; anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; $Path=/</cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">entryNumber=# -----------------------------------------------------------------------&amp;quantity=0&amp;CSRFToken=dcf4c194-5939-498e-aa86-1812a4c7a306</queryString>
+  <java.net.URL>https://electronics.local:9002/cart/update</java.net.URL>
+</httpSample>
+<httpSample t="3" lt="3" ts="1578502641950" s="false" lb="Remove From Cart" rc="403" rm="HTTP/1.1 403" tn="Modules 4-1" dt="text" by="2207" ng="3" na="11" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 403
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Length: 1840
+Date: Wed, 08 Jan 2020 16:57:21 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+Content-Length: 147
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+&lt;head&gt;
+    &lt;title&gt;hybris administration console | Login&lt;/title&gt;
+    &lt;meta charset=&quot;utf-8&quot;/&gt;
+    &lt;meta name=&quot;_csrf_parameter&quot; content=&quot;_csrf&quot; /&gt;&lt;meta name=&quot;_csrf_header&quot; content=&quot;X-CSRF-TOKEN&quot; /&gt;&lt;meta name=&quot;_csrf&quot; content=&quot;95aa1a90-bb3d-4749-853c-2703c6d26921&quot; /&gt;
+    
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/blueprint.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/fancy-type/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/buttons/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/static/js/jquery/jquery-3.0.0.min.js&quot;&gt;&lt;/script&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/style.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/static/img/favicon.png&quot;/&gt;
+	&lt;link rel=&quot;icon&quot; href=&quot;/static/img/favicon.png&quot; type=&quot;image/x-icon&quot;&gt;
+	&lt;!-- redirect_detection - do not remove! --&gt;
+&lt;/head&gt;
+&lt;body class=&quot;logincontainer&quot;&gt;
+
+&lt;form action=&quot;/j_spring_security_check&quot; method=&quot;POST&quot;&gt;
+	&lt;div id=&quot;logincontrols&quot; class=&quot;logincontrols&quot;&gt;
+		&lt;div id=&quot;loginErrors&quot;&gt;&amp;nbsp;
+			
+				Login failed: 
+			
+		&lt;/div&gt;
+		&lt;ul&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;text&quot; name=&quot;j_username&quot; placeholder=&quot;Username&quot; value=&quot;admin&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;password&quot; name=&quot;j_password&quot; placeholder=&quot;Password&quot; value=&quot;&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;label&gt;&lt;input type=&quot;checkbox&quot; name=&quot;_spring_security_remember_me&quot; class=&quot;checkbox&quot; id=&quot;_spring_security_remember_me&quot;  /&gt; Remember Login&lt;/label&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;button type=&quot;submit&quot; class=&quot;button&quot; autofocus&gt;login&lt;/button&gt;
+                &lt;input type=&quot;hidden&quot;
+                       name=&quot;_csrf&quot;
+                       value=&quot;95aa1a90-bb3d-4749-853c-2703c6d26921&quot;/&gt;
+			&lt;/li&gt;
+			
+			
+		&lt;/ul&gt;
+	&lt;/div&gt;
+&lt;/form&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String">$Version=0; profile.consent.given=false; $Path=/; cookie-notification=NOT_ACCEPTED; $Path=/; JSESSIONID=D273B4126A108DFCA1C302736B312AF5; $Path=/; anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; $Path=/</cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">entryNumber=# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved.&amp;quantity=0&amp;CSRFToken=e00cb120-97cf-49e0-bfc2-6d23822cf101</queryString>
+  <java.net.URL>https://electronics.local:9002/cart/update</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="1" ts="1578502642601" s="false" lb="Update Cart Quantity" rc="403" rm="HTTP/1.1 403" tn="Modules 4-2" dt="text" by="2207" ng="3" na="11" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 403
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Length: 1840
+Date: Wed, 08 Jan 2020 16:57:21 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+Content-Length: 143
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+&lt;head&gt;
+    &lt;title&gt;hybris administration console | Login&lt;/title&gt;
+    &lt;meta charset=&quot;utf-8&quot;/&gt;
+    &lt;meta name=&quot;_csrf_parameter&quot; content=&quot;_csrf&quot; /&gt;&lt;meta name=&quot;_csrf_header&quot; content=&quot;X-CSRF-TOKEN&quot; /&gt;&lt;meta name=&quot;_csrf&quot; content=&quot;268c4218-6dd0-40d5-ab43-335303f75e1f&quot; /&gt;
+    
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/blueprint.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/fancy-type/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/buttons/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/static/js/jquery/jquery-3.0.0.min.js&quot;&gt;&lt;/script&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/style.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/static/img/favicon.png&quot;/&gt;
+	&lt;link rel=&quot;icon&quot; href=&quot;/static/img/favicon.png&quot; type=&quot;image/x-icon&quot;&gt;
+	&lt;!-- redirect_detection - do not remove! --&gt;
+&lt;/head&gt;
+&lt;body class=&quot;logincontainer&quot;&gt;
+
+&lt;form action=&quot;/j_spring_security_check&quot; method=&quot;POST&quot;&gt;
+	&lt;div id=&quot;logincontrols&quot; class=&quot;logincontrols&quot;&gt;
+		&lt;div id=&quot;loginErrors&quot;&gt;&amp;nbsp;
+			
+				Login failed: 
+			
+		&lt;/div&gt;
+		&lt;ul&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;text&quot; name=&quot;j_username&quot; placeholder=&quot;Username&quot; value=&quot;admin&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;password&quot; name=&quot;j_password&quot; placeholder=&quot;Password&quot; value=&quot;&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;label&gt;&lt;input type=&quot;checkbox&quot; name=&quot;_spring_security_remember_me&quot; class=&quot;checkbox&quot; id=&quot;_spring_security_remember_me&quot;  /&gt; Remember Login&lt;/label&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;button type=&quot;submit&quot; class=&quot;button&quot; autofocus&gt;login&lt;/button&gt;
+                &lt;input type=&quot;hidden&quot;
+                       name=&quot;_csrf&quot;
+                       value=&quot;268c4218-6dd0-40d5-ab43-335303f75e1f&quot;/&gt;
+			&lt;/li&gt;
+			
+			
+		&lt;/ul&gt;
+	&lt;/div&gt;
+&lt;/form&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String">$Version=0; profile.consent.given=false; $Path=/; cookie-notification=NOT_ACCEPTED; $Path=/; JSESSIONID=1D57C3EF6D3FD8B0CE3BE59435729F03; $Path=/; anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; $Path=/</cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">entryNumber=# -----------------------------------------------------------------------&amp;quantity=3&amp;CSRFToken=e86999f1-bd49-4126-959a-7f452e5da9c2</queryString>
+  <java.net.URL>https://electronics.local:9002/cart/update</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="1" ts="1578502669022" s="false" lb="Product Page" rc="400" rm="HTTP/1.1 400" tn="Modules 4-1" dt="text" by="954" ng="3" na="11" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 400
+Content-Type: text/html;charset=utf-8
+Content-Language: en
+Content-Length: 800
+Date: Wed, 08 Jan 2020 16:57:48 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 400 – Bad Request&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 400 – Bad Request&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String">$Version=0; anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; $Path=/; profile.consent.given=false; $Path=/; cookie-notification=NOT_ACCEPTED; $Path=/; JSESSIONID=95B8F73E38DD0BCFC2A0A6717D8F832C; $Path=/</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://electronics.local:9002/Open-Catalogue/Components/Power-Supplies/Rechargeable-Batteries/InfoLITHIUM™-H-Series-Battery/p/824267</java.net.URL>
+</httpSample>
+<httpSample t="2" lt="2" ts="1578502670739" s="false" lb="Product Page" rc="400" rm="HTTP/1.1 400" tn="Modules 4-2" dt="text" by="954" ng="3" na="11" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 400
+Content-Type: text/html;charset=utf-8
+Content-Language: en
+Content-Length: 800
+Date: Wed, 08 Jan 2020 16:57:50 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 400 – Bad Request&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 400 – Bad Request&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String">$Version=0; anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; $Path=/; profile.consent.given=false; $Path=/; cookie-notification=NOT_ACCEPTED; $Path=/; JSESSIONID=CA1651102C2A18237F9E29302078F99C; $Path=/</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://electronics.local:9002/Open-Catalogue/Components/Power-Supplies/Rechargeable-Batteries/InfoLITHIUM™-H-Series-Battery/p/805693</java.net.URL>
+</httpSample>
+<httpSample t="2" lt="2" ts="1578502692248" s="false" lb="Update Cart Quantity" rc="403" rm="HTTP/1.1 403" tn="Modules 4-3" dt="text" by="2207" ng="3" na="11" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 403
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Length: 1840
+Date: Wed, 08 Jan 2020 16:58:11 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+Content-Length: 71
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+&lt;head&gt;
+    &lt;title&gt;hybris administration console | Login&lt;/title&gt;
+    &lt;meta charset=&quot;utf-8&quot;/&gt;
+    &lt;meta name=&quot;_csrf_parameter&quot; content=&quot;_csrf&quot; /&gt;&lt;meta name=&quot;_csrf_header&quot; content=&quot;X-CSRF-TOKEN&quot; /&gt;&lt;meta name=&quot;_csrf&quot; content=&quot;2ac14c07-c043-4994-9ae3-2cdebdebf74f&quot; /&gt;
+    
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/blueprint.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/fancy-type/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/buttons/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/static/js/jquery/jquery-3.0.0.min.js&quot;&gt;&lt;/script&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/style.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/static/img/favicon.png&quot;/&gt;
+	&lt;link rel=&quot;icon&quot; href=&quot;/static/img/favicon.png&quot; type=&quot;image/x-icon&quot;&gt;
+	&lt;!-- redirect_detection - do not remove! --&gt;
+&lt;/head&gt;
+&lt;body class=&quot;logincontainer&quot;&gt;
+
+&lt;form action=&quot;/j_spring_security_check&quot; method=&quot;POST&quot;&gt;
+	&lt;div id=&quot;logincontrols&quot; class=&quot;logincontrols&quot;&gt;
+		&lt;div id=&quot;loginErrors&quot;&gt;&amp;nbsp;
+			
+				Login failed: 
+			
+		&lt;/div&gt;
+		&lt;ul&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;text&quot; name=&quot;j_username&quot; placeholder=&quot;Username&quot; value=&quot;admin&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;password&quot; name=&quot;j_password&quot; placeholder=&quot;Password&quot; value=&quot;&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;label&gt;&lt;input type=&quot;checkbox&quot; name=&quot;_spring_security_remember_me&quot; class=&quot;checkbox&quot; id=&quot;_spring_security_remember_me&quot;  /&gt; Remember Login&lt;/label&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;button type=&quot;submit&quot; class=&quot;button&quot; autofocus&gt;login&lt;/button&gt;
+                &lt;input type=&quot;hidden&quot;
+                       name=&quot;_csrf&quot;
+                       value=&quot;2ac14c07-c043-4994-9ae3-2cdebdebf74f&quot;/&gt;
+			&lt;/li&gt;
+			
+			
+		&lt;/ul&gt;
+	&lt;/div&gt;
+&lt;/form&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String">$Version=0; profile.consent.given=false; $Path=/; cookie-notification=NOT_ACCEPTED; $Path=/; JSESSIONID=3CB2EC6B9C2E6B62A3F7419E4535E123; $Path=/; anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; $Path=/</cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">entryNumber=0&amp;quantity=1&amp;CSRFToken=bed41f9d-13fe-4046-98fe-a5bcbbc95761</queryString>
+  <java.net.URL>https://electronics.local:9002/cart/update</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="7" ts="1578502725121" s="false" lb="Remove From Cart" rc="403" rm="HTTP/1.1 403" tn="Modules 4-2" dt="text" by="2207" ng="3" na="11" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 403
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Length: 1840
+Date: Wed, 08 Jan 2020 16:58:44 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+Content-Length: 71
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+&lt;head&gt;
+    &lt;title&gt;hybris administration console | Login&lt;/title&gt;
+    &lt;meta charset=&quot;utf-8&quot;/&gt;
+    &lt;meta name=&quot;_csrf_parameter&quot; content=&quot;_csrf&quot; /&gt;&lt;meta name=&quot;_csrf_header&quot; content=&quot;X-CSRF-TOKEN&quot; /&gt;&lt;meta name=&quot;_csrf&quot; content=&quot;4ba5de5b-6ba4-417b-b350-9165735790c2&quot; /&gt;
+    
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/blueprint.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/fancy-type/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/buttons/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/static/js/jquery/jquery-3.0.0.min.js&quot;&gt;&lt;/script&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/style.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/static/img/favicon.png&quot;/&gt;
+	&lt;link rel=&quot;icon&quot; href=&quot;/static/img/favicon.png&quot; type=&quot;image/x-icon&quot;&gt;
+	&lt;!-- redirect_detection - do not remove! --&gt;
+&lt;/head&gt;
+&lt;body class=&quot;logincontainer&quot;&gt;
+
+&lt;form action=&quot;/j_spring_security_check&quot; method=&quot;POST&quot;&gt;
+	&lt;div id=&quot;logincontrols&quot; class=&quot;logincontrols&quot;&gt;
+		&lt;div id=&quot;loginErrors&quot;&gt;&amp;nbsp;
+			
+				Login failed: 
+			
+		&lt;/div&gt;
+		&lt;ul&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;text&quot; name=&quot;j_username&quot; placeholder=&quot;Username&quot; value=&quot;admin&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;password&quot; name=&quot;j_password&quot; placeholder=&quot;Password&quot; value=&quot;&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;label&gt;&lt;input type=&quot;checkbox&quot; name=&quot;_spring_security_remember_me&quot; class=&quot;checkbox&quot; id=&quot;_spring_security_remember_me&quot;  /&gt; Remember Login&lt;/label&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;button type=&quot;submit&quot; class=&quot;button&quot; autofocus&gt;login&lt;/button&gt;
+                &lt;input type=&quot;hidden&quot;
+                       name=&quot;_csrf&quot;
+                       value=&quot;4ba5de5b-6ba4-417b-b350-9165735790c2&quot;/&gt;
+			&lt;/li&gt;
+			
+			
+		&lt;/ul&gt;
+	&lt;/div&gt;
+&lt;/form&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String">$Version=0; profile.consent.given=false; $Path=/; cookie-notification=NOT_ACCEPTED; $Path=/; JSESSIONID=69F39609553A3097D0FB62E87AC01436; $Path=/; anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; $Path=/</cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">entryNumber=0&amp;quantity=0&amp;CSRFToken=2cff13ef-0037-4b98-a48f-e763a8012df5</queryString>
+  <java.net.URL>https://electronics.local:9002/cart/update</java.net.URL>
+</httpSample>
+<httpSample t="4" lt="4" ts="1578502730179" s="false" lb="Update Cart Quantity" rc="403" rm="HTTP/1.1 403" tn="Modules 4-1" dt="text" by="2207" ng="3" na="11" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 403
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Length: 1840
+Date: Wed, 08 Jan 2020 16:58:50 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+Content-Length: 71
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+&lt;head&gt;
+    &lt;title&gt;hybris administration console | Login&lt;/title&gt;
+    &lt;meta charset=&quot;utf-8&quot;/&gt;
+    &lt;meta name=&quot;_csrf_parameter&quot; content=&quot;_csrf&quot; /&gt;&lt;meta name=&quot;_csrf_header&quot; content=&quot;X-CSRF-TOKEN&quot; /&gt;&lt;meta name=&quot;_csrf&quot; content=&quot;30860029-2796-4d73-99b5-188064c91c25&quot; /&gt;
+    
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/blueprint.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/fancy-type/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/plugins/buttons/screen.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/static/js/jquery/jquery-3.0.0.min.js&quot;&gt;&lt;/script&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/static/css/style.css&quot; type=&quot;text/css&quot; media=&quot;screen, projection&quot;&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/static/img/favicon.png&quot;/&gt;
+	&lt;link rel=&quot;icon&quot; href=&quot;/static/img/favicon.png&quot; type=&quot;image/x-icon&quot;&gt;
+	&lt;!-- redirect_detection - do not remove! --&gt;
+&lt;/head&gt;
+&lt;body class=&quot;logincontainer&quot;&gt;
+
+&lt;form action=&quot;/j_spring_security_check&quot; method=&quot;POST&quot;&gt;
+	&lt;div id=&quot;logincontrols&quot; class=&quot;logincontrols&quot;&gt;
+		&lt;div id=&quot;loginErrors&quot;&gt;&amp;nbsp;
+			
+				Login failed: 
+			
+		&lt;/div&gt;
+		&lt;ul&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;text&quot; name=&quot;j_username&quot; placeholder=&quot;Username&quot; value=&quot;admin&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;input type=&quot;password&quot; name=&quot;j_password&quot; placeholder=&quot;Password&quot; value=&quot;&quot;/&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;label&gt;&lt;input type=&quot;checkbox&quot; name=&quot;_spring_security_remember_me&quot; class=&quot;checkbox&quot; id=&quot;_spring_security_remember_me&quot;  /&gt; Remember Login&lt;/label&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;button type=&quot;submit&quot; class=&quot;button&quot; autofocus&gt;login&lt;/button&gt;
+                &lt;input type=&quot;hidden&quot;
+                       name=&quot;_csrf&quot;
+                       value=&quot;30860029-2796-4d73-99b5-188064c91c25&quot;/&gt;
+			&lt;/li&gt;
+			
+			
+		&lt;/ul&gt;
+	&lt;/div&gt;
+&lt;/form&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String">$Version=0; profile.consent.given=false; $Path=/; cookie-notification=NOT_ACCEPTED; $Path=/; JSESSIONID=70BA71B3A7C7363549FDF504E9AFADD5; $Path=/; anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; $Path=/</cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">entryNumber=0&amp;quantity=3&amp;CSRFToken=b7e89445-0a34-4153-a227-7edc81aadc47</queryString>
+  <java.net.URL>https://electronics.local:9002/cart/update</java.net.URL>
+</httpSample>
+<httpSample t="157" lt="1" ts="1578502736350" s="false" lb="Homepage" rc="Non HTTP response code: java.io.IOException" rm="Non HTTP response message: stream is closed" tn="Browser Thread Group 1-1" dt="text" by="2342" ng="8" na="11" hn="Themarkiron">
+  <httpSample t="1" lt="1" ts="1578502736350" s="true" lb="https://electronics.local:9002/yacceleratorstorefront" rc="302" rm="HTTP/1.1 302" tn="Browser Thread Group 1-1" dt="" by="117" ng="8" na="11" hn="Themarkiron">
+    <responseHeader class="java.lang.String">HTTP/1.1 302
+Location: /yacceleratorstorefront/
+Transfer-Encoding: chunked
+Date: Wed, 08 Jan 2020 16:58:55 GMT
+</responseHeader>
+    <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+</requestHeader>
+    <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+    <cookies class="java.lang.String">$Version=0; JSESSIONID=AF078BA696CF5A9529638A431B932F79; $Path=/yacceleratorstorefront; profile.consent.given=false; $Path=/; cookie-notification=NOT_ACCEPTED; $Path=/; JSESSIONID=B184B549B2A34DDF638A85D33559882A; $Path=/; anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; $Path=/</cookies>
+    <method class="java.lang.String">GET</method>
+    <queryString class="java.lang.String"></queryString>
+    <redirectLocation class="java.lang.String">/yacceleratorstorefront/</redirectLocation>
+    <java.net.URL>https://electronics.local:9002/yacceleratorstorefront</java.net.URL>
+  </httpSample>
+  <httpSample t="156" lt="10" ts="1578502736351" s="false" lb="https://electronics.local:9002/yacceleratorstorefront/" rc="Non HTTP response code: java.io.IOException" rm="Non HTTP response message: stream is closed" tn="Browser Thread Group 1-1" dt="text" by="2225" ng="8" na="11" hn="Themarkiron">
+    <responseHeader class="java.lang.String"></responseHeader>
+    <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+</requestHeader>
+    <responseData class="java.lang.String">java.io.IOException: stream is closed
+	at java.base/sun.net.www.http.ChunkedInputStream.ensureOpen(ChunkedInputStream.java:174)
+	at java.base/sun.net.www.http.ChunkedInputStream.read(ChunkedInputStream.java:673)
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection$HttpInputStream.read(HttpURLConnection.java:3495)
+	at org.apache.commons.io.input.ProxyInputStream.read(ProxyInputStream.java:100)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:107)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.readResponse(HTTPSamplerBase.java:1795)
+	at org.apache.jmeter.protocol.http.sampler.HTTPAbstractImpl.readResponse(HTTPAbstractImpl.java:492)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.readResponse(HTTPJavaImpl.java:285)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.sample(HTTPJavaImpl.java:513)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:74)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.followRedirects(HTTPSamplerBase.java:1524)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.resultProcessing(HTTPSamplerBase.java:1617)
+	at org.apache.jmeter.protocol.http.sampler.HTTPAbstractImpl.resultProcessing(HTTPAbstractImpl.java:517)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.sample(HTTPJavaImpl.java:586)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:74)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1166)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1155)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:475)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:418)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:249)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+</responseData>
+    <cookies class="java.lang.String">$Version=0; JSESSIONID=AF078BA696CF5A9529638A431B932F79; $Path=/yacceleratorstorefront; profile.consent.given=false; $Path=/; cookie-notification=NOT_ACCEPTED; $Path=/; JSESSIONID=B184B549B2A34DDF638A85D33559882A; $Path=/; anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; $Path=/</cookies>
+    <method class="java.lang.String">GET</method>
+    <queryString class="java.lang.String"></queryString>
+    <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+</requestHeader>
+  <responseData class="java.lang.String">java.io.IOException: stream is closed
+	at java.base/sun.net.www.http.ChunkedInputStream.ensureOpen(ChunkedInputStream.java:174)
+	at java.base/sun.net.www.http.ChunkedInputStream.read(ChunkedInputStream.java:673)
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection$HttpInputStream.read(HttpURLConnection.java:3495)
+	at org.apache.commons.io.input.ProxyInputStream.read(ProxyInputStream.java:100)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:107)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.readResponse(HTTPSamplerBase.java:1795)
+	at org.apache.jmeter.protocol.http.sampler.HTTPAbstractImpl.readResponse(HTTPAbstractImpl.java:492)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.readResponse(HTTPJavaImpl.java:285)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.sample(HTTPJavaImpl.java:513)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:74)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.followRedirects(HTTPSamplerBase.java:1524)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.resultProcessing(HTTPSamplerBase.java:1617)
+	at org.apache.jmeter.protocol.http.sampler.HTTPAbstractImpl.resultProcessing(HTTPAbstractImpl.java:517)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.sample(HTTPJavaImpl.java:586)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:74)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1166)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1155)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:475)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:418)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:249)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+</responseData>
+  <cookies class="java.lang.String">$Version=0; JSESSIONID=AF078BA696CF5A9529638A431B932F79; $Path=/yacceleratorstorefront; profile.consent.given=false; $Path=/; cookie-notification=NOT_ACCEPTED; $Path=/; JSESSIONID=B184B549B2A34DDF638A85D33559882A; $Path=/; anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; $Path=/</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">/yacceleratorstorefront/</redirectLocation>
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="58" lt="8" ts="1578502736458" s="false" lb="Storefinder Query" rc="Non HTTP response code: javax.net.ssl.SSLProtocolException" rm="Non HTTP response message: Socket closed" tn="Browser Thread Group 1-6" dt="text" by="5234" ng="8" na="11" hn="Themarkiron">
+  <httpSample t="8" lt="8" ts="1578502736458" s="true" lb="https://electronics.local:9002/store-finder?q=19145&amp;page=0" rc="302" rm="HTTP/1.1 302" tn="Browser Thread Group 1-6" dt="" by="470" ng="8" na="11" hn="Themarkiron">
+    <responseHeader class="java.lang.String">HTTP/1.1 302
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: LoginToken=; Max-Age=0; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; HttpOnly
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Location: https://electronics.local:9002/login.jsp
+Content-Length: 0
+Date: Wed, 08 Jan 2020 16:58:55 GMT
+</responseHeader>
+    <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+</requestHeader>
+    <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+    <cookies class="java.lang.String">$Version=0; anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; $Path=/; profile.consent.given=false; $Path=/; cookie-notification=NOT_ACCEPTED; $Path=/; JSESSIONID=0104B097CEB1EB5EC1DD0FCC3648B851; $Path=/</cookies>
+    <method class="java.lang.String">GET</method>
+    <queryString class="java.lang.String"></queryString>
+    <redirectLocation class="java.lang.String">https://electronics.local:9002/login.jsp</redirectLocation>
+    <java.net.URL>https://electronics.local:9002/store-finder?q=19145&amp;page=0</java.net.URL>
+  </httpSample>
+  <httpSample t="50" lt="0" ts="1578502736466" s="false" lb="https://electronics.local:9002/login.jsp" rc="Non HTTP response code: javax.net.ssl.SSLProtocolException" rm="Non HTTP response message: Socket closed" tn="Browser Thread Group 1-6" dt="text" by="4764" ng="8" na="11" hn="Themarkiron">
+    <responseHeader class="java.lang.String"></responseHeader>
+    <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+</requestHeader>
+    <responseData class="java.lang.String">javax.net.ssl.SSLProtocolException: Socket closed
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1963)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1958)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1957)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1525)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1509)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:329)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.readResponse(HTTPJavaImpl.java:260)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.sample(HTTPJavaImpl.java:513)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:74)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.followRedirects(HTTPSamplerBase.java:1524)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.resultProcessing(HTTPSamplerBase.java:1617)
+	at org.apache.jmeter.protocol.http.sampler.HTTPAbstractImpl.resultProcessing(HTTPAbstractImpl.java:517)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.sample(HTTPJavaImpl.java:586)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:74)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1166)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1155)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:475)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:418)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:249)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: javax.net.ssl.SSLProtocolException: Socket closed
+	at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:126)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:321)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:264)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:259)
+	at java.base/sun.security.ssl.SSLSocketImpl.handleException(SSLSocketImpl.java:1314)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:839)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:746)
+	at java.base/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:689)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1604)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1509)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getHeaderField(HttpURLConnection.java:3084)
+	at java.base/java.net.URLConnection.getHeaderFieldLong(URLConnection.java:636)
+	at java.base/java.net.URLConnection.getContentLengthLong(URLConnection.java:508)
+	at java.base/java.net.URLConnection.getContentLength(URLConnection.java:492)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getContentLength(HttpsURLConnectionImpl.java:389)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.readResponse(HTTPJavaImpl.java:226)
+	... 13 more
+Caused by: java.net.SocketException: Socket closed
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:183)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:448)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:68)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1104)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:823)
+	... 26 more
+</responseData>
+    <cookies class="java.lang.String">$Version=0; anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; $Path=/; profile.consent.given=false; $Path=/; cookie-notification=NOT_ACCEPTED; $Path=/; JSESSIONID=0104B097CEB1EB5EC1DD0FCC3648B851; $Path=/</cookies>
+    <method class="java.lang.String">GET</method>
+    <queryString class="java.lang.String"></queryString>
+    <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Accept-Charset: utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept-Language: en;q=0.8,en-us;q=0.5
+</requestHeader>
+  <responseData class="java.lang.String">javax.net.ssl.SSLProtocolException: Socket closed
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1963)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1958)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1957)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1525)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1509)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:329)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.readResponse(HTTPJavaImpl.java:260)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.sample(HTTPJavaImpl.java:513)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:74)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.followRedirects(HTTPSamplerBase.java:1524)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.resultProcessing(HTTPSamplerBase.java:1617)
+	at org.apache.jmeter.protocol.http.sampler.HTTPAbstractImpl.resultProcessing(HTTPAbstractImpl.java:517)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.sample(HTTPJavaImpl.java:586)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:74)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1166)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1155)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:475)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:418)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:249)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: javax.net.ssl.SSLProtocolException: Socket closed
+	at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:126)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:321)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:264)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:259)
+	at java.base/sun.security.ssl.SSLSocketImpl.handleException(SSLSocketImpl.java:1314)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:839)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:746)
+	at java.base/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:689)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1604)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1509)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getHeaderField(HttpURLConnection.java:3084)
+	at java.base/java.net.URLConnection.getHeaderFieldLong(URLConnection.java:636)
+	at java.base/java.net.URLConnection.getContentLengthLong(URLConnection.java:508)
+	at java.base/java.net.URLConnection.getContentLength(URLConnection.java:492)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getContentLength(HttpsURLConnectionImpl.java:389)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.readResponse(HTTPJavaImpl.java:226)
+	... 13 more
+Caused by: java.net.SocketException: Socket closed
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:183)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:448)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:68)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1104)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:823)
+	... 26 more
+</responseData>
+  <cookies class="java.lang.String">$Version=0; anonymous-consents=%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A1%2C%22consentState%22%3Anull%7D%5D; $Path=/; profile.consent.given=false; $Path=/; cookie-notification=NOT_ACCEPTED; $Path=/; JSESSIONID=0104B097CEB1EB5EC1DD0FCC3648B851; $Path=/</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://electronics.local:9002/login.jsp</redirectLocation>
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+
+</testResults>

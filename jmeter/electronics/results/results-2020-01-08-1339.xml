@@ -1,0 +1,2050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="4215" lt="1751" ts="1578501590664" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="69529" ng="12" na="16">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="3295" lt="833" ts="1578501591582" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="69529" ng="3" na="16">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="1649" lt="79" ts="1578501593229" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="69529" ng="12" na="16">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="7838" lt="5374" ts="1578501587044" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="69529" ng="12" na="16">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="5357" lt="2891" ts="1578501589524" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="69529" ng="12" na="16">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="3505" lt="1048" ts="1578501591374" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-5" dt="text" by="69529" ng="12" na="16">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6180" lt="3718" ts="1578501588702" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Checkout Thread Group 3-1" dt="text" by="69529" ng="1" na="16">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="7222" lt="4765" ts="1578501587655" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="69529" ng="3" na="16">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="1078" lt="108" ts="1578501593799" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="69529" ng="12" na="16">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="5576" lt="3112" ts="1578501589303" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="69529" ng="12" na="16">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="2219" lt="161" ts="1578501592661" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="69529" ng="12" na="16">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="4334" lt="1871" ts="1578501590544" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="69529" ng="12" na="16">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="399" lt="131" ts="1578501594803" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="69529" ng="12" na="16">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="111" lt="37" ts="1578501595683" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="2830" ng="3" na="17">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="90" lt="12" ts="1578501595712" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="2830" ng="13" na="17">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="293" lt="284" ts="1578501595528" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="2830" ng="13" na="17">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="33" lt="22" ts="1578501595799" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="2830" ng="13" na="17">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="16" lt="7" ts="1578501595997" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-5" dt="text" by="2830" ng="13" na="17">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="318" lt="85" ts="1578501595720" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="69529" ng="13" na="17">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="16" lt="8" ts="1578501596045" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="2830" ng="13" na="17">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="245" lt="38" ts="1578501595929" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-12" dt="text" by="69529" ng="13" na="17">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="13" lt="7" ts="1578501596253" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="2830" ng="13" na="17">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="13" lt="7" ts="1578501596381" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="2830" ng="14" na="18">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="28" lt="7" ts="1578501596437" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="2830" ng="14" na="18">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="539" lt="59" ts="1578501595947" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-3" dt="text" by="69529" ng="3" na="18">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="16" lt="7" ts="1578501596500" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-12" dt="text" by="2830" ng="14" na="18">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="403" lt="403" ts="1578501596163" s="true" lb="Add To Cart" rc="200" rm="HTTP/1.1 200" tn="Checkout Thread Group 3-1" dt="text" by="2075" ng="1" na="18">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/cart/add</java.net.URL>
+</httpSample>
+<httpSample t="27" lt="18" ts="1578501596606" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="2830" ng="3" na="18">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="319" lt="74" ts="1578501596416" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-13" dt="text" by="69529" ng="14" na="18">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="16" lt="8" ts="1578501596731" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="2830" ng="14" na="18">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="272" lt="2" ts="1578501596551" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="69306" ng="3" na="18">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="16" lt="7" ts="1578501596823" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="2830" ng="14" na="18">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="16" lt="7" ts="1578501596982" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="2830" ng="14" na="18">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="232" lt="41" ts="1578501596807" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-14" dt="text" by="69529" ng="14" na="18">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="10" lt="5" ts="1578501597066" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="2747" ng="15" na="19">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="13" lt="13" ts="1578501597166" s="true" lb="Add To Cart" rc="200" rm="HTTP/1.1 200" tn="Checkout Thread Group 3-1" dt="text" by="2075" ng="1" na="19">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/cart/add</java.net.URL>
+</httpSample>
+<httpSample t="12" lt="4" ts="1578501597208" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="2747" ng="15" na="19">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="4" ts="1578501597242" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="2747" ng="15" na="19">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="3" ts="1578501597391" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-5" dt="text" by="2747" ng="15" na="19">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="10" lt="4" ts="1578501597516" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="2747" ng="15" na="19">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="10" lt="4" ts="1578501597693" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="2747" ng="15" na="19">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="207" lt="40" ts="1578501597501" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-15" dt="text" by="69529" ng="15" na="19">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="194" lt="1" ts="1578501597519" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="69306" ng="15" na="19">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="24" lt="5" ts="1578501597690" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="2747" ng="15" na="19">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="15" lt="6" ts="1578501597984" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="2747" ng="3" na="20">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="18" lt="7" ts="1578501598010" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="2747" ng="16" na="20">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="66" lt="46" ts="1578501598094" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="2747" ng="16" na="20">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="20" lt="12" ts="1578501598241" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="2747" ng="16" na="20">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="26" lt="10" ts="1578501598263" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="2747" ng="3" na="20">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="77" lt="73" ts="1578501598327" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-3" dt="text" by="2830" ng="3" na="20">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="51" lt="44" ts="1578501598353" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="2747" ng="16" na="20">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="28" lt="10" ts="1578501598399" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="2747" ng="16" na="20">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="24" lt="19" ts="1578501598593" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-12" dt="text" by="2747" ng="17" na="23">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="98" lt="89" ts="1578501598520" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-13" dt="text" by="2830" ng="17" na="23">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="62" lt="52" ts="1578501598557" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="2747" ng="17" na="23">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="16" lt="6" ts="1578501598611" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="2747" ng="17" na="23">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="24" lt="18" ts="1578501598682" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-14" dt="text" by="2830" ng="17" na="23">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="100" lt="95" ts="1578501598746" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-15" dt="text" by="2830" ng="17" na="23">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="33" lt="24" ts="1578501598875" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="2747" ng="4" na="23">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="17" lt="17" ts="1578501599226" s="true" lb="Add To Cart" rc="200" rm="HTTP/1.1 200" tn="Checkout Thread Group 3-1" dt="text" by="2075" ng="2" na="23">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/cart/add</java.net.URL>
+</httpSample>
+<httpSample t="42" lt="37" ts="1578501599224" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="2747" ng="17" na="23">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="92" lt="85" ts="1578501599174" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="2747" ng="17" na="23">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="87" lt="81" ts="1578501599180" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-13" dt="text" by="2747" ng="17" na="23">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="13" lt="6" ts="1578501599394" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="2747" ng="4" na="24">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="69" lt="62" ts="1578501599475" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="2747" ng="18" na="24">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="89" lt="71" ts="1578501599465" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="2747" ng="18" na="24">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="78" lt="59" ts="1578501599491" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="2747" ng="18" na="24">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="387" lt="36" ts="1578501599336" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-16" dt="text" by="69529" ng="18" na="24">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="19" lt="5" ts="1578501599749" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-15" dt="text" by="2747" ng="18" na="24">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="386" lt="36" ts="1578501599416" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-4" dt="text" by="69529" ng="4" na="24">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="39" lt="12" ts="1578501599795" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="2747" ng="18" na="24">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="85" lt="77" ts="1578501599756" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-14" dt="text" by="2747" ng="18" na="24">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="437" lt="1" ts="1578501599444" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="69306" ng="18" na="24">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="36" lt="7" ts="1578501599883" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="2747" ng="18" na="24">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="360" lt="27" ts="1578501599595" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-5" dt="text" by="69306" ng="18" na="24">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="284" lt="1" ts="1578501599736" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="69306" ng="18" na="24">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="349" lt="2" ts="1578501599698" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-13" dt="text" by="69306" ng="18" na="24">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="27" lt="20" ts="1578501600034" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="2747" ng="19" na="25">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="59" lt="25" ts="1578501600132" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-12" dt="text" by="2747" ng="19" na="25">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="69" lt="29" ts="1578501600128" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-4" dt="text" by="2830" ng="4" na="25">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="56" lt="27" ts="1578501600143" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-3" dt="text" by="2747" ng="4" na="25">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="33" lt="16" ts="1578501600257" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="2747" ng="4" na="25">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="398" lt="32" ts="1578501599892" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-17" dt="text" by="69529" ng="19" na="25">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="66" lt="16" ts="1578501600353" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="2747" ng="19" na="25">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="30" lt="17" ts="1578501600440" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-16" dt="text" by="2830" ng="19" na="25">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="406" lt="152" ts="1578501600149" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-18" dt="text" by="69529" ng="19" na="25">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="480" lt="3" ts="1578501600110" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="69306" ng="19" na="25">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="484" lt="1" ts="1578501600109" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="69306" ng="19" na="25">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="451" lt="89" ts="1578501600168" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="69306" ng="4" na="25">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="447" lt="106" ts="1578501600196" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Checkout Thread Group 3-2" dt="text" by="69529" ng="2" na="25">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="90" lt="82" ts="1578501600580" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="2747" ng="19" na="25">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="101" lt="88" ts="1578501600577" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="2747" ng="19" na="25">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="17" lt="9" ts="1578501600736" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-5" dt="text" by="2747" ng="19" na="25">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="18" lt="4" ts="1578501600766" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-4" dt="text" by="2747" ng="4" na="25">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="22" lt="17" ts="1578501600935" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="2747" ng="4" na="26">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="199" lt="1" ts="1578501600871" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="69306" ng="20" na="26">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="222" lt="2" ts="1578501600850" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="69306" ng="4" na="26">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="43" lt="29" ts="1578501601177" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-13" dt="text" by="2747" ng="20" na="26">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="137" lt="124" ts="1578501601088" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-3" dt="text" by="2747" ng="4" na="26">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="13" lt="6" ts="1578501601293" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="2747" ng="20" na="26">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="320" lt="33" ts="1578501601086" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-20" dt="text" by="69529" ng="20" na="26">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="70" lt="64" ts="1578501601480" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="2747" ng="21" na="27">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="19" lt="14" ts="1578501601555" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="2747" ng="21" na="27">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="30" lt="18" ts="1578501601551" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="2747" ng="21" na="27">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="17" lt="10" ts="1578501601572" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-14" dt="text" by="2747" ng="21" na="27">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="244" lt="1" ts="1578501601455" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="69306" ng="21" na="27">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="49" lt="45" ts="1578501601762" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="2747" ng="4" na="27">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="307" lt="1" ts="1578501601583" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-5" dt="text" by="69306" ng="21" na="27">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="340" lt="1" ts="1578501601588" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-4" dt="text" by="69306" ng="4" na="27">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="329" lt="2" ts="1578501601625" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="69306" ng="21" na="27">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="155" lt="149" ts="1578501601837" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-15" dt="text" by="2747" ng="21" na="27">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="54" lt="44" ts="1578501601943" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-16" dt="text" by="2747" ng="21" na="27">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="80" lt="67" ts="1578501601926" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-20" dt="text" by="2830" ng="21" na="27">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="27" lt="14" ts="1578501601999" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="2747" ng="21" na="27">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="49" lt="28" ts="1578501601987" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-18" dt="text" by="2830" ng="21" na="27">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="384" lt="54" ts="1578501601713" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-19" dt="text" by="69529" ng="21" na="27">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="21" lt="12" ts="1578501602153" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="2747" ng="21" na="27">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="76" lt="63" ts="1578501602221" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-5" dt="text" by="2747" ng="21" na="27">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="303" lt="2" ts="1578501602152" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="69306" ng="22" na="28">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="64" lt="41" ts="1578501602434" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-17" dt="text" by="2830" ng="22" na="28">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="387" lt="1" ts="1578501602206" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-12" dt="text" by="69306" ng="22" na="28">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="324" lt="4" ts="1578501602412" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="69306" ng="22" na="29">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="136" lt="113" ts="1578501602628" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="2747" ng="22" na="29">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="79" lt="39" ts="1578501602703" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-4" dt="text" by="2747" ng="5" na="29">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="23" lt="11" ts="1578501602788" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-14" dt="text" by="2747" ng="22" na="29">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="17" lt="12" ts="1578501602796" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-17" dt="text" by="2747" ng="22" na="29">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="45" lt="39" ts="1578501602833" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="2747" ng="5" na="29">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="437" lt="2" ts="1578501602478" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="69306" ng="22" na="29">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="412" lt="3" ts="1578501602548" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="69306" ng="5" na="29">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="19" lt="13" ts="1578501602975" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-12" dt="text" by="2747" ng="22" na="29">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="23" lt="12" ts="1578501602988" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-19" dt="text" by="2830" ng="22" na="29">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="29" lt="19" ts="1578501602982" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="2747" ng="22" na="29">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="395" lt="107" ts="1578501602656" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-21" dt="text" by="69529" ng="22" na="29">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="496" lt="1" ts="1578501602607" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-16" dt="text" by="69306" ng="23" na="30">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="43" lt="35" ts="1578501603090" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="2747" ng="23" na="30">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="17" lt="9" ts="1578501603123" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="2747" ng="23" na="30">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="65" lt="45" ts="1578501603085" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-3" dt="text" by="2747" ng="5" na="30">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="51" lt="32" ts="1578501603178" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="2747" ng="23" na="30">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="24" lt="17" ts="1578501603212" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-18" dt="text" by="2747" ng="23" na="30">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="197" lt="31" ts="1578501603043" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-5" dt="text" by="69529" ng="5" na="30">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="24" lt="10" ts="1578501603308" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="2747" ng="23" na="30">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="240" lt="1" ts="1578501603114" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-15" dt="text" by="69306" ng="23" na="30">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="16" lt="12" ts="1578501603401" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="2747" ng="23" na="30">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="28" lt="16" ts="1578501603401" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-17" dt="text" by="2747" ng="23" na="30">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="4" ts="1578501603454" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-12" dt="text" by="2747" ng="23" na="30">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="248" lt="2" ts="1578501603282" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-13" dt="text" by="69306" ng="23" na="30">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="11" lt="5" ts="1578501603624" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-18" dt="text" by="2747" ng="23" na="30">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="10" lt="6" ts="1578501603801" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="2747" ng="24" na="31">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="11" lt="4" ts="1578501603827" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="2747" ng="24" na="31">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="191" lt="1" ts="1578501603721" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="69306" ng="24" na="31">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="58" lt="38" ts="1578501603948" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="2747" ng="24" na="31">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="14" lt="10" ts="1578501604036" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-20" dt="text" by="2747" ng="24" na="31">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="40" lt="30" ts="1578501604014" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-17" dt="text" by="2747" ng="24" na="31">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="199" lt="1" ts="1578501603872" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="69306" ng="24" na="31">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="243" lt="2" ts="1578501603837" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-14" dt="text" by="69306" ng="24" na="31">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="182" lt="1" ts="1578501603939" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="69306" ng="24" na="31">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="4" ts="1578501604190" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-19" dt="text" by="2747" ng="24" na="31">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="211" lt="32" ts="1578501604062" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-22" dt="text" by="69529" ng="24" na="31">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="144" lt="1" ts="1578501604155" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="69306" ng="24" na="31">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501604358" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-4" dt="text" by="2747" ng="5" na="31">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501604366" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="2747" ng="5" na="31">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="10" lt="6" ts="1578501604442" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-16" dt="text" by="2747" ng="24" na="31">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501604465" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-5" dt="text" by="2747" ng="24" na="31">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="5" ts="1578501604482" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-18" dt="text" by="2747" ng="24" na="31">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="176" lt="1" ts="1578501604322" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="69306" ng="24" na="31">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501604503" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="2747" ng="24" na="31">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="4" ts="1578501604698" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="2747" ng="25" na="32">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="10" lt="7" ts="1578501604725" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="2747" ng="5" na="32">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="4" ts="1578501604781" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-4" dt="text" by="2747" ng="5" na="32">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="181" lt="1" ts="1578501604646" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="69306" ng="25" na="32">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501604857" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="2747" ng="25" na="32">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="5" ts="1578501604946" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="2747" ng="5" na="32">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="165" lt="20" ts="1578501604800" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-23" dt="text" by="69529" ng="25" na="32">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501604988" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="2747" ng="25" na="32">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="152" lt="24" ts="1578501604862" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-25" dt="text" by="69529" ng="25" na="32">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="11" lt="7" ts="1578501605031" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-21" dt="text" by="2830" ng="25" na="32">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="159" lt="1" ts="1578501604904" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-5" dt="text" by="69306" ng="5" na="32">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="2" ts="1578501605101" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-3" dt="text" by="2747" ng="5" na="32">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="158" lt="2" ts="1578501604966" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-12" dt="text" by="69306" ng="25" na="32">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501605217" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="2747" ng="25" na="32">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501605263" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="2747" ng="25" na="32">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="2" ts="1578501605281" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-4" dt="text" by="2747" ng="5" na="32">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501605298" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-15" dt="text" by="2747" ng="25" na="32">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="2" ts="1578501605399" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-13" dt="text" by="2747" ng="26" na="33">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501605467" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-18" dt="text" by="2747" ng="26" na="33">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501605469" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-19" dt="text" by="2747" ng="26" na="33">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="14" lt="5" ts="1578501605467" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-22" dt="text" by="2830" ng="26" na="33">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="10" lt="6" ts="1578501605473" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-14" dt="text" by="2747" ng="26" na="33">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="186" lt="1" ts="1578501605381" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-17" dt="text" by="69306" ng="26" na="33">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501605568" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="2747" ng="26" na="33">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="4" ts="1578501605591" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-20" dt="text" by="2747" ng="26" na="33">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="147" lt="29" ts="1578501605495" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-24" dt="text" by="69529" ng="26" na="33">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501605676" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-4" dt="text" by="2747" ng="5" na="33">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="2" ts="1578501605687" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-3" dt="text" by="2747" ng="5" na="33">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="4" ts="1578501605694" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-21" dt="text" by="2747" ng="26" na="33">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="121" lt="1" ts="1578501605651" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="69306" ng="26" na="33">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="31" lt="4" ts="1578501605813" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-16" dt="text" by="2747" ng="26" na="33">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="33" lt="29" ts="1578501605815" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="2747" ng="26" na="33">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="18" lt="15" ts="1578501605845" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-24" dt="text" by="2830" ng="26" na="33">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="4" ts="1578501605910" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="2747" ng="26" na="33">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="202" lt="1" ts="1578501605806" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-15" dt="text" by="69306" ng="26" na="33">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="235" lt="30" ts="1578501605815" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="69306" ng="5" na="33">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="179" lt="9" ts="1578501605932" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="69306" ng="27" na="34">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="148" lt="23" ts="1578501606023" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="69306" ng="27" na="34">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="4" ts="1578501606183" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-23" dt="text" by="2830" ng="27" na="34">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="3" ts="1578501606236" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-17" dt="text" by="2747" ng="27" na="34">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="4123" lt="4123" ts="1578501602152" s="true" lb="Add To Cart" rc="200" rm="HTTP/1.1 200" tn="Checkout Thread Group 3-2" dt="text" by="2672" ng="2" na="34">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/cart/add</java.net.URL>
+</httpSample>
+<httpSample t="5323" lt="5323" ts="1578501600952" s="true" lb="Add To Cart" rc="200" rm="HTTP/1.1 200" tn="Checkout Thread Group 3-1" dt="text" by="2614" ng="2" na="34">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/cart/add</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501606312" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-22" dt="text" by="2747" ng="27" na="34">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501606327" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="2747" ng="27" na="34">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501606350" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="2747" ng="27" na="34">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501606405" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="2747" ng="27" na="34">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="2" ts="1578501606420" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-23" dt="text" by="2747" ng="27" na="34">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="127" lt="1" ts="1578501606318" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-3" dt="text" by="69306" ng="5" na="34">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="139" lt="1" ts="1578501606315" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-13" dt="text" by="69306" ng="27" na="34">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="126" lt="1" ts="1578501606385" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-5" dt="text" by="69306" ng="27" na="34">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="2" ts="1578501606546" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="2747" ng="27" na="34">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="4" ts="1578501606624" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-15" dt="text" by="2747" ng="27" na="35">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="13" lt="7" ts="1578501606644" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-17" dt="text" by="2747" ng="27" na="35">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="14" lt="6" ts="1578501606780" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-18" dt="text" by="2747" ng="27" na="35">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="13" lt="7" ts="1578501606842" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-20" dt="text" by="2747" ng="28" na="36">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="14" lt="7" ts="1578501606854" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="2747" ng="28" na="36">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="12" lt="5" ts="1578501606863" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-12" dt="text" by="2747" ng="28" na="36">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="4" ts="1578501606878" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-4" dt="text" by="2747" ng="6" na="36">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="17" lt="11" ts="1578501606869" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-25" dt="text" by="2830" ng="28" na="36">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="34" lt="26" ts="1578501606950" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="2747" ng="28" na="36">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="269" lt="2" ts="1578501606727" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-16" dt="text" by="69306" ng="28" na="36">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="2" ts="1578501607051" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-14" dt="text" by="2747" ng="28" na="36">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="148" lt="20" ts="1578501606909" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-6" dt="text" by="69529" ng="6" na="36">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="118" lt="1" ts="1578501607050" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-5" dt="text" by="69306" ng="6" na="36">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501607173" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="2747" ng="28" na="36">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="35" lt="22" ts="1578501607328" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-14" dt="text" by="2747" ng="28" na="36">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="70" lt="25" ts="1578501607303" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="2747" ng="28" na="36">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="654" lt="654" ts="1578501606754" s="true" lb="Add To Cart" rc="200" rm="HTTP/1.1 200" tn="Checkout Thread Group 3-2" dt="text" by="2738" ng="2" na="36">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/cart/add</java.net.URL>
+</httpSample>
+<httpSample t="206" lt="1" ts="1578501607229" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-21" dt="text" by="69306" ng="28" na="36">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="72" lt="68" ts="1578501607379" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="2747" ng="28" na="36">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="244" lt="20" ts="1578501607223" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-27" dt="text" by="69529" ng="28" na="36">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="133" lt="126" ts="1578501607340" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="2747" ng="28" na="36">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="14" lt="10" ts="1578501607561" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="2747" ng="29" na="37">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="269" lt="57" ts="1578501607339" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-12" dt="text" by="69306" ng="29" na="37">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="387" lt="37" ts="1578501607311" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="69306" ng="29" na="37">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="255" lt="52" ts="1578501607456" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-26" dt="text" by="69529" ng="29" na="37">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="272" lt="2" ts="1578501607484" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-19" dt="text" by="69306" ng="29" na="37">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="200" lt="2" ts="1578501607625" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-6" dt="text" by="69306" ng="6" na="37">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501607819" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-23" dt="text" by="2747" ng="29" na="37">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="265" lt="2" ts="1578501607576" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-13" dt="text" by="69306" ng="29" na="37">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="188" lt="2" ts="1578501607664" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-3" dt="text" by="69306" ng="6" na="37">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="211" lt="44" ts="1578501607665" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-28" dt="text" by="69529" ng="29" na="37">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501607947" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="2747" ng="6" na="37">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="214" lt="1" ts="1578501607782" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-22" dt="text" by="69306" ng="29" na="37">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501608024" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-5" dt="text" by="2747" ng="29" na="37">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="10" lt="6" ts="1578501608023" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-27" dt="text" by="2830" ng="29" na="37">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="3" ts="1578501608047" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-24" dt="text" by="2747" ng="29" na="37">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="4" ts="1578501608055" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="2747" ng="29" na="37">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="18" lt="4" ts="1578501608046" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="2747" ng="29" na="37">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="165" lt="1" ts="1578501607938" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-17" dt="text" by="69306" ng="29" na="37">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="150" lt="1" ts="1578501608119" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="69306" ng="29" na="37">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501608324" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="2747" ng="30" na="38">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="3" ts="1578501608364" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="2747" ng="6" na="38">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="4" lt="2" ts="1578501608479" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="2747" ng="30" na="38">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="4" ts="1578501608576" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-22" dt="text" by="2747" ng="30" na="38">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="5" ts="1578501608580" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="2747" ng="30" na="38">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="10" lt="7" ts="1578501608582" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-5" dt="text" by="2830" ng="6" na="38">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="119" lt="16" ts="1578501608504" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-29" dt="text" by="69529" ng="30" na="38">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="3" ts="1578501608655" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="2747" ng="30" na="38">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501608705" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-18" dt="text" by="2747" ng="30" na="38">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="5" ts="1578501608707" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-6" dt="text" by="2830" ng="6" na="38">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="3" ts="1578501608761" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-20" dt="text" by="2747" ng="30" na="38">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501608800" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-15" dt="text" by="2747" ng="30" na="38">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="1695" lt="471" ts="1578501607105" s="false" lb="Pickup In Store Search Get" rc="404" rm="HTTP/1.1 404" tn="Cart Thread Group 2-1" dt="text" by="43877" ng="6" na="38">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/store-pickup/#%20-----------------------------------------------------------------------/pointOfServices?cartPage=false&amp;entryNumber=0</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501608819" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="2747" ng="30" na="38">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="4" ts="1578501608866" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-19" dt="text" by="2747" ng="30" na="38">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="241" lt="21" ts="1578501608698" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-30" dt="text" by="69529" ng="30" na="38">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="513" lt="513" ts="1578501608429" s="true" lb="Add To Cart" rc="200" rm="HTTP/1.1 200" tn="Checkout Thread Group 3-2" dt="text" by="2783" ng="2" na="38">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/cart/add</java.net.URL>
+</httpSample>
+<httpSample t="34" lt="26" ts="1578501608913" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="2747" ng="30" na="38">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="10" lt="4" ts="1578501608955" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="2747" ng="30" na="38">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="38" lt="34" ts="1578501608935" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-16" dt="text" by="2747" ng="30" na="38">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="15" lt="9" ts="1578501608988" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-23" dt="text" by="2747" ng="30" na="38">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="11" lt="6" ts="1578501608994" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="2747" ng="30" na="38">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="20" lt="10" ts="1578501608993" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-25" dt="text" by="2747" ng="30" na="38">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="6" ts="1578501609016" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-21" dt="text" by="2747" ng="30" na="38">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="4" ts="1578501609027" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-15" dt="text" by="2747" ng="30" na="38">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501609091" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="2747" ng="31" na="39">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="305" lt="1" ts="1578501608815" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-4" dt="text" by="69306" ng="6" na="39">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="256" lt="3" ts="1578501608867" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-3" dt="text" by="69306" ng="6" na="39">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="203" lt="1" ts="1578501608933" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-12" dt="text" by="69306" ng="31" na="39">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="161" lt="1" ts="1578501609093" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-18" dt="text" by="69306" ng="31" na="39">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501609271" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="2747" ng="31" na="39">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="12" lt="6" ts="1578501609369" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-30" dt="text" by="2830" ng="31" na="39">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="152" lt="25" ts="1578501609271" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="69529" ng="31" na="39">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="150" lt="1" ts="1578501609364" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="69306" ng="31" na="39">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="2" ts="1578501609521" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-6" dt="text" by="2747" ng="6" na="39">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="10" lt="5" ts="1578501609522" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-14" dt="text" by="2747" ng="31" na="39">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="100" lt="44" ts="1578501609464" s="false" lb="Pickup In Store Search Get" rc="404" rm="HTTP/1.1 404" tn="Cart Thread Group 2-4" dt="text" by="43877" ng="6" na="39">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/store-pickup/#%20-----------------------------------------------------------------------/pointOfServices?cartPage=false&amp;entryNumber=0</java.net.URL>
+</httpSample>
+<httpSample t="167" lt="1" ts="1578501609436" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="69306" ng="31" na="39">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="2" ts="1578501609615" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-24" dt="text" by="2747" ng="31" na="39">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="2" ts="1578501609616" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-27" dt="text" by="2747" ng="31" na="39">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="202" lt="2" ts="1578501609466" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-13" dt="text" by="69306" ng="31" na="39">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="11" lt="7" ts="1578501609675" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-29" dt="text" by="2830" ng="31" na="39">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="145" lt="2" ts="1578501609586" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="69306" ng="31" na="39">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501609727" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-5" dt="text" by="2747" ng="31" na="39">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="4" lt="2" ts="1578501609802" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-21" dt="text" by="2747" ng="31" na="39">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="11" lt="8" ts="1578501609804" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-26" dt="text" by="2830" ng="32" na="40">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="5" ts="1578501609829" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="2830" ng="32" na="40">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="13" lt="4" ts="1578501609863" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-5" dt="text" by="2747" ng="6" na="40">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="10" lt="6" ts="1578501609907" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-28" dt="text" by="2830" ng="32" na="40">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="176" lt="1" ts="1578501609826" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="69306" ng="32" na="40">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="3104" lt="1954" ts="1578501606902" s="true" lb="View Cart Page" rc="200" rm="HTTP/1.1 200" tn="Checkout Thread Group 3-1" dt="text" by="67701" ng="2" na="40">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/cart</java.net.URL>
+</httpSample>
+<httpSample t="148" lt="2" ts="1578501609891" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-15" dt="text" by="69306" ng="32" na="40">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="2" ts="1578501610146" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-28" dt="text" by="2747" ng="32" na="40">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="129" lt="2" ts="1578501610026" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="69306" ng="32" na="40">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501610154" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-22" dt="text" by="2747" ng="32" na="40">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501610162" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-19" dt="text" by="2747" ng="32" na="40">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501610261" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="2747" ng="32" na="40">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501610265" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-18" dt="text" by="2747" ng="32" na="40">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501610276" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-16" dt="text" by="2747" ng="32" na="40">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="195" lt="2" ts="1578501610178" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="69306" ng="32" na="40">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="143" lt="44" ts="1578501610292" s="false" lb="Pickup In Store Search Get" rc="404" rm="HTTP/1.1 404" tn="Cart Thread Group 2-2" dt="text" by="43877" ng="6" na="40">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/store-pickup/#%20Copyright%20(c)%202019%20SAP%20SE%20or%20an%20SAP%20affiliate%20company.%20All%20rights%20reserved./pointOfServices?cartPage=false&amp;entryNumber=0</java.net.URL>
+</httpSample>
+<httpSample t="63" lt="3" ts="1578501610377" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="2747" ng="32" na="40">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="227" lt="1" ts="1578501610210" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-17" dt="text" by="69306" ng="32" na="40">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="213" lt="30" ts="1578501610295" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-31" dt="text" by="69529" ng="32" na="40">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="202" lt="41" ts="1578501610328" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="69529" ng="32" na="40">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="2" lt="0" ts="1578501610531" s="false" lb="Update Cart Quantity" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Checkout Thread Group 3-1" dt="text" by="2095" ng="2" na="40">
+  <java.net.URL>https://# -----------------------------------------------------------------------/${path}/cart/update</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501610546" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-27" dt="text" by="2747" ng="32" na="40">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501610580" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="2747" ng="33" na="41">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="3" ts="1578501610622" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-30" dt="text" by="2747" ng="33" na="43">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="11" lt="4" ts="1578501610642" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="2747" ng="33" na="43">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501610650" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-12" dt="text" by="2747" ng="33" na="43">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="164" lt="1" ts="1578501610506" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-20" dt="text" by="69306" ng="33" na="43">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="4" ts="1578501610774" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-21" dt="text" by="2747" ng="33" na="43">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501610802" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-25" dt="text" by="2747" ng="33" na="43">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="149" lt="23" ts="1578501610714" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="69529" ng="7" na="43">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501610888" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-14" dt="text" by="2747" ng="33" na="43">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501610956" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-3" dt="text" by="2747" ng="7" na="43">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="3" ts="1578501610986" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-22" dt="text" by="2747" ng="33" na="43">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="5" ts="1578501610995" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-24" dt="text" by="2747" ng="33" na="43">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="186" lt="27" ts="1578501610877" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-7" dt="text" by="69529" ng="7" na="43">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="11" lt="8" ts="1578501611064" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="2747" ng="33" na="43">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="218" lt="55" ts="1578501610902" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="69529" ng="33" na="43">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="155" lt="1" ts="1578501610972" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-30" dt="text" by="69306" ng="33" na="43">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="10" lt="4" ts="1578501611191" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-26" dt="text" by="2747" ng="33" na="43">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501611207" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="2747" ng="33" na="43">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="139" lt="20" ts="1578501611134" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-33" dt="text" by="69529" ng="33" na="43">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="16" lt="4" ts="1578501611307" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-13" dt="text" by="2747" ng="34" na="44">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="13" lt="10" ts="1578501611311" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-6" dt="text" by="2747" ng="7" na="44">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="146" lt="1" ts="1578501611186" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-23" dt="text" by="69306" ng="34" na="44">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="4" ts="1578501611354" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-22" dt="text" by="2747" ng="34" na="44">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="4" ts="1578501611439" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-15" dt="text" by="2747" ng="34" na="44">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="145" lt="21" ts="1578501611336" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-4" dt="text" by="69529" ng="7" na="44">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="153" lt="1" ts="1578501611370" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-16" dt="text" by="69306" ng="34" na="44">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501611529" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-29" dt="text" by="2747" ng="34" na="44">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="6" ts="1578501611536" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-31" dt="text" by="2830" ng="34" na="44">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501611586" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-28" dt="text" by="2747" ng="34" na="44">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501611599" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="2747" ng="34" na="44">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501611631" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-14" dt="text" by="2747" ng="34" na="44">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="34" lt="31" ts="1578501611632" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="2747" ng="34" na="44">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="183" lt="1" ts="1578501611550" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-18" dt="text" by="69306" ng="34" na="44">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="165" lt="1" ts="1578501611585" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-5" dt="text" by="69306" ng="7" na="44">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="165" lt="21" ts="1578501611606" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="69529" ng="7" na="44">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="172" lt="5" ts="1578501611685" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-5" dt="text" by="69306" ng="34" na="44">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="164" lt="1" ts="1578501611755" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-4" dt="text" by="69306" ng="7" na="44">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501611954" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-23" dt="text" by="2747" ng="34" na="44">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="11" lt="7" ts="1578501611980" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="2830" ng="34" na="44">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="160" lt="30" ts="1578501611902" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="69529" ng="34" na="44">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="144" lt="1" ts="1578501611924" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-25" dt="text" by="69306" ng="35" na="45">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501612104" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="2747" ng="35" na="45">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="209" lt="30" ts="1578501611957" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-32" dt="text" by="69529" ng="35" na="45">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="3" ts="1578501612181" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-17" dt="text" by="2747" ng="35" na="45">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="10" lt="6" ts="1578501612190" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="2747" ng="35" na="45">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="195" lt="59" ts="1578501612055" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-34" dt="text" by="69529" ng="35" na="45">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="216" lt="33" ts="1578501612055" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-20" dt="text" by="69306" ng="35" na="45">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="210" lt="1" ts="1578501612066" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-6" dt="text" by="69306" ng="7" na="45">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="4" ts="1578501612327" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-12" dt="text" by="2747" ng="35" na="45">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="171" lt="31" ts="1578501612177" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="69529" ng="35" na="45">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="5" ts="1578501612380" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="2747" ng="35" na="45">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="158" lt="0" ts="1578501612234" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-19" dt="text" by="69306" ng="35" na="45">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="5" ts="1578501612389" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="2747" ng="35" na="45">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="4" ts="1578501612415" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-27" dt="text" by="2747" ng="35" na="45">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="173" lt="24" ts="1578501612322" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="69529" ng="35" na="45">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="6" ts="1578501612515" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="2830" ng="35" na="45">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="2" ts="1578501612537" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-25" dt="text" by="2747" ng="35" na="45">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="153" lt="23" ts="1578501612433" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="69529" ng="35" na="45">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="149" lt="2" ts="1578501612446" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-30" dt="text" by="69306" ng="35" na="45">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="5" ts="1578501612608" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-21" dt="text" by="2747" ng="35" na="45">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="3" ts="1578501612618" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-28" dt="text" by="2747" ng="35" na="45">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="187" lt="1" ts="1578501612464" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="69306" ng="7" na="45">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="128" lt="22" ts="1578501612633" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Checkout Thread Group 3-1" dt="text" by="69529" ng="3" na="45">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501612768" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-22" dt="text" by="2747" ng="35" na="45">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="12" lt="5" ts="1578501612775" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="2830" ng="35" na="45">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="6" ts="1578501612789" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-7" dt="text" by="2830" ng="7" na="45">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="2" ts="1578501612818" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-24" dt="text" by="2747" ng="36" na="46">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="10" lt="7" ts="1578501612829" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-18" dt="text" by="2747" ng="36" na="46">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="10" lt="6" ts="1578501612854" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="2830" ng="36" na="46">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="174" lt="30" ts="1578501612748" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Checkout Thread Group 3-3" dt="text" by="69529" ng="3" na="46">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501612935" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-19" dt="text" by="2747" ng="36" na="46">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="192" lt="3" ts="1578501612761" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-20" dt="text" by="69306" ng="36" na="46">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="177" lt="33" ts="1578501612795" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="69529" ng="36" na="46">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="2" ts="1578501613014" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-28" dt="text" by="2747" ng="36" na="46">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="6" ts="1578501613014" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-34" dt="text" by="2830" ng="36" na="46">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="4" ts="1578501613112" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-14" dt="text" by="2747" ng="36" na="46">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="144" lt="25" ts="1578501612985" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-35" dt="text" by="69529" ng="36" na="46">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="185" lt="1" ts="1578501612946" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-25" dt="text" by="69306" ng="36" na="46">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="5" ts="1578501613128" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-33" dt="text" by="2830" ng="36" na="46">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="151" lt="3" ts="1578501613082" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-17" dt="text" by="69306" ng="36" na="46">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="5" ts="1578501613226" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="2830" ng="36" na="46">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="137" lt="1" ts="1578501613112" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-5" dt="text" by="69306" ng="7" na="46">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="5" ts="1578501613261" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="2830" ng="7" na="46">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="3" ts="1578501613319" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-26" dt="text" by="2747" ng="36" na="46">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="2" ts="1578501613336" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-31" dt="text" by="2747" ng="36" na="46">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="2" ts="1578501613355" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-15" dt="text" by="2747" ng="36" na="46">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501613362" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-29" dt="text" by="2747" ng="36" na="46">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501613415" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="2747" ng="36" na="46">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="3" ts="1578501613422" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-23" dt="text" by="2747" ng="36" na="46">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="21" lt="9" ts="1578501613410" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="2830" ng="7" na="46">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="14" lt="3" ts="1578501613440" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="2747" ng="36" na="46">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="41" lt="32" ts="1578501613417" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-21" dt="text" by="2747" ng="36" na="46">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="73" lt="65" ts="1578501613502" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-34" dt="text" by="2747" ng="37" na="47">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="55" lt="44" ts="1578501613523" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-16" dt="text" by="2747" ng="37" na="47">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="321" lt="1" ts="1578501613375" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="69306" ng="37" na="47">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="271" lt="87" ts="1578501613441" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-14" dt="text" by="69529" ng="37" na="47">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="238" lt="1" ts="1578501613480" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-5" dt="text" by="69306" ng="7" na="47">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="34" lt="10" ts="1578501613712" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-7" dt="text" by="2747" ng="7" na="47">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="375" lt="28" ts="1578501613392" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-36" dt="text" by="69529" ng="37" na="47">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="369" lt="1" ts="1578501613400" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-13" dt="text" by="69306" ng="37" na="47">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501613766" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-31" dt="text" by="2747" ng="37" na="47">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501613776" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-33" dt="text" by="2747" ng="37" na="47">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="349" lt="2" ts="1578501613470" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-5" dt="text" by="69306" ng="37" na="47">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="263" lt="78" ts="1578501613562" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-12" dt="text" by="69529" ng="37" na="47">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="21" lt="13" ts="1578501613854" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="2747" ng="37" na="47">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="34" lt="30" ts="1578501613844" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="2830" ng="37" na="47">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="4" ts="1578501613894" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-18" dt="text" by="2747" ng="37" na="47">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="2" ts="1578501613957" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-24" dt="text" by="2747" ng="37" na="47">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="197" lt="34" ts="1578501613774" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="69529" ng="37" na="47">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="259" lt="1" ts="1578501613723" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-26" dt="text" by="69306" ng="37" na="47">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="247" lt="0" ts="1578501613766" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-4" dt="text" by="69306" ng="7" na="47">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="11" lt="8" ts="1578501614019" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-20" dt="text" by="2747" ng="37" na="47">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="179" lt="37" ts="1578501613904" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-15" dt="text" by="69529" ng="37" na="47">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501614106" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="2747" ng="37" na="47">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501614106" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-16" dt="text" by="2747" ng="37" na="47">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="124" lt="1" ts="1578501614100" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="69306" ng="37" na="47">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="5" ts="1578501614227" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-32" dt="text" by="2830" ng="37" na="47">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="3" ts="1578501614309" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-6" dt="text" by="2747" ng="7" na="48">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="4" lt="2" ts="1578501614321" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-23" dt="text" by="2747" ng="38" na="48">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501614348" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-17" dt="text" by="2747" ng="38" na="48">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="3" ts="1578501614377" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-27" dt="text" by="2747" ng="38" na="48">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="4" lt="2" ts="1578501614392" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-21" dt="text" by="2747" ng="38" na="48">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="2" ts="1578501614420" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-22" dt="text" by="2747" ng="38" na="48">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="6" ts="1578501614428" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-15" dt="text" by="2830" ng="38" na="48">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="2710" lt="2710" ts="1578501611733" s="true" lb="Pickup In Store Search Get" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-3" dt="text" by="731" ng="7" na="48">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/store-pickup/2938457/pointOfServices?cartPage=false&amp;entryNumber=0</java.net.URL>
+</httpSample>
+<httpSample t="3610" lt="3610" ts="1578501610847" s="true" lb="Add To Cart" rc="200" rm="HTTP/1.1 200" tn="Checkout Thread Group 3-2" dt="text" by="2682" ng="3" na="48">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/cart/add</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501614462" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-30" dt="text" by="2766" ng="38" na="48">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="3" ts="1578501614494" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="2747" ng="7" na="48">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501614496" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="2747" ng="38" na="48">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="538" lt="538" ts="1578501613993" s="true" lb="Add To Cart" rc="200" rm="HTTP/1.1 200" tn="Checkout Thread Group 3-1" dt="text" by="2460" ng="3" na="48">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/cart/add</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501614614" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="2747" ng="38" na="49">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="17" lt="14" ts="1578501614633" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-23" dt="text" by="2747" ng="38" na="49">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501614648" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="2747" ng="38" na="49">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="123" lt="15" ts="1578501614546" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-18" dt="text" by="69529" ng="38" na="49">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="130" lt="15" ts="1578501614546" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-5" dt="text" by="69529" ng="38" na="49">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="4" lt="2" ts="1578501614697" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="2747" ng="38" na="49">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501614797" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-32" dt="text" by="2747" ng="38" na="49">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="4" lt="1" ts="1578501614842" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-22" dt="text" by="2747" ng="38" na="49">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501614846" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-26" dt="text" by="2747" ng="38" na="49">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="4" ts="1578501614893" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-12" dt="text" by="2830" ng="38" na="49">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="4" ts="1578501614927" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-29" dt="text" by="2747" ng="38" na="49">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="10" lt="4" ts="1578501614926" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-19" dt="text" by="2747" ng="38" na="49">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="5" ts="1578501614962" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="2830" ng="38" na="49">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="120" lt="17" ts="1578501614871" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="69529" ng="38" na="49">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="4" ts="1578501614991" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-15" dt="text" by="2747" ng="38" na="49">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="119" lt="1" ts="1578501614900" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="69306" ng="38" na="49">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501615040" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-28" dt="text" by="2747" ng="38" na="49">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501615043" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="2747" ng="8" na="49">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501615054" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-23" dt="text" by="2747" ng="38" na="49">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501615062" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-33" dt="text" by="2747" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="4" lt="2" ts="1578501615096" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-13" dt="text" by="2747" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="5" ts="1578501615148" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-18" dt="text" by="2830" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="3" ts="1578501615166" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-12" dt="text" by="2747" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="23" lt="21" ts="1578501615167" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-25" dt="text" by="2747" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="30" lt="17" ts="1578501615228" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-31" dt="text" by="2747" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="52" lt="48" ts="1578501615229" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-35" dt="text" by="2830" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578501615311" s="false" lb="Add To Cart Pickup In Store" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Cart Thread Group 2-3" dt="text" by="2095" ng="8" na="50">
+  <java.net.URL>https://# -----------------------------------------------------------------------/${path}/store-pickup/cart/add</java.net.URL>
+</httpSample>
+<httpSample t="162" lt="24" ts="1578501615188" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-8" dt="text" by="69529" ng="8" na="50">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="5" ts="1578501615342" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-30" dt="text" by="2747" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="196" lt="19" ts="1578501615155" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-38" dt="text" by="69529" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501615431" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-20" dt="text" by="2747" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="203" lt="38" ts="1578501615243" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="69306" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="206" lt="40" ts="1578501615278" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-37" dt="text" by="69529" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="4" lt="2" ts="1578501615494" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-28" dt="text" by="2747" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="4" lt="2" ts="1578501615535" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-15" dt="text" by="2747" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="5" ts="1578501615537" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="2830" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="4" ts="1578501615542" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="2747" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="10" lt="5" ts="1578501615541" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-36" dt="text" by="2830" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501615566" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-24" dt="text" by="2747" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="4" ts="1578501615626" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-35" dt="text" by="2747" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="10" lt="6" ts="1578501615639" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-4" dt="text" by="2830" ng="8" na="50">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="4" ts="1578501615686" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="2747" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="11" lt="6" ts="1578501615685" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-5" dt="text" by="2830" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="146" lt="1" ts="1578501615552" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-7" dt="text" by="69306" ng="8" na="50">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="11" lt="8" ts="1578501615722" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-14" dt="text" by="2830" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="6" ts="1578501615729" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="2830" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="10" lt="5" ts="1578501615734" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-38" dt="text" by="2830" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="166" lt="2" ts="1578501615625" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-30" dt="text" by="69306" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="143" lt="1" ts="1578501615655" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-34" dt="text" by="69306" ng="39" na="50">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501615816" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="2747" ng="40" na="51">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="836" lt="836" ts="1578501615028" s="true" lb="Add To Cart" rc="200" rm="HTTP/1.1 200" tn="Checkout Thread Group 3-3" dt="text" by="2583" ng="3" na="51">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/cart/add</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501615868" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-5" dt="text" by="2747" ng="8" na="51">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501615879" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="2747" ng="40" na="51">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="15" lt="11" ts="1578501615916" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-31" dt="text" by="2747" ng="40" na="51">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="781" lt="781" ts="1578501615159" s="true" lb="Add To Cart" rc="200" rm="HTTP/1.1 200" tn="Checkout Thread Group 3-1" dt="text" by="2844" ng="3" na="51">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/cart/add</java.net.URL>
+</httpSample>
+<httpSample t="1099" lt="537" ts="1578501614874" s="true" lb="View Cart Page" rc="200" rm="HTTP/1.1 200" tn="Checkout Thread Group 3-2" dt="text" by="83934" ng="3" na="51">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/cart</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="2" ts="1578501615970" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-6" dt="text" by="2747" ng="8" na="51">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501615979" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="2747" ng="40" na="51">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="11" lt="8" ts="1578501615997" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-16" dt="text" by="2747" ng="40" na="51">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501616012" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-29" dt="text" by="2747" ng="40" na="51">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="24" lt="21" ts="1578501616033" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-36" dt="text" by="2747" ng="40" na="51">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="162" lt="2" ts="1578501615907" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="69306" ng="40" na="51">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501616117" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-21" dt="text" by="2747" ng="40" na="51">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="14" lt="4" ts="1578501616117" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-32" dt="text" by="2747" ng="40" na="51">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="16" lt="14" ts="1578501616117" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-34" dt="text" by="2747" ng="40" na="51">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="17" lt="14" ts="1578501616117" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-12" dt="text" by="2747" ng="40" na="51">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="156" lt="0" ts="1578501615997" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-33" dt="text" by="69306" ng="40" na="51">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="4" lt="2" ts="1578501616302" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="2747" ng="40" na="51">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="3" lt="1" ts="1578501616348" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-19" dt="text" by="2747" ng="40" na="51">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="4" ts="1578501616392" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-30" dt="text" by="2747" ng="40" na="51">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="4" ts="1578501616484" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="2747" ng="40" na="51">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="3" ts="1578501616485" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-20" dt="text" by="2747" ng="40" na="51">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501616498" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-26" dt="text" by="2747" ng="40" na="51">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="2" ts="1578501616531" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="2747" ng="40" na="51">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="191" lt="21" ts="1578501616348" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-17" dt="text" by="69529" ng="40" na="51">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="159" lt="1" ts="1578501616408" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-27" dt="text" by="69306" ng="41" na="52">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="162" lt="46" ts="1578501616426" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-40" dt="text" by="69529" ng="41" na="52">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="121" lt="1" ts="1578501616514" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-8" dt="text" by="69306" ng="8" na="52">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578501616635" s="false" lb="Remove From Cart" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Checkout Thread Group 3-2" dt="text" by="2095" ng="3" na="52">
+  <java.net.URL>https://# -----------------------------------------------------------------------/${path}/cart/update</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501616660" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="2747" ng="41" na="52">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="3" ts="1578501616676" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-36" dt="text" by="2747" ng="41" na="52">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="116" lt="21" ts="1578501616569" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-13" dt="text" by="69529" ng="41" na="52">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501616725" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-20" dt="text" by="2747" ng="41" na="52">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="1" ts="1578501616729" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="2747" ng="41" na="52">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="5" ts="1578501616742" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-31" dt="text" by="2747" ng="41" na="52">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="5" ts="1578501616763" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-14" dt="text" by="2747" ng="41" na="52">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="134" lt="1" ts="1578501616664" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="69306" ng="8" na="52">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501616796" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-24" dt="text" by="2747" ng="41" na="52">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="2" ts="1578501616854" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-32" dt="text" by="2747" ng="41" na="52">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="3" ts="1578501616891" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="2747" ng="41" na="52">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="3" ts="1578501616905" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-28" dt="text" by="2747" ng="41" na="52">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="170" lt="4" ts="1578501616747" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-4" dt="text" by="69306" ng="8" na="52">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="14" lt="11" ts="1578501616911" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-23" dt="text" by="2747" ng="41" na="52">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501616926" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-15" dt="text" by="2747" ng="41" na="52">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="171" lt="26" ts="1578501616867" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-16" dt="text" by="69529" ng="41" na="52">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="34" lt="30" ts="1578501617028" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-5" dt="text" by="2747" ng="41" na="52">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501617082" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-36" dt="text" by="2747" ng="41" na="52">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="52" lt="12" ts="1578501617070" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="2747" ng="41" na="52">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="52" lt="49" ts="1578501617156" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-32" dt="text" by="2747" ng="41" na="52">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="25" lt="19" ts="1578501617186" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-23" dt="text" by="2747" ng="41" na="52">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="294" lt="1" ts="1578501616972" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="69306" ng="8" na="52">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="16" lt="14" ts="1578501617262" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-5" dt="text" by="2747" ng="8" na="52">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="92" lt="89" ts="1578501617186" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-18" dt="text" by="2747" ng="41" na="52">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="4" ts="1578501617280" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-16" dt="text" by="2830" ng="41" na="52">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="317" lt="1" ts="1578501616977" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="69306" ng="41" na="52">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="301" lt="0" ts="1578501617003" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="69306" ng="41" na="52">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="102" lt="99" ts="1578501617204" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-7" dt="text" by="2747" ng="8" na="52">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="322" lt="1" ts="1578501616995" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-22" dt="text" by="69306" ng="42" na="53">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="5" ts="1578501617327" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-40" dt="text" by="2830" ng="42" na="53">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="5" ts="1578501617349" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-37" dt="text" by="2830" ng="42" na="53">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="4" lt="2" ts="1578501617388" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="2747" ng="42" na="53">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501617387" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-25" dt="text" by="2747" ng="42" na="53">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501617389" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-35" dt="text" by="2747" ng="42" na="53">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="323" lt="6" ts="1578501617076" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="69306" ng="8" na="53">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="323" lt="121" ts="1578501617083" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-3" dt="text" by="69529" ng="8" na="53">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="165" lt="35" ts="1578501617262" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-39" dt="text" by="69529" ng="42" na="53">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501617501" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="2747" ng="8" na="53">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501617569" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-26" dt="text" by="2747" ng="42" na="53">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="154" lt="23" ts="1578501617442" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Checkout Thread Group 3-2" dt="text" by="69529" ng="3" na="53">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="154" lt="1" ts="1578501617495" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="69306" ng="42" na="53">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501617665" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="2747" ng="42" na="53">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501617686" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-21" dt="text" by="2747" ng="42" na="53">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="4" ts="1578501617684" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="2747" ng="42" na="53">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="144" lt="0" ts="1578501617595" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="69306" ng="42" na="53">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501617869" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="2747" ng="42" na="53">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="160" lt="1" ts="1578501617731" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-6" dt="text" by="69306" ng="8" na="53">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501617933" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-38" dt="text" by="2747" ng="42" na="53">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501617968" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="2747" ng="42" na="53">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="153" lt="1" ts="1578501617880" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-36" dt="text" by="69306" ng="42" na="53">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="3" ts="1578501618036" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-29" dt="text" by="2747" ng="42" na="53">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501618048" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-32" dt="text" by="2747" ng="42" na="53">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="6" ts="1578501618055" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-39" dt="text" by="2830" ng="42" na="53">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501618137" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="2747" ng="43" na="54">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="35" lt="32" ts="1578501618138" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-37" dt="text" by="2747" ng="43" na="54">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501618196" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-27" dt="text" by="2747" ng="43" na="54">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501618212" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-12" dt="text" by="2747" ng="43" na="54">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="147" lt="1" ts="1578501618072" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-19" dt="text" by="69306" ng="43" na="54">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="4" ts="1578501618219" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-33" dt="text" by="2747" ng="43" na="54">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="140" lt="0" ts="1578501618088" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-34" dt="text" by="69306" ng="43" na="54">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="10" lt="5" ts="1578501618252" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-15" dt="text" by="2747" ng="43" na="54">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="10" lt="6" ts="1578501618253" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-4" dt="text" by="2747" ng="8" na="54">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="146" lt="8" ts="1578501618177" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="69306" ng="8" na="54">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="4" ts="1578501618347" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-3" dt="text" by="2830" ng="8" na="54">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="95" lt="15" ts="1578501618382" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-41" dt="text" by="69529" ng="43" na="54">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501618473" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-26" dt="text" by="2747" ng="43" na="54">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="4" lt="1" ts="1578501618484" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-30" dt="text" by="2747" ng="43" na="54">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501618494" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="2747" ng="43" na="54">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501618512" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="2747" ng="43" na="54">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="124" lt="0" ts="1578501618408" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-37" dt="text" by="69306" ng="43" na="54">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="2" ts="1578501618538" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-24" dt="text" by="2747" ng="43" na="54">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501618572" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-28" dt="text" by="2747" ng="43" na="54">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501618606" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-39" dt="text" by="2747" ng="43" na="55">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="5" ts="1578501618620" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-13" dt="text" by="2830" ng="43" na="55">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="141" lt="29" ts="1578501618499" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-23" dt="text" by="69529" ng="43" na="55">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="5" ts="1578501618639" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-17" dt="text" by="2830" ng="43" na="55">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="2" ts="1578501618652" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-7" dt="text" by="2747" ng="9" na="55">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="11" lt="8" ts="1578501618657" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-8" dt="text" by="2830" ng="9" na="55">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501618690" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="2747" ng="9" na="55">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501618706" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-14" dt="text" by="2747" ng="43" na="55">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="145" lt="1" ts="1578501618647" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-35" dt="text" by="69306" ng="43" na="55">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501618791" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-33" dt="text" by="2747" ng="43" na="55">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="549" lt="546" ts="1578501618323" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="2747" ng="44" na="56">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="4" lt="1" ts="1578501618896" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-3" dt="text" by="2747" ng="9" na="56">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501618900" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="2747" ng="44" na="56">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="2" ts="1578501618906" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-31" dt="text" by="2747" ng="44" na="56">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="3" ts="1578501618908" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="2747" ng="44" na="56">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="130" lt="23" ts="1578501618805" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-20" dt="text" by="69529" ng="44" na="56">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501618975" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="2747" ng="44" na="56">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="4" lt="2" ts="1578501619032" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-5" dt="text" by="2747" ng="9" na="56">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578501619038" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-21" dt="text" by="2747" ng="44" na="56">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="38" lt="35" ts="1578501619050" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-37" dt="text" by="2747" ng="46" na="58">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="42" lt="4" ts="1578501619049" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-24" dt="text" by="2747" ng="46" na="58">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="45" lt="2" ts="1578501619049" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="2747" ng="44" na="56">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="72" lt="57" ts="1578501619058" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-22" dt="text" by="2747" ng="41" na="53">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="124" lt="119" ts="1578501619050" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-36" dt="text" by="2747" ng="41" na="53">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="124" lt="121" ts="1578501619050" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-14" dt="text" by="2747" ng="41" na="53">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="102" lt="89" ts="1578501619093" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-20" dt="text" by="2830" ng="40" na="52">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="103" lt="99" ts="1578501619119" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-25" dt="text" by="2747" ng="39" na="51">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="192" lt="189" ts="1578501619128" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-5" dt="text" by="2747" ng="38" na="50">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="180" lt="0" ts="1578501619204" s="false" lb="Search Page" rc="Non HTTP response code: java.net.SocketException" rm="Non HTTP response message: Unexpected end of file from server" tn="Cart Thread Group 2-2" dt="text" by="2985" ng="9" na="49">
+  <java.net.URL>https://electronics.local:9002/search?text=Z700</java.net.URL>
+</httpSample>
+<httpSample t="213" lt="0" ts="1578501619180" s="false" lb="Storefinder Page" rc="Non HTTP response code: javax.net.ssl.SSLProtocolException" rm="Non HTTP response message: Socket closed" tn="Browser Thread Group 1-23" dt="text" by="4270" ng="37" na="48">
+  <java.net.URL>https://electronics.local:9002/store-finder</java.net.URL>
+</httpSample>
+<httpSample t="275" lt="0" ts="1578501619132" s="false" lb="Search Page" rc="Non HTTP response code: javax.net.ssl.SSLProtocolException" rm="Non HTTP response message: Socket closed" tn="Cart Thread Group 2-8" dt="text" by="4518" ng="8" na="47">
+  <java.net.URL>https://electronics.local:9002/search?text=VIDEOTAPE</java.net.URL>
+</httpSample>
+<httpSample t="1888" lt="0" ts="1578501617520" s="false" lb="Add To Cart" rc="Non HTTP response code: java.net.SocketException" rm="Non HTTP response message: Unexpected end of file from server" tn="Checkout Thread Group 3-3" dt="text" by="2985" ng="3" na="46">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/cart/add</java.net.URL>
+</httpSample>
+<httpSample t="313" lt="93" ts="1578501619075" s="false" lb="Homepage" rc="Non HTTP response code: java.io.IOException" rm="Non HTTP response message: stream is closed" tn="Cart Thread Group 2-9" dt="text" by="1732" ng="7" na="45">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="239" lt="0" ts="1578501619173" s="false" lb="Storefinder Query" rc="Non HTTP response code: javax.net.ssl.SSLProtocolException" rm="Non HTTP response message: Socket closed" tn="Browser Thread Group 1-40" dt="text" by="4270" ng="36" na="44">
+  <java.net.URL>https://electronics.local:9002/store-finder?q=78255&amp;page=0</java.net.URL>
+</httpSample>
+<httpSample t="363" lt="214" ts="1578501619050" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-35" dt="text" by="2747" ng="35" na="43">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="1492" lt="0" ts="1578501617924" s="false" lb="Add To Cart" rc="Non HTTP response code: javax.net.ssl.SSLProtocolException" rm="Non HTTP response message: Socket closed" tn="Checkout Thread Group 3-1" dt="text" by="4270" ng="2" na="42">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/cart/add</java.net.URL>
+</httpSample>
+<httpSample t="369" lt="1" ts="1578501619050" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="69306" ng="34" na="41">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="323" lt="313" ts="1578501619103" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-12" dt="text" by="2747" ng="33" na="40">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="321" lt="197" ts="1578501619119" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-39" dt="text" by="2747" ng="32" na="39">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="331" lt="282" ts="1578501619111" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-32" dt="text" by="2747" ng="31" na="38">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="333" lt="215" ts="1578501619115" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="2747" ng="30" na="37">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="418" lt="59" ts="1578501619052" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-18" dt="text" by="69306" ng="29" na="36">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="380" lt="223" ts="1578501619108" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-13" dt="text" by="2747" ng="28" na="35">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="397" lt="305" ts="1578501619096" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-26" dt="text" by="2747" ng="27" na="34">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="380" lt="352" ts="1578501619119" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-16" dt="text" by="2747" ng="26" na="33">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="407" lt="384" ts="1578501619092" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-19" dt="text" by="2747" ng="25" na="32">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="151" lt="126" ts="1578501619352" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-28" dt="text" by="2747" ng="24" na="31">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="413" lt="382" ts="1578501619092" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="2747" ng="23" na="30">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="448" lt="311" ts="1578501619119" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="2747" ng="22" na="29">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="466" lt="365" ts="1578501619107" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="2747" ng="21" na="28">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="219" lt="209" ts="1578501619371" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-17" dt="text" by="2747" ng="20" na="27">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="269" lt="226" ts="1578501619352" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-33" dt="text" by="2747" ng="19" na="26">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="264" lt="259" ts="1578501619372" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-14" dt="text" by="2747" ng="18" na="25">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="274" lt="265" ts="1578501619374" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-4" dt="text" by="2747" ng="6" na="24">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="336" lt="300" ts="1578501619316" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-30" dt="text" by="2747" ng="17" na="23">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="290" lt="282" ts="1578501619363" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-29" dt="text" by="2747" ng="16" na="22">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="301" lt="291" ts="1578501619362" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-15" dt="text" by="2747" ng="15" na="21">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="577" lt="63" ts="1578501619091" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-42" dt="text" by="69529" ng="14" na="20">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="300" lt="295" ts="1578501619371" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-41" dt="text" by="2830" ng="13" na="19">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="309" lt="250" ts="1578501619371" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-7" dt="text" by="2747" ng="5" na="18">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="323" lt="319" ts="1578501619362" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="2747" ng="12" na="17">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="309" lt="302" ts="1578501619379" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-34" dt="text" by="2747" ng="11" na="16">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="349" lt="314" ts="1578501619384" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-6" dt="text" by="2747" ng="4" na="15">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="347" lt="313" ts="1578501619388" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="2747" ng="3" na="14">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="344" lt="344" ts="1578501619394" s="true" lb="Pickup In Store Search Get" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-5" dt="text" by="731" ng="2" na="13">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/store-pickup/1992697/pointOfServices?cartPage=false&amp;entryNumber=0</java.net.URL>
+</httpSample>
+<httpSample t="668" lt="217" ts="1578501619111" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-43" dt="text" by="69529" ng="10" na="12">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="699" lt="221" ts="1578501619108" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-44" dt="text" by="69529" ng="9" na="11">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="796" lt="11" ts="1578501619049" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-27" dt="text" by="69306" ng="8" na="10">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="789" lt="229" ts="1578501619100" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-31" dt="text" by="69306" ng="7" na="9">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="801" lt="408" ts="1578501619096" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-21" dt="text" by="69529" ng="6" na="8">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="527" lt="275" ts="1578501619371" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-3" dt="text" by="69306" ng="1" na="8">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="809" lt="331" ts="1578501619096" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="69306" ng="5" na="6">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="566" lt="322" ts="1578501619371" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-38" dt="text" by="69306" ng="4" na="5">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="832" lt="222" ts="1578501619108" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="69306" ng="3" na="4">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/</java.net.URL>
+</httpSample>
+<httpSample t="878" lt="876" ts="1578501619368" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-5" dt="text" by="2747" ng="2" na="3">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="1320" lt="313" ts="1578501619119" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="2747" ng="1" na="2">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="1304" lt="1304" ts="1578501619388" s="true" lb="Add To Cart" rc="200" rm="HTTP/1.1 200" tn="Checkout Thread Group 3-2" dt="text" by="2497" ng="1" na="1">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/cart/add</java.net.URL>
+</httpSample>
+
+</testResults>

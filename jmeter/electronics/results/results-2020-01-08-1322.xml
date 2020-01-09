@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="5" lt="0" ts="1578500541848" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Checkout Thread Group 3-1" dt="text" by="2095" ng="1" na="3">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="366" lt="166" ts="1578500542629" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Checkout Thread Group 3-1" dt="text" by="2830" ng="1" na="4">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500543197" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-1" dt="text" by="2095" ng="3" na="5">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="2" lt="0" ts="1578500543330" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Cart Thread Group 2-1" dt="text" by="2099" ng="1" na="5">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved./?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500543480" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Browser Thread Group 1-3" dt="text" by="2099" ng="3" na="5">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved./?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500543651" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-1" dt="text" by="2095" ng="3" na="5">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500543974" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-2" dt="text" by="2095" ng="4" na="6">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="13" lt="10" ts="1578500544538" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="2830" ng="1" na="6">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500544622" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Browser Thread Group 1-1" dt="text" by="2099" ng="5" na="7">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved./?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500544822" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-5" dt="text" by="2095" ng="5" na="7">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500544873" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-4" dt="text" by="2095" ng="5" na="7">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500545181" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-5" dt="text" by="2095" ng="5" na="7">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500545471" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-3" dt="text" by="2095" ng="6" na="8">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="19" lt="17" ts="1578500545603" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="2830" ng="6" na="8">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500545865" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Browser Thread Group 1-6" dt="text" by="2099" ng="6" na="9">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved./?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500545959" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-5" dt="text" by="2095" ng="6" na="9">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="4" ts="1578500546142" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="2830" ng="2" na="10">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="1616" lt="12" ts="1578500544607" s="true" lb="Add To Cart" rc="200" rm="HTTP/1.1 200" tn="Checkout Thread Group 3-1" dt="text" by="48272" ng="1" na="10">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/login</java.net.URL>
+</httpSample>
+<httpSample t="860" lt="28" ts="1578500545364" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="48272" ng="2" na="10">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/login</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500546298" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-3" dt="text" by="2095" ng="7" na="10">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500546342" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-6" dt="text" by="2095" ng="7" na="10">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500546433" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Browser Thread Group 1-5" dt="text" by="2099" ng="7" na="10">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved./?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="84" lt="12" ts="1578500546465" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="48272" ng="7" na="10">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/login</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500546552" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Browser Thread Group 1-1" dt="text" by="2099" ng="7" na="10">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved./?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="12" lt="6" ts="1578500546747" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="2830" ng="7" na="10">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500546898" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-1" dt="text" by="2095" ng="8" na="11">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500547141" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-6" dt="text" by="2095" ng="8" na="11">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="43" lt="19" ts="1578500547341" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="42574" ng="2" na="11">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=# -----------------------------------------------------------------------</java.net.URL>
+</httpSample>
+<httpSample t="64" lt="5" ts="1578500547428" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="48272" ng="2" na="11">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/login</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500547534" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-7" dt="text" by="2095" ng="8" na="11">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="56" lt="8" ts="1578500547487" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="48272" ng="8" na="11">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/login</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500547835" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Browser Thread Group 1-5" dt="text" by="2099" ng="9" na="12">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved./?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="52" lt="52" ts="1578500547866" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="11028" ng="9" na="12">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/store-finder?q=%24%7Bpostcode%7D&amp;page=0</java.net.URL>
+</httpSample>
+<httpSample t="13" lt="13" ts="1578500547983" s="false" lb="Add To Cart" rc="405" rm="HTTP/1.1 405" tn="Checkout Thread Group 3-1" dt="text" by="519" ng="1" na="12">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/cart/add</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="5" ts="1578500548127" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="2830" ng="9" na="12">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="179" lt="75" ts="1578500548000" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="144893" ng="2" na="12">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=Cameras</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500548264" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-5" dt="text" by="2095" ng="9" na="12">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="14" lt="9" ts="1578500548267" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="2830" ng="9" na="12">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500548327" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Browser Thread Group 1-6" dt="text" by="2099" ng="9" na="12">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved./?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="49" lt="49" ts="1578500548355" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="11028" ng="10" na="13">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/store-finder?q=%24%7Bpostcode%7D&amp;page=0</java.net.URL>
+</httpSample>
+<httpSample t="16" lt="10" ts="1578500548533" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="2830" ng="10" na="13">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="168" lt="40" ts="1578500548542" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="69189" ng="10" na="13">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en</java.net.URL>
+</httpSample>
+<httpSample t="162" lt="60" ts="1578500548549" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="128806" ng="2" na="13">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=Accessories</java.net.URL>
+</httpSample>
+<httpSample t="58" lt="24" ts="1578500548743" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="62452" ng="2" na="13">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Brands/Sweex/c/brand_702</java.net.URL>
+</httpSample>
+<httpSample t="60" lt="23" ts="1578500548802" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="85651" ng="10" na="13">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Brands/HP/c/brand_1</java.net.URL>
+</httpSample>
+<httpSample t="343" lt="13" ts="1578500548567" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="48272" ng="10" na="13">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/login</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500548912" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-1" dt="text" by="2095" ng="10" na="13">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500549037" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-7" dt="text" by="2095" ng="10" na="13">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="97" lt="53" ts="1578500549212" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="65097" ng="2" na="14">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Open-Catalogue/Data-storage/Flash-Memory/8GB-SD-Card/p/4852405</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500549423" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-10" dt="text" by="2095" ng="11" na="14">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="73" lt="12" ts="1578500549351" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="69189" ng="2" na="14">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en</java.net.URL>
+</httpSample>
+<httpSample t="47" lt="5" ts="1578500549407" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="48272" ng="11" na="14">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/login</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500549638" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Checkout Thread Group 3-1" dt="text" by="2099" ng="1" na="15">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved.:9002/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="5" ts="1578500549678" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="2830" ng="11" na="15">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="137" lt="61" ts="1578500549552" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="137111" ng="11" na="15">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Open-Catalogue/Data-storage/c/206</java.net.URL>
+</httpSample>
+<httpSample t="20" lt="20" ts="1578500549698" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="10968" ng="11" na="15">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/store-finder?q=37475&amp;page=0</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500549745" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-5" dt="text" by="2095" ng="11" na="15">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="21" lt="21" ts="1578500549734" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="10968" ng="11" na="15">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/store-finder?q=73167&amp;page=0</java.net.URL>
+</httpSample>
+<httpSample t="77" lt="14" ts="1578500549782" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="69189" ng="3" na="16">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en</java.net.URL>
+</httpSample>
+<httpSample t="46" lt="4" ts="1578500549872" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="48272" ng="12" na="16">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/login</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500549923" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Cart Thread Group 2-3" dt="text" by="2099" ng="3" na="16">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved./?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578500550019" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="2830" ng="12" na="16">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500550038" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Browser Thread Group 1-1" dt="text" by="2099" ng="12" na="16">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved./?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500550301" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-10" dt="text" by="2095" ng="12" na="16">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="93" lt="10" ts="1578500550280" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="48272" ng="12" na="16">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/login</java.net.URL>
+</httpSample>
+<httpSample t="86" lt="15" ts="1578500550324" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="69189" ng="12" na="16">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en</java.net.URL>
+</httpSample>
+<httpSample t="92" lt="47" ts="1578500550322" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="79233" ng="3" na="16">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Open-Catalogue/Cameras/Digital-Cameras/Digital-Compacts/Photosmart-E317-Digital-Camera/p/300938</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500550464" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-1" dt="text" by="2095" ng="12" na="16">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="24" lt="23" ts="1578500550715" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="10968" ng="13" na="17">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/store-finder?q=95360&amp;page=0</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500550881" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Checkout Thread Group 3-1" dt="text" by="2095" ng="1" na="17">
+  <java.net.URL>https://# -----------------------------------------------------------------------:9002/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500550976" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-7" dt="text" by="2095" ng="13" na="17">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="6" ts="1578500551021" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="2830" ng="13" na="17">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="167" lt="77" ts="1578500550880" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="175984" ng="13" na="17">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=Battery</java.net.URL>
+</httpSample>
+<httpSample t="153" lt="63" ts="1578500550898" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="143058" ng="3" na="17">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Open-Catalogue/c/1</java.net.URL>
+</httpSample>
+<httpSample t="20" lt="20" ts="1578500551096" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="11028" ng="13" na="17">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/store-finder?q=%24%7Bpostcode%7D&amp;page=0</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500551150" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Cart Thread Group 2-3" dt="text" by="2099" ng="3" na="17">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved./?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500551279" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-12" dt="text" by="2095" ng="13" na="17">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="50" lt="4" ts="1578500551350" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="48272" ng="14" na="18">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/login</java.net.URL>
+</httpSample>
+<httpSample t="21" lt="10" ts="1578500551548" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-5" dt="text" by="2830" ng="14" na="18">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="106" lt="64" ts="1578500551544" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="70359" ng="14" na="18">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Open-Catalogue/Cameras/Digital-Cameras/Digital-SLR/Alpha-200/p/1391319</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="5" ts="1578500551669" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="2830" ng="14" na="18">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="155" lt="65" ts="1578500551542" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="162779" ng="14" na="18">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=Accessory</java.net.URL>
+</httpSample>
+<httpSample t="130" lt="35" ts="1578500551713" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="182211" ng="14" na="18">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=8GB</java.net.URL>
+</httpSample>
+<httpSample t="91" lt="16" ts="1578500551772" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="69189" ng="14" na="18">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en</java.net.URL>
+</httpSample>
+<httpSample t="61" lt="22" ts="1578500551916" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="61944" ng="14" na="18">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Open-Catalogue/Cameras/Camera-Accessories-%26-Supplies/Camera-Flashes/Macro-Ring-Lite-MR-14EX/p/1099413</java.net.URL>
+</httpSample>
+<httpSample t="78" lt="10" ts="1578500551911" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="69189" ng="14" na="18">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500552023" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-1" dt="text" by="2095" ng="14" na="18">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="46" lt="4" ts="1578500552082" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="48272" ng="15" na="19">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/login</java.net.URL>
+</httpSample>
+<httpSample t="75" lt="7" ts="1578500552164" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="80312" ng="3" na="19">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Open-Catalogue/Cameras/Digital-Cameras/Digital-SLR/Camera-Kits/c/1288</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500552344" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-14" dt="text" by="2095" ng="15" na="19">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="37" lt="37" ts="1578500552319" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="10968" ng="15" na="19">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/store-finder?q=33315&amp;page=0</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500552358" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Browser Thread Group 1-12" dt="text" by="2099" ng="15" na="19">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved./?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="90" lt="11" ts="1578500552276" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="69189" ng="15" na="19">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en</java.net.URL>
+</httpSample>
+<httpSample t="104" lt="27" ts="1578500552396" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="123997" ng="3" na="19">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Open-Catalogue/Cameras/Digital-Cameras/Digital-Compacts/c/576</java.net.URL>
+</httpSample>
+<httpSample t="90" lt="42" ts="1578500552448" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="84157" ng="15" na="19">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=Camcordertape</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500552538" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Cart Thread Group 2-3" dt="text" by="2095" ng="3" na="19">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500552556" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Browser Thread Group 1-13" dt="text" by="2099" ng="15" na="19">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved./?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500552591" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-15" dt="text" by="2095" ng="15" na="19">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500552647" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Checkout Thread Group 3-1" dt="text" by="2095" ng="1" na="19">
+  <java.net.URL>https://# -----------------------------------------------------------------------:9002/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="109" lt="48" ts="1578500552788" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="81586" ng="3" na="20">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Open-Catalogue/Components/Power-Supplies/Power-Adapters-%26-Inverters/c/827</java.net.URL>
+</httpSample>
+<httpSample t="153" lt="60" ts="1578500552794" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="178582" ng="16" na="20">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=CAMERA</java.net.URL>
+</httpSample>
+<httpSample t="67" lt="38" ts="1578500553132" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="60698" ng="16" na="20">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=Gigashot</java.net.URL>
+</httpSample>
+<httpSample t="57" lt="21" ts="1578500553201" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="83555" ng="16" na="20">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Brands/Canyon/c/brand_745</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500553271" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Checkout Thread Group 3-1" dt="text" by="2095" ng="1" na="20">
+  <java.net.URL>https://# -----------------------------------------------------------------------:9002/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="45" lt="4" ts="1578500553281" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-5" dt="text" by="48272" ng="16" na="20">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/login</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500553388" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-12" dt="text" by="2095" ng="16" na="20">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="6" ts="1578500553475" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-16" dt="text" by="2830" ng="16" na="20">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="57" lt="4" ts="1578500553469" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="48272" ng="16" na="20">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/login</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="5" ts="1578500553537" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-3" dt="text" by="2830" ng="3" na="20">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="81" lt="28" ts="1578500553520" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="62337" ng="16" na="20">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Open-Catalogue/Components/Power-Supplies/Rechargeable-Batteries/InfoLITHIUM-Battery%2C-NP-FM55H/p/482105</java.net.URL>
+</httpSample>
+<httpSample t="153" lt="52" ts="1578500553530" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="164043" ng="17" na="23">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=32GB</java.net.URL>
+</httpSample>
+<httpSample t="69" lt="30" ts="1578500553659" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="61679" ng="17" na="23">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Open-Catalogue/Components/Power-Supplies/Power-Adapters-%26-Inverters/AC-Power-Adapter-ACK-E2/p/594471</java.net.URL>
+</httpSample>
+<httpSample t="95" lt="41" ts="1578500553775" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="102831" ng="17" na="23">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=Alpha</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500554057" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-13" dt="text" by="2095" ng="17" na="23">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="283" lt="4" ts="1578500553788" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="2830" ng="17" na="23">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="58" lt="22" ts="1578500554026" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="49248" ng="17" na="23">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Brands/Dane-Elec/c/brand_750</java.net.URL>
+</httpSample>
+<httpSample t="125" lt="36" ts="1578500554039" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="69189" ng="17" na="23">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en</java.net.URL>
+</httpSample>
+<httpSample t="147" lt="37" ts="1578500554023" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="154769" ng="17" na="23">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Open-Catalogue/Components/c/106</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500554186" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Browser Thread Group 1-14" dt="text" by="2099" ng="17" na="23">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved./?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="74" lt="28" ts="1578500554151" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="88620" ng="17" na="23">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Open-Catalogue/Binoculars/c/1421</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578500554224" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-4" dt="text" by="2830" ng="4" na="23">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500554231" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Checkout Thread Group 3-2" dt="text" by="2095" ng="2" na="23">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="23" lt="23" ts="1578500554234" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="10968" ng="17" na="23">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/store-finder?q=61705&amp;page=0</java.net.URL>
+</httpSample>
+<httpSample t="62" lt="5" ts="1578500554414" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-3" dt="text" by="48272" ng="4" na="24">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/login</java.net.URL>
+</httpSample>
+<httpSample t="105" lt="29" ts="1578500554401" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="137388" ng="18" na="24">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Open-Catalogue/Data-storage/Flash-Memory/c/902</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500554536" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Browser Thread Group 1-12" dt="text" by="2099" ng="18" na="24">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved./?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="30" lt="30" ts="1578500554547" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-5" dt="text" by="10968" ng="18" na="24">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/store-finder?q=33738&amp;page=0</java.net.URL>
+</httpSample>
+<httpSample t="63" lt="20" ts="1578500554528" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="60396" ng="4" na="24">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Brands/Fujifilm/c/brand_75</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500554765" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Browser Thread Group 1-15" dt="text" by="2099" ng="18" na="24">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved./?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="96" lt="7" ts="1578500554828" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-16" dt="text" by="48272" ng="18" na="24">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/login</java.net.URL>
+</httpSample>
+<httpSample t="164" lt="45" ts="1578500554785" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-5" dt="text" by="171112" ng="18" na="24">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=M340</java.net.URL>
+</httpSample>
+<httpSample t="131" lt="16" ts="1578500554841" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="69189" ng="18" na="24">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en</java.net.URL>
+</httpSample>
+<httpSample t="179" lt="97" ts="1578500554818" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="97756" ng="4" na="24">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=DSLR-A700</java.net.URL>
+</httpSample>
+<httpSample t="133" lt="45" ts="1578500554880" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="69189" ng="18" na="24">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578500555066" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Checkout Thread Group 3-2" dt="text" by="2830" ng="2" na="24">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="35" lt="35" ts="1578500555078" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="10968" ng="19" na="25">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/store-finder?q=20018&amp;page=0</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500555175" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-17" dt="text" by="2095" ng="19" na="25">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500555212" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-14" dt="text" by="2095" ng="19" na="25">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="160" lt="38" ts="1578500555057" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-3" dt="text" by="127375" ng="4" na="25">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Brands/Kodak/c/brand_88</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500555324" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Checkout Thread Group 3-1" dt="text" by="2095" ng="2" na="25">
+  <java.net.URL>https://# -----------------------------------------------------------------------:9002/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="116" lt="12" ts="1578500555232" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="69189" ng="19" na="25">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en</java.net.URL>
+</httpSample>
+<httpSample t="316" lt="4" ts="1578500555227" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-4" dt="text" by="48272" ng="4" na="25">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/login</java.net.URL>
+</httpSample>
+<httpSample t="22" lt="22" ts="1578500555584" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-16" dt="text" by="10968" ng="19" na="25">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/store-finder?q=73986&amp;page=0</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500555636" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-17" dt="text" by="2095" ng="19" na="25">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="94" lt="42" ts="1578500555605" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="83016" ng="19" na="25">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=ACC-TCH5</java.net.URL>
+</httpSample>
+<httpSample t="75" lt="43" ts="1578500555674" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="60387" ng="4" na="25">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=FDA-EP1AM</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="3" ts="1578500555780" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-19" dt="text" by="2830" ng="19" na="25">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="86" lt="47" ts="1578500555806" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-16" dt="text" by="83941" ng="20" na="26">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=Flagship</java.net.URL>
+</httpSample>
+<httpSample t="67" lt="7" ts="1578500555878" s="true" lb="Add To Cart" rc="200" rm="HTTP/1.1 200" tn="Checkout Thread Group 3-2" dt="text" by="48272" ng="2" na="26">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/login</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500555947" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Browser Thread Group 1-13" dt="text" by="2099" ng="20" na="26">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved./?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="105" lt="59" ts="1578500555892" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="75623" ng="20" na="26">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Open-Catalogue/Cameras/Digital-Cameras/Digital-Compacts/EASYSHARE-M381/p/3470545</java.net.URL>
+</httpSample>
+<httpSample t="143" lt="39" ts="1578500555868" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="167729" ng="20" na="26">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Brands/Sony/c/brand_5</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500556013" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Checkout Thread Group 3-1" dt="text" by="2095" ng="2" na="26">
+  <java.net.URL>https://# -----------------------------------------------------------------------:9002/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="83" lt="13" ts="1578500556002" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="69189" ng="20" na="26">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en</java.net.URL>
+</httpSample>
+<httpSample t="72" lt="27" ts="1578500556096" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-4" dt="text" by="59546" ng="4" na="26">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Brands/Logitech/c/brand_91</java.net.URL>
+</httpSample>
+<httpSample t="139" lt="42" ts="1578500556058" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="164880" ng="20" na="26">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=DSC-T90</java.net.URL>
+</httpSample>
+<httpSample t="44" lt="5" ts="1578500556226" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="48272" ng="20" na="26">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/login</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="4" ts="1578500556271" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-17" dt="text" by="2830" ng="20" na="26">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="90" lt="17" ts="1578500556330" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="62540" ng="20" na="26">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Open-Catalogue/Cameras/Digital-Cameras/Digital-SLR/Camera-Kits/ACC-BBV5/p/4135570</java.net.URL>
+</httpSample>
+<httpSample t="85" lt="42" ts="1578500556341" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-5" dt="text" by="82843" ng="20" na="26">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=ACC-CMFG</java.net.URL>
+</httpSample>
+<httpSample t="54" lt="6" ts="1578500556401" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-19" dt="text" by="48272" ng="20" na="26">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/login</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500556476" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-15" dt="text" by="2095" ng="20" na="26">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500556489" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-18" dt="text" by="2095" ng="20" na="26">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="78" lt="11" ts="1578500556524" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-3" dt="text" by="66501" ng="4" na="26">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Open-Catalogue/Cameras/Digital-Cameras/Digital-SLR/Camera-Lenses/EF-100mm-f-2-8L-Macro-IS-USM/p/3595723</java.net.URL>
+</httpSample>
+<httpSample t="85" lt="13" ts="1578500556541" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="69189" ng="4" na="27">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500556702" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Browser Thread Group 1-12" dt="text" by="2099" ng="21" na="27">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved./?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500556734" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-18" dt="text" by="2095" ng="21" na="27">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="78" lt="38" ts="1578500556671" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="86581" ng="21" na="27">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=FinePix</java.net.URL>
+</httpSample>
+<httpSample t="91" lt="14" ts="1578500556677" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="69189" ng="21" na="27">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en</java.net.URL>
+</httpSample>
+<httpSample t="25" lt="25" ts="1578500556894" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="10968" ng="21" na="27">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/store-finder?q=24056&amp;page=0</java.net.URL>
+</httpSample>
+<httpSample t="111" lt="35" ts="1578500556883" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-3" dt="text" by="145864" ng="4" na="27">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=Light</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500557066" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Browser Thread Group 1-14" dt="text" by="2099" ng="21" na="27">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved./?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="85" lt="14" ts="1578500557042" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="69189" ng="21" na="27">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500557218" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Checkout Thread Group 3-1" dt="text" by="2095" ng="2" na="27">
+  <java.net.URL>https://# -----------------------------------------------------------------------:9002/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="81" lt="35" ts="1578500557152" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="116047" ng="21" na="27">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=miniDV</java.net.URL>
+</httpSample>
+<httpSample t="6" lt="6" ts="1578500557235" s="false" lb="Add To Cart" rc="405" rm="HTTP/1.1 405" tn="Checkout Thread Group 3-2" dt="text" by="519" ng="2" na="27">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/cart/add</java.net.URL>
+</httpSample>
+<httpSample t="80" lt="32" ts="1578500557236" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="132365" ng="21" na="27">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=DSLR-A330</java.net.URL>
+</httpSample>
+<httpSample t="76" lt="10" ts="1578500557328" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="69189" ng="22" na="28">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en</java.net.URL>
+</httpSample>
+<httpSample t="65" lt="28" ts="1578500557361" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-3" dt="text" by="62257" ng="4" na="28">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=MSMT4G</java.net.URL>
+</httpSample>
+<httpSample t="73" lt="27" ts="1578500557356" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="85566" ng="22" na="28">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Brands/Fujifilm/c/brand_75</java.net.URL>
+</httpSample>
+<httpSample t="88" lt="14" ts="1578500557368" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-4" dt="text" by="69189" ng="4" na="28">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500557512" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-12" dt="text" by="2095" ng="22" na="28">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="95" lt="10" ts="1578500557487" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="69189" ng="22" na="28">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en</java.net.URL>
+</httpSample>
+<httpSample t="128" lt="8" ts="1578500557525" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="113458" ng="22" na="29">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Open-Catalogue/Cameras/Digital-Cameras/Digital-SLR/Camera-Kits/c/1288</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500557671" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Browser Thread Group 1-21" dt="text" by="2099" ng="22" na="29">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved./?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="159" lt="67" ts="1578500557525" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="140112" ng="22" na="29">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=AC-VQP10</java.net.URL>
+</httpSample>
+<httpSample t="171" lt="64" ts="1578500557528" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="164994" ng="22" na="29">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Brands/Canon/c/brand_10</java.net.URL>
+</httpSample>
+<httpSample t="32" lt="32" ts="1578500557680" s="true" lb="Storefinder Query" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-19" dt="text" by="10968" ng="22" na="29">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/store-finder?q=86158&amp;page=0</java.net.URL>
+</httpSample>
+<httpSample t="143" lt="53" ts="1578500557588" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-16" dt="text" by="158773" ng="22" na="29">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=Adapter</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500557780" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-12" dt="text" by="2095" ng="22" na="29">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500557781" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-14" dt="text" by="2095" ng="21" na="28">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500557783" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Browser Thread Group 1-2" dt="text" by="2099" ng="20" na="27">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved.:9002/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="15" lt="12" ts="1578500557780" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-21" dt="text" by="2830" ng="19" na="26">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="14" lt="0" ts="1578500557785" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-20" dt="text" by="2095" ng="18" na="25">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="20" lt="5" ts="1578500557780" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-18" dt="text" by="2830" ng="17" na="24">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500557807" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Browser Thread Group 1-13" dt="text" by="2099" ng="16" na="23">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved./?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="22" lt="0" ts="1578500557816" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Cart Thread Group 2-5" dt="text" by="2095" ng="5" na="22">
+  <java.net.URL>https://# -----------------------------------------------------------------------/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500557862" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Checkout Thread Group 3-2" dt="text" by="2095" ng="2" na="21">
+  <java.net.URL>https://# -----------------------------------------------------------------------:9002/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="137" lt="133" ts="1578500557783" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-22" dt="text" by="2830" ng="15" na="21">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="173" lt="76" ts="1578500557799" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="91161" ng="14" na="20">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Open-Catalogue/Cameras/Film-cameras/c/574</java.net.URL>
+</httpSample>
+<httpSample t="290" lt="43" ts="1578500557729" s="false" lb="Search Page" rc="Non HTTP response code: java.io.IOException" rm="Non HTTP response message: stream is closed" tn="Cart Thread Group 2-2" dt="text" by="1732" ng="4" na="19">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=NP-FG1</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500558020" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Checkout Thread Group 3-1" dt="text" by="2099" ng="2" na="19">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved.:9002/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="0" lt="0" ts="1578500558021" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Checkout Thread Group 3-2" dt="text" by="2095" ng="2" na="19">
+  <java.net.URL>https://# -----------------------------------------------------------------------:9002/?site=electronics</java.net.URL>
+</httpSample>
+<httpSample t="255" lt="203" ts="1578500557789" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-15" dt="text" by="2830" ng="13" na="16">
+  <java.net.URL>https://electronics.local:9002/login.jsp</java.net.URL>
+</httpSample>
+<httpSample t="263" lt="124" ts="1578500557835" s="false" lb="Pickup In Store Search Get" rc="404" rm="HTTP/1.1 404" tn="Cart Thread Group 2-1" dt="text" by="43877" ng="3" na="15">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/store-pickup/#%20-----------------------------------------------------------------------/pointOfServices?cartPage=false&amp;entryNumber=0</java.net.URL>
+</httpSample>
+<httpSample t="323" lt="141" ts="1578500557784" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-17" dt="text" by="48272" ng="12" na="14">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/login</java.net.URL>
+</httpSample>
+<httpSample t="350" lt="249" ts="1578500557783" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-16" dt="text" by="67534" ng="11" na="13">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Open-Catalogue/Cameras/Digital-Cameras/Digital-Compacts/Cyber-shot-W55/p/676442</java.net.URL>
+</httpSample>
+<httpSample t="350" lt="265" ts="1578500557791" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="89491" ng="10" na="12">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=VCT-D580RM</java.net.URL>
+</httpSample>
+<httpSample t="370" lt="248" ts="1578500557790" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="81053" ng="9" na="11">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=VIDEOTAPE</java.net.URL>
+</httpSample>
+<httpSample t="351" lt="166" ts="1578500557811" s="true" lb="Product Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-3" dt="text" by="64703" ng="2" na="10">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Open-Catalogue/Data-storage/Flash-Memory/4GB-CF-Card/p/1322041</java.net.URL>
+</httpSample>
+<httpSample t="399" lt="67" ts="1578500557782" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="69189" ng="8" na="9">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en</java.net.URL>
+</httpSample>
+<httpSample t="327" lt="201" ts="1578500557866" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="131935" ng="7" na="8">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=NP-FM55H</java.net.URL>
+</httpSample>
+<httpSample t="393" lt="53" ts="1578500557800" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-19" dt="text" by="69189" ng="7" na="8">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en</java.net.URL>
+</httpSample>
+<httpSample t="412" lt="247" ts="1578500557783" s="true" lb="Category Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="88614" ng="5" na="6">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/Open-Catalogue/Binoculars/c/1421</java.net.URL>
+</httpSample>
+<httpSample t="418" lt="67" ts="1578500557782" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="69189" ng="4" na="5">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en</java.net.URL>
+</httpSample>
+<httpSample t="427" lt="156" ts="1578500557791" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-5" dt="text" by="69189" ng="3" na="4">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en</java.net.URL>
+</httpSample>
+<httpSample t="453" lt="140" ts="1578500557783" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="174772" ng="2" na="3">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=C330</java.net.URL>
+</httpSample>
+<httpSample t="434" lt="261" ts="1578500557816" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-4" dt="text" by="132799" ng="1" na="2">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=Charger</java.net.URL>
+</httpSample>
+<httpSample t="482" lt="284" ts="1578500557790" s="true" lb="Search Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="166175" ng="1" na="1">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/search?text=DSC-W180</java.net.URL>
+</httpSample>
+
+</testResults>

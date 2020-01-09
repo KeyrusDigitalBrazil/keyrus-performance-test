@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="5" lt="0" ts="1578500325844" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-1" dt="text" by="2095" ng="1" na="3">
+  <java.net.URL>https://# -----------------------------------------------------------------------/${path}</java.net.URL>
+</httpSample>
+<httpSample t="1" lt="0" ts="1578500326715" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Checkout Thread Group 3-1" dt="text" by="2095" ng="1" na="4">
+  <java.net.URL>https://# -----------------------------------------------------------------------/${path}</java.net.URL>
+</httpSample>
+<httpSample t="169" lt="80" ts="1578500326858" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="69529" ng="2" na="4">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en</java.net.URL>
+</httpSample>
+<httpSample t="3" lt="0" ts="1578500327098" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-3" dt="text" by="2095" ng="3" na="5">
+  <java.net.URL>https://# -----------------------------------------------------------------------/${path}</java.net.URL>
+</httpSample>
+<httpSample t="3" lt="0" ts="1578500327098" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # -----------------------------------------------------------------------" tn="Browser Thread Group 1-2" dt="text" by="2095" ng="3" na="5">
+  <java.net.URL>https://# -----------------------------------------------------------------------/${path}</java.net.URL>
+</httpSample>
+<httpSample t="24" lt="0" ts="1578500327098" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Cart Thread Group 2-1" dt="text" by="2099" ng="1" na="3">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved./${path}</java.net.URL>
+</httpSample>
+<httpSample t="24" lt="0" ts="1578500327098" s="false" lb="Homepage" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: # Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved." tn="Checkout Thread Group 3-1" dt="text" by="2099" ng="1" na="3">
+  <java.net.URL>https://# Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved./${path}</java.net.URL>
+</httpSample>
+<httpSample t="53" lt="15" ts="1578500327097" s="true" lb="Storefinder Page" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="47173" ng="1" na="1">
+  <java.net.URL>https://electronics.local:9002/yacceleratorstorefront/electronics/en/store-finder</java.net.URL>
+</httpSample>
+
+</testResults>
