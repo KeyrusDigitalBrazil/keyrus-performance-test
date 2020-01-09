@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="31851" lt="31593" ts="1562015383860" s="false" lb="Fast registration post" rc="Non HTTP response code: javax.net.ssl.SSLProtocolException" rm="Non HTTP response message: Socket closed" tn="Checkout non users registration 1-3" dt="text" by="5753" sc="1" ec="1" ng="2" na="2" hn="Themarkiron">
+  <httpSample t="31593" lt="31593" ts="1562015383860" s="true" lb="https://hdes501.ecom.carrefour:9002/cadastro-rapido?site=carrefour" rc="302" rm="Found" tn="Checkout non users registration 1-3" dt="" by="841" sc="1" ec="0" ng="2" na="2" hn="Themarkiron">
+    <responseHeader class="java.lang.String">HTTP/1.1 302 Found
+Server: Apache-Coyote/1.1
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=7B5FADAE641CE5285A7230A71701A51C; Path=/; Secure; HttpOnly
+Set-Cookie: acceleratorSecureGUID=769fbb725cc6239511cc9d1716bcab55b5886f21; Path=/; Secure; HttpOnly
+Set-Cookie: carrefourstorefrontRememberMe=dGVzdHVzZXItMzczNDgyNTUyMDVAdGVzdC5jb206MTU2MzIyNTAxNTQ4MDplNjMwN2VhNDliMTNlNTYyYjcxYzRjMWI0ZWM0YTc0OQ; Expires=Mon, 15-Jul-2019 21:10:15 GMT; Path=/; Secure; HttpOnly
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Location: /cadastro-completo?debug=false
+Content-Language: pt
+Content-Length: 0
+Date: Mon, 01 Jul 2019 21:10:15 GMT
+</responseHeader>
+    <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 410
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+    <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+    <cookies class="java.lang.String">$Version=0; JSESSIONID=7B5FADAE641CE5285A7230A71701A51C; $Path=/</cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=FEMALE&amp;cpf=37348255205&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-37348255205%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=ef56e565-008b-439e-8626-445b6ca7112e&amp;rememberMe=true</queryString>
+    <redirectLocation class="java.lang.String">/cadastro-completo?debug=false</redirectLocation>
+  </httpSample>
+  <httpSample t="221" lt="0" ts="1562015415490" s="false" lb="https://hdes501.ecom.carrefour:9002/cadastro-completo?debug=false" rc="Non HTTP response code: javax.net.ssl.SSLProtocolException" rm="Non HTTP response message: Socket closed" tn="Checkout non users registration 1-3" dt="text" by="4912" sc="1" ec="1" ng="2" na="2" hn="Themarkiron">
+    <responseHeader class="java.lang.String"></responseHeader>
+    <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+</requestHeader>
+    <responseData class="java.lang.String">javax.net.ssl.SSLProtocolException: Socket closed
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1963)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1958)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1957)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1525)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1509)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:329)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.readResponse(HTTPJavaImpl.java:260)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.sample(HTTPJavaImpl.java:513)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:74)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.followRedirects(HTTPSamplerBase.java:1524)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.resultProcessing(HTTPSamplerBase.java:1617)
+	at org.apache.jmeter.protocol.http.sampler.HTTPAbstractImpl.resultProcessing(HTTPAbstractImpl.java:517)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.sample(HTTPJavaImpl.java:586)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:74)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1166)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1155)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:475)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:418)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:249)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: javax.net.ssl.SSLProtocolException: Socket closed
+	at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:126)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:321)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:264)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:259)
+	at java.base/sun.security.ssl.SSLSocketImpl.handleException(SSLSocketImpl.java:1314)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:839)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:746)
+	at java.base/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:689)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1604)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1509)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getHeaderField(HttpURLConnection.java:3084)
+	at java.base/java.net.URLConnection.getHeaderFieldLong(URLConnection.java:636)
+	at java.base/java.net.URLConnection.getContentLengthLong(URLConnection.java:508)
+	at java.base/java.net.URLConnection.getContentLength(URLConnection.java:492)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getContentLength(HttpsURLConnectionImpl.java:389)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.readResponse(HTTPJavaImpl.java:226)
+	... 13 more
+Caused by: java.net.SocketException: Socket closed
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:448)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:68)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1104)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:823)
+	... 26 more
+</responseData>
+    <cookies class="java.lang.String">$Version=0; JSESSIONID=7B5FADAE641CE5285A7230A71701A51C; $Path=/; acceleratorSecureGUID=769fbb725cc6239511cc9d1716bcab55b5886f21; $Path=/; carrefourstorefrontRememberMe=dGVzdHVzZXItMzczNDgyNTUyMDVAdGVzdC5jb206MTU2MzIyNTAxNTQ4MDplNjMwN2VhNDliMTNlNTYyYjcxYzRjMWI0ZWM0YTc0OQ; $Path=/</cookies>
+    <method class="java.lang.String">GET</method>
+    <queryString class="java.lang.String"></queryString>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+</requestHeader>
+  <responseData class="java.lang.String">javax.net.ssl.SSLProtocolException: Socket closed
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1963)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1958)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1957)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1525)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1509)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:329)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.readResponse(HTTPJavaImpl.java:260)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.sample(HTTPJavaImpl.java:513)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:74)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.followRedirects(HTTPSamplerBase.java:1524)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.resultProcessing(HTTPSamplerBase.java:1617)
+	at org.apache.jmeter.protocol.http.sampler.HTTPAbstractImpl.resultProcessing(HTTPAbstractImpl.java:517)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.sample(HTTPJavaImpl.java:586)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:74)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1166)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1155)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:475)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:418)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:249)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: javax.net.ssl.SSLProtocolException: Socket closed
+	at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:126)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:321)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:264)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:259)
+	at java.base/sun.security.ssl.SSLSocketImpl.handleException(SSLSocketImpl.java:1314)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:839)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:746)
+	at java.base/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:689)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1604)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1509)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getHeaderField(HttpURLConnection.java:3084)
+	at java.base/java.net.URLConnection.getHeaderFieldLong(URLConnection.java:636)
+	at java.base/java.net.URLConnection.getContentLengthLong(URLConnection.java:508)
+	at java.base/java.net.URLConnection.getContentLength(URLConnection.java:492)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getContentLength(HttpsURLConnectionImpl.java:389)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.readResponse(HTTPJavaImpl.java:226)
+	... 13 more
+Caused by: java.net.SocketException: Socket closed
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:448)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:68)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1104)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:823)
+	... 26 more
+</responseData>
+  <cookies class="java.lang.String">$Version=0; JSESSIONID=7B5FADAE641CE5285A7230A71701A51C; $Path=/</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">/cadastro-completo?debug=false</redirectLocation>
+</httpSample>
+<httpSample t="31569" lt="31311" ts="1562015384142" s="false" lb="Fast registration post" rc="Non HTTP response code: javax.net.ssl.SSLProtocolException" rm="Non HTTP response message: Socket closed" tn="Checkout non users registration 1-22" dt="text" by="5753" sc="1" ec="1" ng="2" na="2" hn="Themarkiron">
+  <httpSample t="31311" lt="31311" ts="1562015384142" s="true" lb="https://hdes501.ecom.carrefour:9002/cadastro-rapido?site=carrefour" rc="302" rm="Found" tn="Checkout non users registration 1-22" dt="" by="841" sc="1" ec="0" ng="2" na="2" hn="Themarkiron">
+    <responseHeader class="java.lang.String">HTTP/1.1 302 Found
+Server: Apache-Coyote/1.1
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=87F8B433FE34A041CE2EE12558347039; Path=/; Secure; HttpOnly
+Set-Cookie: acceleratorSecureGUID=4e26b8841437b34639c5d471d1c777795f744b9f; Path=/; Secure; HttpOnly
+Set-Cookie: carrefourstorefrontRememberMe=dGVzdHVzZXItNjA3MDY1ODEzMjZAdGVzdC5jb206MTU2MzIyNTAxNTQ4MDphNDgzZmRhY2ZlNjBmZDY3NDYyMzE0YjNiZDFiMjBiYQ; Expires=Mon, 15-Jul-2019 21:10:15 GMT; Path=/; Secure; HttpOnly
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Location: /cadastro-completo?debug=false
+Content-Language: pt
+Content-Length: 0
+Date: Mon, 01 Jul 2019 21:10:15 GMT
+</responseHeader>
+    <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 410
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+    <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+    <cookies class="java.lang.String">$Version=0; JSESSIONID=87F8B433FE34A041CE2EE12558347039; $Path=/</cookies>
+    <method class="java.lang.String">POST</method>
+    <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=FEMALE&amp;cpf=60706581326&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-60706581326%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=b455f2d2-c1b3-4521-a1e2-c1b6eb238ded&amp;rememberMe=true</queryString>
+    <redirectLocation class="java.lang.String">/cadastro-completo?debug=false</redirectLocation>
+  </httpSample>
+  <httpSample t="221" lt="0" ts="1562015415490" s="false" lb="https://hdes501.ecom.carrefour:9002/cadastro-completo?debug=false" rc="Non HTTP response code: javax.net.ssl.SSLProtocolException" rm="Non HTTP response message: Socket closed" tn="Checkout non users registration 1-22" dt="text" by="4912" sc="1" ec="1" ng="2" na="2" hn="Themarkiron">
+    <responseHeader class="java.lang.String"></responseHeader>
+    <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+</requestHeader>
+    <responseData class="java.lang.String">javax.net.ssl.SSLProtocolException: Socket closed
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1963)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1958)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1957)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1525)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1509)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:329)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.readResponse(HTTPJavaImpl.java:260)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.sample(HTTPJavaImpl.java:513)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:74)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.followRedirects(HTTPSamplerBase.java:1524)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.resultProcessing(HTTPSamplerBase.java:1617)
+	at org.apache.jmeter.protocol.http.sampler.HTTPAbstractImpl.resultProcessing(HTTPAbstractImpl.java:517)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.sample(HTTPJavaImpl.java:586)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:74)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1166)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1155)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:475)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:418)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:249)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: javax.net.ssl.SSLProtocolException: Socket closed
+	at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:126)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:321)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:264)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:259)
+	at java.base/sun.security.ssl.SSLSocketImpl.handleException(SSLSocketImpl.java:1314)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:839)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:746)
+	at java.base/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:689)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1604)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1509)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getHeaderField(HttpURLConnection.java:3084)
+	at java.base/java.net.URLConnection.getHeaderFieldLong(URLConnection.java:636)
+	at java.base/java.net.URLConnection.getContentLengthLong(URLConnection.java:508)
+	at java.base/java.net.URLConnection.getContentLength(URLConnection.java:492)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getContentLength(HttpsURLConnectionImpl.java:389)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.readResponse(HTTPJavaImpl.java:226)
+	... 13 more
+Caused by: java.net.SocketException: Socket closed
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:448)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:68)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1104)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:823)
+	... 26 more
+</responseData>
+    <cookies class="java.lang.String">$Version=0; JSESSIONID=87F8B433FE34A041CE2EE12558347039; $Path=/; acceleratorSecureGUID=4e26b8841437b34639c5d471d1c777795f744b9f; $Path=/; carrefourstorefrontRememberMe=dGVzdHVzZXItNjA3MDY1ODEzMjZAdGVzdC5jb206MTU2MzIyNTAxNTQ4MDphNDgzZmRhY2ZlNjBmZDY3NDYyMzE0YjNiZDFiMjBiYQ; $Path=/</cookies>
+    <method class="java.lang.String">GET</method>
+    <queryString class="java.lang.String"></queryString>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+</requestHeader>
+  <responseData class="java.lang.String">javax.net.ssl.SSLProtocolException: Socket closed
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1963)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1958)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1957)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1525)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1509)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:329)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.readResponse(HTTPJavaImpl.java:260)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.sample(HTTPJavaImpl.java:513)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:74)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.followRedirects(HTTPSamplerBase.java:1524)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.resultProcessing(HTTPSamplerBase.java:1617)
+	at org.apache.jmeter.protocol.http.sampler.HTTPAbstractImpl.resultProcessing(HTTPAbstractImpl.java:517)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.sample(HTTPJavaImpl.java:586)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:74)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1166)
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1155)
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:475)
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:418)
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:249)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: javax.net.ssl.SSLProtocolException: Socket closed
+	at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:126)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:321)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:264)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:259)
+	at java.base/sun.security.ssl.SSLSocketImpl.handleException(SSLSocketImpl.java:1314)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:839)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:746)
+	at java.base/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:689)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1604)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1509)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getHeaderField(HttpURLConnection.java:3084)
+	at java.base/java.net.URLConnection.getHeaderFieldLong(URLConnection.java:636)
+	at java.base/java.net.URLConnection.getContentLengthLong(URLConnection.java:508)
+	at java.base/java.net.URLConnection.getContentLength(URLConnection.java:492)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getContentLength(HttpsURLConnectionImpl.java:389)
+	at org.apache.jmeter.protocol.http.sampler.HTTPJavaImpl.readResponse(HTTPJavaImpl.java:226)
+	... 13 more
+Caused by: java.net.SocketException: Socket closed
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:448)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:68)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1104)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:823)
+	... 26 more
+</responseData>
+  <cookies class="java.lang.String">$Version=0; JSESSIONID=87F8B433FE34A041CE2EE12558347039; $Path=/</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">/cadastro-completo?debug=false</redirectLocation>
+</httpSample>
+<sample t="32035" lt="31755" ts="1562015381689" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-3" dt="" by="7395" sc="1" ec="1" ng="2" na="2" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<sample t="31631" lt="31351" ts="1562015383194" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-22" dt="" by="7395" sc="1" ec="1" ng="2" na="2" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+
+</testResults>

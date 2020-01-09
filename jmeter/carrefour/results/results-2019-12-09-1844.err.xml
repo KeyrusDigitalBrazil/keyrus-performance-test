@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="42" lt="42" ts="1575927870912" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-3" dt="text" by="1318" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=D3FD56E326A6FBE4477ECD2ACEC86714; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:29 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 387
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=MALE&amp;cpf=221561005&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-221561005%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="122" lt="51" ts="1575927869963" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-3" dt="" by="46417" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="47" lt="47" ts="1575927870918" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-8" dt="text" by="1318" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=96F19AC75156C914F699FC763B64D34D; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:29 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 393
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=FEMALE&amp;cpf=57086582158&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-57086582158%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="123" lt="55" ts="1575927870466" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-8" dt="" by="46417" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="10" lt="10" ts="1575927871379" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-9" dt="text" by="1318" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=33C8D4BB9FD93CE498A686646DB648D2; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:30 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 391
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=MALE&amp;cpf=41707424004&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-41707424004%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="88" lt="18" ts="1575927870566" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-9" dt="" by="46417" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="8" lt="8" ts="1575927871462" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-5" dt="text" by="1318" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=FC4FCE26DA11859FF09377563CBA3AC5; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:30 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 391
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=MALE&amp;cpf=30848107373&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-30848107373%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="89" lt="16" ts="1575927870164" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-5" dt="" by="46417" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="6" lt="6" ts="1575927871481" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-8" dt="text" by="1318" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=3AAB50A262C9E8FBAC9F6B7973C44253; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:30 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 393
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=FEMALE&amp;cpf=14653438307&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-14653438307%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="98" lt="17" ts="1575927870966" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-8" dt="" by="46417" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="8" lt="8" ts="1575927871509" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-2" dt="text" by="1318" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=EA6C0EBA21B17CA8CF10A095B874D741; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:30 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 393
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=FEMALE&amp;cpf=31066706301&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-31066706301%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="97" lt="28" ts="1575927869863" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-2" dt="" by="46417" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="11" lt="11" ts="1575927871571" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-1" dt="text" by="1318" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=E843945F9698604A358D3784ECB5789E; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:30 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 391
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=MALE&amp;cpf=66411602204&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-66411602204%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="119" lt="34" ts="1575927869762" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-1" dt="" by="46417" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="6" lt="6" ts="1575927871707" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-4" dt="text" by="1318" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=4C7B439D9BA3A723BE8985740CD75C8B; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:30 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 391
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=FEMALE&amp;cpf=5005644695&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-5005644695%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="85" lt="14" ts="1575927870063" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-4" dt="" by="46417" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="6" lt="6" ts="1575927871816" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-6" dt="text" by="1318" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=7E453A292F39DD02282A6290D7E587EA; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:30 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 393
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=FEMALE&amp;cpf=18301374250&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-18301374250%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="91" lt="15" ts="1575927870264" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-6" dt="" by="46417" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="8" lt="8" ts="1575927871896" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-3" dt="text" by="1318" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=4F9A69EF9F1A7550BE405134238A5F88; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:30 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 391
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=MALE&amp;cpf=45414203253&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-45414203253%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="108" lt="29" ts="1575927870956" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-3" dt="" by="46417" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="9" lt="9" ts="1575927872274" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-4" dt="text" by="1318" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=23743D6B9B5177C941FF55034C73A5C8; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:32 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 393
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=FEMALE&amp;cpf=38556451403&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-38556451403%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="100" lt="18" ts="1575927871714" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-4" dt="" by="46417" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="8" lt="8" ts="1575927872311" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-10" dt="text" by="1318" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=A9D334A56D644631FB73BA09A573C06E; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:32 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 393
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=FEMALE&amp;cpf=61668016451&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-61668016451%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="93" lt="17" ts="1575927870666" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-10" dt="" by="46417" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="16" lt="16" ts="1575927872511" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-7" dt="text" by="1318" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=B859F56CF19978DEC0C79D6E0326DFC3; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:32 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 391
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=MALE&amp;cpf=40140261591&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-40140261591%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="113" lt="25" ts="1575927870364" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-7" dt="" by="46417" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="6" lt="6" ts="1575927872636" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-6" dt="text" by="1318" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=72F6D1333D031D10A3FA03785D891C1B; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:32 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 391
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=MALE&amp;cpf=65134024502&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-65134024502%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="88" lt="13" ts="1575927871822" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-6" dt="" by="46417" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="6" lt="6" ts="1575927872758" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-8" dt="text" by="1318" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=6C380DB795351685834C39E7FA576669; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:32 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 391
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=MALE&amp;cpf=75412671802&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-75412671802%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="120" lt="14" ts="1575927871487" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-8" dt="" by="46417" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="17" lt="17" ts="1575927872936" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-1" dt="text" by="1318" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=5F10C4B80930B199BFB512599B4DC222; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:32 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 391
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=MALE&amp;cpf=72608564836&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-72608564836%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="98" lt="26" ts="1575927871583" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-1" dt="" by="46417" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="13" lt="13" ts="1575927873005" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-9" dt="text" by="1318" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=B20A37C0F013B597E9D282EE1F910E82; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:32 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 391
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=MALE&amp;cpf=16084181384&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-16084181384%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="101" lt="21" ts="1575927871389" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-9" dt="" by="46417" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="7" lt="7" ts="1575927873014" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-2" dt="text" by="1318" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=A5E7123E9A9C825893C072CE6C159BE0; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:32 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 393
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=FEMALE&amp;cpf=31263583067&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-31263583067%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="113" lt="23" ts="1575927871518" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-2" dt="" by="46417" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="7" lt="7" ts="1575927873020" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-4" dt="text" by="1318" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=92C7BF3849F3734EE8AD43A5664BD260; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:32 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 391
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=MALE&amp;cpf=26830140749&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-26830140749%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="102" lt="15" ts="1575927872284" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-4" dt="" by="46417" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="47" lt="47" ts="1575927873260" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-10" dt="text" by="1318" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=EE6DA03F0480C9D89D38D877F3118F95; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:33 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 391
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=FEMALE&amp;cpf=1236814649&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-1236814649%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="142" lt="55" ts="1575927872319" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-10" dt="" by="46417" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="47" lt="47" ts="1575927873260" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-3" dt="text" by="1318" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=6A400B5BA5786FDDBF72D1DEEEF75BB1; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:33 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 393
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=FEMALE&amp;cpf=48180126102&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-48180126102%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="140" lt="55" ts="1575927871905" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-3" dt="" by="46417" sc="1" ec="1" ng="10" na="10" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="56" lt="55" ts="1575927873260" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-8" dt="text" by="1318" sc="1" ec="1" ng="8" na="8" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=214F3210EA91AF55F57E3F3D6A396DE7; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:33 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 391
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=MALE&amp;cpf=35311026057&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-35311026057%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="134" lt="64" ts="1575927872765" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-8" dt="" by="46417" sc="1" ec="1" ng="8" na="8" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="72" lt="72" ts="1575927873262" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-9" dt="text" by="1318" sc="1" ec="1" ng="7" na="7" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=F56ADE3928DEC945A9BCC1ADCE61E432; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:33 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 391
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=MALE&amp;cpf=11626762643&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-11626762643%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="182" lt="85" ts="1575927873018" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-9" dt="" by="46417" sc="1" ec="1" ng="7" na="7" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="77" lt="77" ts="1575927873261" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-5" dt="text" by="1318" sc="1" ec="1" ng="6" na="6" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=5156E127CCEF5ECF1FA5BAF4AEABD1A2; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:33 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 393
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=FEMALE&amp;cpf=34807247441&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-34807247441%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="180" lt="87" ts="1575927871471" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-5" dt="" by="46417" sc="1" ec="1" ng="6" na="6" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="77" lt="77" ts="1575927873261" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-4" dt="text" by="1318" sc="1" ec="1" ng="5" na="5" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=5EA9C7D61F4B090FF3AE0BF9D79659A3; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:33 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 391
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=MALE&amp;cpf=13885084783&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-13885084783%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="181" lt="96" ts="1575927873027" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-4" dt="" by="46417" sc="1" ec="1" ng="5" na="5" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="88" lt="88" ts="1575927873269" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-6" dt="text" by="1318" sc="1" ec="1" ng="4" na="4" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=DE7E64C3B6384B00A3B023274C99CA50; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:33 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 393
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=FEMALE&amp;cpf=38085425866&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-38085425866%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="179" lt="96" ts="1575927872643" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-6" dt="" by="46417" sc="1" ec="1" ng="4" na="4" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="98" lt="98" ts="1575927873261" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-1" dt="text" by="1318" sc="1" ec="1" ng="3" na="3" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=DDC4D99B43ED956C48C7F60FDD084646; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:33 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 393
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=FEMALE&amp;cpf=47727175609&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-47727175609%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="229" lt="123" ts="1575927872955" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-1" dt="" by="46417" sc="1" ec="1" ng="3" na="3" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<httpSample t="99" lt="99" ts="1575927873263" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-2" dt="text" by="1318" sc="1" ec="1" ng="2" na="2" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=2D321E8C6CD3D4E46F7D8632CA24AC14; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:33 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 391
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=FEMALE&amp;cpf=1022505378&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-1022505378%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<httpSample t="100" lt="100" ts="1575927873263" s="false" lb="Fast registration post" rc="405" rm="HTTP/1.1 405" tn="Checkout non users registration 1-7" dt="text" by="1318" sc="1" ec="1" ng="2" na="2" hn="Themarkiron">
+  <responseHeader class="java.lang.String">HTTP/1.1 405
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: JSESSIONID=2D1D578E8E2A273CA9E2748DD5110A81; Path=/cpb2bglobalstorefront; Secure; HttpOnly
+Allow: GET
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 814
+Date: Mon, 09 Dec 2019 21:44:33 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en,pt-BR;q=0.8,pt;q=0.6
+Content-Length: 389
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!doctype html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;title&gt;HTTP Status 405 – Method Not Allowed&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;h1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} h2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} h3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} body {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} b {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} p {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;} a {color:black;} a.name {color:black;} .line {height:1px;background-color:#525D76;border:none;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 – Method Not Allowed&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">processRegisterOk=true&amp;id=&amp;origin=Site&amp;firstName=test&amp;lastName=user&amp;gender=MALE&amp;cpf=4281824456&amp;telefone=%2811%29+11111-1111&amp;typePhone=1&amp;email=testuser-4281824456%40test.com&amp;days=2&amp;months=2&amp;years=1982&amp;pwd=123&amp;verdictsValue=60&amp;checkPwd=123&amp;_newsletter=on&amp;_rememberMe=on&amp;termsOfUseAgreement=true&amp;_termsOfUseAgreement=on&amp;continueFullRegister=false&amp;CSRFToken=%24%7Bcsrf-token%7D&amp;rememberMe=true</queryString>
+</httpSample>
+<sample t="208" lt="107" ts="1575927873022" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-2" dt="" by="46417" sc="1" ec="1" ng="2" na="2" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+<sample t="212" lt="120" ts="1575927872528" s="false" lb="Transaction Controller" rc="" rm="Number of samples in transaction : 2, number of failing samples : 1" tn="Checkout non users registration 1-7" dt="" by="46417" sc="1" ec="1" ng="2" na="2" hn="Themarkiron">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+</sample>
+
+</testResults>
