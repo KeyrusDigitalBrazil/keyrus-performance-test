@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1794" lt="1791" ts="1614096471642" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Modules 4-19" dt="text" by="19267" ng="20" na="23">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="1946" lt="1543" ts="1614096471495" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Checkout Thread Group 3-1" dt="text" by="19262" ng="1" na="23">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="1760" lt="1356" ts="1614096471681" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Modules 4-16" dt="text" by="19221" ng="20" na="23">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="1518" lt="1481" ts="1614096471957" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Modules 4-12" dt="text" by="19260" ng="20" na="23">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="2072" lt="1527" ts="1614096471512" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Modules 4-3" dt="text" by="19273" ng="20" na="23">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="2049" lt="1456" ts="1614096471585" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Modules 4-8" dt="text" by="19269" ng="20" na="23">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="1578" lt="1380" ts="1614096472080" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Modules 4-2" dt="text" by="19271" ng="20" na="23">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="1698" lt="1224" ts="1614096472001" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-1" dt="text" by="19272" ng="1" na="23">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="1859" lt="1592" ts="1614096471842" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Modules 4-4" dt="text" by="19264" ng="20" na="23">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="1664" lt="1485" ts="1614096472106" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Modules 4-17" dt="text" by="19271" ng="20" na="23">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="1645" lt="1491" ts="1614096472285" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Modules 4-10" dt="text" by="19272" ng="20" na="23">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="1699" lt="1525" ts="1614096472232" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Modules 4-15" dt="text" by="19243" ng="20" na="23">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="1741" lt="1568" ts="1614096472232" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Modules 4-6" dt="text" by="19259" ng="20" na="23">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="1624" lt="1455" ts="1614096472414" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Modules 4-5" dt="text" by="19272" ng="20" na="23">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="2405" lt="2076" ts="1614096471639" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Modules 4-20" dt="text" by="19271" ng="20" na="23">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="948" lt="765" ts="1614096473329" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Modules 4-1" dt="text" by="19270" ng="20" na="23">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="1074" lt="907" ts="1614096473215" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-1" dt="text" by="19268" ng="1" na="23">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="1007" lt="779" ts="1614096473372" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Modules 4-9" dt="text" by="19268" ng="20" na="23">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="1837" lt="1511" ts="1614096472543" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Modules 4-14" dt="text" by="19206" ng="20" na="23">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="913" lt="710" ts="1614096473468" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Modules 4-13" dt="text" by="19168" ng="20" na="23">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="2760" lt="2139" ts="1614096471630" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Modules 4-7" dt="text" by="19189" ng="20" na="23">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="2645" lt="2334" ts="1614096471775" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Modules 4-18" dt="text" by="19264" ng="20" na="23">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="1802" lt="1611" ts="1614096472987" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Modules 4-11" dt="text" by="19270" ng="20" na="23">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="965" lt="808" ts="1614096476985" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-2" dt="text" by="19263" ng="2" na="24">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="1010" lt="847" ts="1614096480791" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-3" dt="text" by="19270" ng="3" na="25">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="1392" lt="1183" ts="1614096483817" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-4" dt="text" by="19272" ng="4" na="26">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="1114" lt="909" ts="1614096488295" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-5" dt="text" by="19271" ng="5" na="27">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="1117" lt="875" ts="1614096490927" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-6" dt="text" by="19243" ng="6" na="29">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="1166" lt="1009" ts="1614096492808" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Cart Thread Group 2-2" dt="text" by="19267" ng="2" na="30">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="855" lt="664" ts="1614096494009" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-7" dt="text" by="19216" ng="7" na="30">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="1791" lt="1584" ts="1614096498674" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-8" dt="text" by="19269" ng="8" na="31">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="1665" lt="1472" ts="1614096503203" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-9" dt="text" by="19271" ng="9" na="32">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="940" lt="731" ts="1614096505784" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-10" dt="text" by="19271" ng="10" na="33">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="897" lt="716" ts="1614096509511" s="true" lb="Homepage" rc="200" rm="HTTP/1.1 200" tn="Browser Thread Group 1-11" dt="text" by="19268" ng="11" na="34">
+  <java.net.URL>https://educacion.comfama.com/</java.net.URL>
+</httpSample>
+<httpSample t="129471" lt="0" ts="1614096474273" s="false" lb="Product Page" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-2" dt="text" by="2128" ng="20" na="34">
+  <java.net.URL>https://educacion.comfama.com:9002/celular-samsung-galaxy-s8-4g-negro/p/8806088722580</java.net.URL>
+</httpSample>
+<httpSample t="129594" lt="0" ts="1614096474150" s="false" lb="Product Page" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-3" dt="text" by="2128" ng="20" na="34">
+  <java.net.URL>https://educacion.comfama.com:9002/screen-protector-galaxy-a7-2017-accesorio-samsung/p/8806088628639</java.net.URL>
+</httpSample>
+<httpSample t="129513" lt="0" ts="1614096474231" s="false" lb="Storefinder Page" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Browser Thread Group 1-1" dt="text" by="2128" ng="11" na="34">
+  <java.net.URL>https://educacion.comfama.com:9002/store-finder</java.net.URL>
+</httpSample>
+<httpSample t="129298" lt="0" ts="1614096474446" s="false" lb="Product Page" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-16" dt="text" by="2128" ng="20" na="34">
+  <java.net.URL>https://educacion.comfama.com:9002/samsung-gear-2/p/8806086158312</java.net.URL>
+</httpSample>
+<httpSample t="129560" lt="0" ts="1614096474185" s="false" lb="Product Page" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-10" dt="text" by="2128" ng="20" na="34">
+  <java.net.URL>https://educacion.comfama.com:9002/samsung-gear-360/p/8806088408965</java.net.URL>
+</httpSample>
+<httpSample t="129444" lt="0" ts="1614096474300" s="false" lb="Product Page" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-19" dt="text" by="2128" ng="20" na="34">
+  <java.net.URL>https://educacion.comfama.com:9002/samsung-gear-fit/p/8806086158787</java.net.URL>
+</httpSample>
+<httpSample t="129225" lt="0" ts="1614096474519" s="false" lb="Product Page" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-4" dt="text" by="2128" ng="20" na="34">
+  <java.net.URL>https://educacion.comfama.com:9002/samsung-gear-2/p/8806086158312</java.net.URL>
+</httpSample>
+<httpSample t="130960" lt="0" ts="1614096474834" s="false" lb="Product Page" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-5" dt="text" by="2128" ng="14" na="27">
+  <java.net.URL>https://educacion.comfama.com:9002/celular-samsung-galaxy-s8-4g-negro/p/8806088722580</java.net.URL>
+</httpSample>
+<httpSample t="130869" lt="0" ts="1614096474923" s="false" lb="Product Page" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Cart Thread Group 2-1" dt="text" by="2128" ng="2" na="27">
+  <java.net.URL>https://educacion.comfama.com:9002/samsung-gear-360/p/8806088408965</java.net.URL>
+</httpSample>
+<httpSample t="130523" lt="0" ts="1614096475269" s="false" lb="Product Page" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-15" dt="text" by="2128" ng="14" na="27">
+  <java.net.URL>https://educacion.comfama.com:9002/screen-protector-galaxy-a7-2017-accesorio-samsung/p/8806088628639</java.net.URL>
+</httpSample>
+<httpSample t="130977" lt="0" ts="1614096474815" s="false" lb="Add To Cart" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Checkout Thread Group 3-1" dt="text" by="2128" ng="1" na="27">
+  <java.net.URL>https://educacion.comfama.com:9002/cart/add</java.net.URL>
+</httpSample>
+<httpSample t="129953" lt="0" ts="1614096475839" s="false" lb="Product Page" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-17" dt="text" by="2128" ng="14" na="27">
+  <java.net.URL>https://educacion.comfama.com:9002/samsung-gear-fit/p/8806086158787</java.net.URL>
+</httpSample>
+<httpSample t="130932" lt="0" ts="1614096474860" s="false" lb="Product Page" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-12" dt="text" by="2128" ng="14" na="27">
+  <java.net.URL>https://educacion.comfama.com:9002/samsung-gear-360/p/8806088408965</java.net.URL>
+</httpSample>
+<httpSample t="129829" lt="0" ts="1614096475963" s="false" lb="Product Page" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-6" dt="text" by="2128" ng="14" na="27">
+  <java.net.URL>https://educacion.comfama.com:9002/cover-samsung-silicona-s8-plus-negro/p/8806088695747</java.net.URL>
+</httpSample>
+<httpSample t="130517" lt="0" ts="1614096475277" s="false" lb="Product Page" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-20" dt="text" by="2128" ng="14" na="27">
+  <java.net.URL>https://educacion.comfama.com:9002/samsung-gear-2/p/8806086158312</java.net.URL>
+</httpSample>
+<httpSample t="130441" lt="0" ts="1614096475353" s="false" lb="Product Page" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-11" dt="text" by="2128" ng="14" na="27">
+  <java.net.URL>https://educacion.comfama.com:9002/samsung-gear-360/p/8806088408965</java.net.URL>
+</httpSample>
+<httpSample t="131108" lt="0" ts="1614096474686" s="false" lb="Product Page" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-7" dt="text" by="2128" ng="14" na="27">
+  <java.net.URL>https://educacion.comfama.com:9002/samsung-gear-2/p/8806086158312</java.net.URL>
+</httpSample>
+<httpSample t="130956" lt="0" ts="1614096474836" s="false" lb="Product Page" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-9" dt="text" by="2128" ng="14" na="27">
+  <java.net.URL>https://educacion.comfama.com:9002/screen-protector-galaxy-a7-2017-accesorio-samsung/p/8806088628639</java.net.URL>
+</httpSample>
+<httpSample t="129949" lt="0" ts="1614096475846" s="false" lb="Product Page" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-13" dt="text" by="2128" ng="14" na="27">
+  <java.net.URL>https://educacion.comfama.com:9002/celular-samsung-galaxy-s8-4g-negro/p/8806088722580</java.net.URL>
+</httpSample>
+<httpSample t="131086" lt="0" ts="1614096474711" s="false" lb="Product Page" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-8" dt="text" by="2128" ng="14" na="27">
+  <java.net.URL>https://educacion.comfama.com:9002/cover-samsung-silicona-s8-plus-negro/p/8806088695747</java.net.URL>
+</httpSample>
+<httpSample t="131011" lt="0" ts="1614096474784" s="false" lb="Product Page" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-1" dt="text" by="2128" ng="14" na="27">
+  <java.net.URL>https://educacion.comfama.com:9002/samsung-gear-fit/p/8806086158787</java.net.URL>
+</httpSample>
+<httpSample t="129357" lt="0" ts="1614096476439" s="false" lb="Product Page" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-18" dt="text" by="2128" ng="14" na="27">
+  <java.net.URL>https://educacion.comfama.com:9002/samsung-gear-fit/p/8806086158787</java.net.URL>
+</httpSample>
+<httpSample t="129809" lt="0" ts="1614096475983" s="false" lb="Product Page" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-14" dt="text" by="2128" ng="14" na="27">
+  <java.net.URL>https://educacion.comfama.com:9002/cover-samsung-silicona-s8-plus-negro/p/8806088695747</java.net.URL>
+</httpSample>
+<httpSample t="129554" lt="0" ts="1614096478286" s="false" lb="Storefinder Page" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Browser Thread Group 1-2" dt="text" by="2128" ng="10" na="11">
+  <java.net.URL>https://educacion.comfama.com:9002/store-finder</java.net.URL>
+</httpSample>
+<httpSample t="129911" lt="0" ts="1614096482025" s="false" lb="Storefinder Page" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Browser Thread Group 1-3" dt="text" by="2128" ng="9" na="10">
+  <java.net.URL>https://educacion.comfama.com:9002/store-finder</java.net.URL>
+</httpSample>

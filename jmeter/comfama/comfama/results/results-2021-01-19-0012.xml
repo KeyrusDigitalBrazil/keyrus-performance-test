@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="129692" lt="0" ts="1611011557538" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Browser Thread Group 1-1" dt="text" by="2318" ng="15" na="39">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130100" lt="0" ts="1611011557131" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-12" dt="text" by="2318" ng="20" na="39">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130123" lt="0" ts="1611011557112" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-9" dt="text" by="2318" ng="20" na="39">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="129478" lt="0" ts="1611011557756" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-16" dt="text" by="2318" ng="20" na="39">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130160" lt="0" ts="1611011557070" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-4" dt="text" by="2318" ng="20" na="39">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130032" lt="0" ts="1611011557198" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-20" dt="text" by="2318" ng="20" na="39">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130012" lt="0" ts="1611011557218" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-13" dt="text" by="2318" ng="20" na="39">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="131142" lt="0" ts="1611011556091" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-17" dt="text" by="2318" ng="20" na="39">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="129207" lt="0" ts="1611011558024" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-11" dt="text" by="2318" ng="20" na="39">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130736" lt="0" ts="1611011556495" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-15" dt="text" by="2318" ng="20" na="39">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130774" lt="0" ts="1611011556456" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-10" dt="text" by="2318" ng="20" na="39">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130785" lt="0" ts="1611011556445" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Cart Thread Group 2-1" dt="text" by="2318" ng="3" na="39">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130077" lt="0" ts="1611011557153" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-2" dt="text" by="2318" ng="20" na="39">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130104" lt="0" ts="1611011557127" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-3" dt="text" by="2318" ng="20" na="39">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130289" lt="0" ts="1611011556941" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-8" dt="text" by="2318" ng="20" na="39">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130585" lt="0" ts="1611011556646" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-6" dt="text" by="2318" ng="20" na="39">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130754" lt="0" ts="1611011556477" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-7" dt="text" by="2318" ng="20" na="39">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130051" lt="0" ts="1611011557180" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-19" dt="text" by="2318" ng="20" na="39">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130173" lt="0" ts="1611011557062" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Checkout Thread Group 3-1" dt="text" by="2318" ng="1" na="39">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130367" lt="0" ts="1611011556864" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-1" dt="text" by="2318" ng="20" na="39">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130489" lt="0" ts="1611011556741" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-14" dt="text" by="2318" ng="20" na="39">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130865" lt="0" ts="1611011556366" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-18" dt="text" by="2318" ng="20" na="39">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="129964" lt="0" ts="1611011557266" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Modules 4-5" dt="text" by="2318" ng="20" na="39">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="129916" lt="0" ts="1611011561409" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Browser Thread Group 1-2" dt="text" by="2318" ng="14" na="16">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130512" lt="0" ts="1611011564913" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Browser Thread Group 1-3" dt="text" by="2318" ng="13" na="15">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="129423" lt="0" ts="1611011568046" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Browser Thread Group 1-4" dt="text" by="2318" ng="12" na="14">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="129920" lt="0" ts="1611011571645" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Browser Thread Group 1-5" dt="text" by="2318" ng="11" na="13">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130513" lt="0" ts="1611011575152" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Browser Thread Group 1-6" dt="text" by="2318" ng="10" na="12">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="131085" lt="0" ts="1611011576624" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Cart Thread Group 2-2" dt="text" by="2318" ng="2" na="11">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130199" lt="0" ts="1611011579563" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Browser Thread Group 1-7" dt="text" by="2318" ng="9" na="10">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="129374" lt="0" ts="1611011582432" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Browser Thread Group 1-8" dt="text" by="2318" ng="8" na="9">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="129636" lt="0" ts="1611011586266" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Browser Thread Group 1-9" dt="text" by="2318" ng="7" na="8">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130086" lt="0" ts="1611011589911" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Browser Thread Group 1-10" dt="text" by="2318" ng="6" na="7">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="129468" lt="0" ts="1611011594629" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Browser Thread Group 1-11" dt="text" by="2318" ng="5" na="6">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130654" lt="0" ts="1611011597535" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Cart Thread Group 2-3" dt="text" by="2318" ng="1" na="5">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130615" lt="0" ts="1611011597574" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Browser Thread Group 1-12" dt="text" by="2318" ng="4" na="5">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130087" lt="0" ts="1611011602198" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Browser Thread Group 1-13" dt="text" by="2318" ng="3" na="3">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="130389" lt="0" ts="1611011605992" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Browser Thread Group 1-14" dt="text" by="2318" ng="2" na="2">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+<httpSample t="129705" lt="0" ts="1611011608724" s="false" lb="Homepage" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out (Connection timed out)" tn="Browser Thread Group 1-15" dt="text" by="2318" ng="1" na="1">
+  <java.net.URL>https://dev2.alkomprar.com:9002/</java.net.URL>
+</httpSample>
+
+</testResults>
