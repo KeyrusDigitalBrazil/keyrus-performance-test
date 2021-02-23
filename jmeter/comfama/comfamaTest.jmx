@@ -160,7 +160,7 @@
       <hashTree>
         <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Homepage" enabled="true">
           <collectionProp name="ModuleController.node_path">
-            <stringProp name="-1227702913">WorkBench</stringProp>
+            <stringProp name="-412646531">Área de Trabalho</stringProp>
             <stringProp name="1917162517">B2C Accelerator Test Plan</stringProp>
             <stringProp name="-1402880153">Modules</stringProp>
             <stringProp name="-1427435415">Homepage &amp; CSRF Token</stringProp>
@@ -169,7 +169,7 @@
         <hashTree/>
         <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Find My Store" enabled="true">
           <collectionProp name="ModuleController.node_path">
-            <stringProp name="-1227702913">WorkBench</stringProp>
+            <stringProp name="-412646531">Área de Trabalho</stringProp>
             <stringProp name="1917162517">B2C Accelerator Test Plan</stringProp>
             <stringProp name="-1402880153">Modules</stringProp>
             <stringProp name="-903669804">Find My Store</stringProp>
@@ -203,7 +203,7 @@
       <hashTree>
         <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Homepage" enabled="true">
           <collectionProp name="ModuleController.node_path">
-            <stringProp name="-1227702913">WorkBench</stringProp>
+            <stringProp name="-412646531">Área de Trabalho</stringProp>
             <stringProp name="1917162517">B2C Accelerator Test Plan</stringProp>
             <stringProp name="-1402880153">Modules</stringProp>
             <stringProp name="-1427435415">Homepage &amp; CSRF Token</stringProp>
@@ -212,7 +212,7 @@
         <hashTree/>
         <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Browse" enabled="true">
           <collectionProp name="ModuleController.node_path">
-            <stringProp name="-1227702913">WorkBench</stringProp>
+            <stringProp name="-412646531">Área de Trabalho</stringProp>
             <stringProp name="1917162517">B2C Accelerator Test Plan</stringProp>
             <stringProp name="-1402880153">Modules</stringProp>
             <stringProp name="-2092601305">Browse Products, Categories and Search</stringProp>
@@ -221,7 +221,7 @@
         <hashTree/>
         <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Add To Cart" enabled="true">
           <collectionProp name="ModuleController.node_path">
-            <stringProp name="-1227702913">WorkBench</stringProp>
+            <stringProp name="-412646531">Área de Trabalho</stringProp>
             <stringProp name="1917162517">B2C Accelerator Test Plan</stringProp>
             <stringProp name="-1402880153">Modules</stringProp>
             <stringProp name="1626680217">Add To Cart For Pickup In Store</stringProp>
@@ -245,6 +245,12 @@
             <stringProp name="517042886">Modify Cart</stringProp>
           </collectionProp>
         </ModuleController>
+        <hashTree/>
+        <DebugSampler guiclass="TestBeanGUI" testclass="DebugSampler" testname="Debug Sampler" enabled="true">
+          <boolProp name="displayJMeterProperties">false</boolProp>
+          <boolProp name="displayJMeterVariables">true</boolProp>
+          <boolProp name="displaySystemProperties">false</boolProp>
+        </DebugSampler>
         <hashTree/>
       </hashTree>
       <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Checkout Thread Group" enabled="true">
@@ -300,7 +306,7 @@
         <hashTree/>
         <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Checkout" enabled="true">
           <collectionProp name="ModuleController.node_path">
-            <stringProp name="-1227702913">WorkBench</stringProp>
+            <stringProp name="-412646531">Área de Trabalho</stringProp>
             <stringProp name="1917162517">B2C Accelerator Test Plan</stringProp>
             <stringProp name="-1402880153">Modules</stringProp>
             <stringProp name="-1639913486">Delivery Checkout</stringProp>
@@ -354,7 +360,7 @@
             <RegexExtractor guiclass="RegexExtractorGui" testclass="RegexExtractor" testname="CSRF Token Extractor" enabled="true">
               <stringProp name="RegexExtractor.useHeaders">false</stringProp>
               <stringProp name="RegexExtractor.refname">csrf-token</stringProp>
-              <stringProp name="RegexExtractor.regex">name=&quot;CSRFToken&quot; value=&quot;(.+?)&quot;</stringProp>
+              <stringProp name="RegexExtractor.regex">ACC.config.CSRFToken = &apos;(.+?)&apos;</stringProp>
               <stringProp name="RegexExtractor.template">$1$</stringProp>
               <stringProp name="RegexExtractor.default"></stringProp>
               <stringProp name="RegexExtractor.match_number">1</stringProp>
@@ -718,10 +724,19 @@
           <stringProp name="LoopController.loops">${__property(itemsAddToCart)}</stringProp>
         </LoopController>
         <hashTree>
+          <RegexExtractor guiclass="RegexExtractorGui" testclass="RegexExtractor" testname="CSRF Token Extractor" enabled="true">
+            <stringProp name="RegexExtractor.useHeaders">false</stringProp>
+            <stringProp name="RegexExtractor.refname">csrf-token</stringProp>
+            <stringProp name="RegexExtractor.regex">name=&quot;CSRFToken&quot; value=&quot;(.+?)&quot;</stringProp>
+            <stringProp name="RegexExtractor.template">$1$</stringProp>
+            <stringProp name="RegexExtractor.default"></stringProp>
+            <stringProp name="RegexExtractor.match_number">1</stringProp>
+          </RegexExtractor>
+          <hashTree/>
           <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSVAddToCart" enabled="true">
             <stringProp name="filename">${inputDataFolder}addToCartInputData.csv</stringProp>
             <stringProp name="fileEncoding"></stringProp>
-            <stringProp name="variableNames">productCode,quantity</stringProp>
+            <stringProp name="variableNames">productCode,city,headOffice,scheduleProductCode</stringProp>
             <stringProp name="delimiter">,</stringProp>
             <boolProp name="quotedData">false</boolProp>
             <boolProp name="recycle">true</boolProp>
@@ -730,50 +745,95 @@
             <boolProp name="ignoreFirstLine">false</boolProp>
           </CSVDataSet>
           <hashTree/>
-          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Add To Cart" enabled="true">
+          <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSVUserDocNumber" enabled="true">
+            <stringProp name="filename">${inputDataFolder}userDocNumberData.csv</stringProp>
+            <stringProp name="fileEncoding"></stringProp>
+            <stringProp name="variableNames">docNumber</stringProp>
+            <stringProp name="delimiter">,</stringProp>
+            <boolProp name="quotedData">false</boolProp>
+            <boolProp name="recycle">true</boolProp>
+            <boolProp name="stopThread">false</boolProp>
+            <stringProp name="shareMode">shareMode.all</stringProp>
+            <boolProp name="ignoreFirstLine">false</boolProp>
+          </CSVDataSet>
+          <hashTree/>
+          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Choose city" enabled="true">
+            <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
+              <collectionProp name="Arguments.arguments"/>
+            </elementProp>
+            <stringProp name="HTTPSampler.domain">${baseUrl}</stringProp>
+            <stringProp name="HTTPSampler.port"></stringProp>
+            <stringProp name="HTTPSampler.connect_timeout"></stringProp>
+            <stringProp name="HTTPSampler.response_timeout"></stringProp>
+            <stringProp name="HTTPSampler.protocol">https</stringProp>
+            <stringProp name="HTTPSampler.contentEncoding"></stringProp>
+            <stringProp name="HTTPSampler.path">/p/get-location-variant/${city}/${productCode}</stringProp>
+            <stringProp name="HTTPSampler.method">GET</stringProp>
+            <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+            <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+            <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+            <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+            <stringProp name="HTTPSampler.implementation">Java</stringProp>
+            <boolProp name="HTTPSampler.monitor">false</boolProp>
+            <stringProp name="HTTPSampler.embedded_url_re"></stringProp>
+          </HTTPSamplerProxy>
+          <hashTree>
+            <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="thinkTime" enabled="true">
+              <stringProp name="ConstantTimer.delay">${__property(delayOffset)}</stringProp>
+              <stringProp name="RandomTimer.range">${__property(thinkTime)}</stringProp>
+            </UniformRandomTimer>
+            <hashTree/>
+          </hashTree>
+          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Choose Head Office" enabled="true">
+            <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
+              <collectionProp name="Arguments.arguments"/>
+            </elementProp>
+            <stringProp name="HTTPSampler.domain">${baseUrl}</stringProp>
+            <stringProp name="HTTPSampler.port"></stringProp>
+            <stringProp name="HTTPSampler.connect_timeout"></stringProp>
+            <stringProp name="HTTPSampler.response_timeout"></stringProp>
+            <stringProp name="HTTPSampler.protocol">https</stringProp>
+            <stringProp name="HTTPSampler.contentEncoding"></stringProp>
+            <stringProp name="HTTPSampler.path">/p/p/get-schedule-variant/${headOffice}</stringProp>
+            <stringProp name="HTTPSampler.method">GET</stringProp>
+            <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+            <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+            <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+            <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+            <stringProp name="HTTPSampler.implementation">Java</stringProp>
+            <boolProp name="HTTPSampler.monitor">false</boolProp>
+            <stringProp name="HTTPSampler.embedded_url_re"></stringProp>
+          </HTTPSamplerProxy>
+          <hashTree>
+            <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="thinkTime" enabled="true">
+              <stringProp name="ConstantTimer.delay">${__property(delayOffset)}</stringProp>
+              <stringProp name="RandomTimer.range">${__property(thinkTime)}</stringProp>
+            </UniformRandomTimer>
+            <hashTree/>
+          </hashTree>
+          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Find student" enabled="true">
             <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
               <collectionProp name="Arguments.arguments">
-                <elementProp name="qty" elementType="HTTPArgument">
+                <elementProp name="docType" elementType="HTTPArgument">
                   <boolProp name="HTTPArgument.always_encode">false</boolProp>
-                  <stringProp name="Argument.value">${quantity}</stringProp>
+                  <stringProp name="Argument.value">coic</stringProp>
                   <stringProp name="Argument.metadata">=</stringProp>
                   <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                  <stringProp name="Argument.name">qty</stringProp>
+                  <stringProp name="Argument.name">docType</stringProp>
                 </elementProp>
-                <elementProp name="productCodePost" elementType="HTTPArgument">
+                <elementProp name="docNumber" elementType="HTTPArgument">
                   <boolProp name="HTTPArgument.always_encode">false</boolProp>
-                  <stringProp name="Argument.name">productCodePost</stringProp>
-                  <stringProp name="Argument.value">${productCode}</stringProp>
+                  <stringProp name="Argument.name">docNumber</stringProp>
+                  <stringProp name="Argument.value">${docNumber}</stringProp>
                   <stringProp name="Argument.metadata">=</stringProp>
                   <boolProp name="HTTPArgument.use_equals">true</boolProp>
                 </elementProp>
-                <elementProp name="maximumAmountAvailable" elementType="HTTPArgument">
+                <elementProp name="scheduleProductCode" elementType="HTTPArgument">
                   <boolProp name="HTTPArgument.always_encode">false</boolProp>
-                  <stringProp name="Argument.value">10</stringProp>
+                  <stringProp name="Argument.value">${scheduleProductCode}</stringProp>
                   <stringProp name="Argument.metadata">=</stringProp>
                   <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                  <stringProp name="Argument.name">maximumAmountAvailable</stringProp>
-                </elementProp>
-                <elementProp name="deliveryModeSelected" elementType="HTTPArgument">
-                  <boolProp name="HTTPArgument.always_encode">false</boolProp>
-                  <stringProp name="Argument.value">ship-to-address</stringProp>
-                  <stringProp name="Argument.metadata">=</stringProp>
-                  <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                  <stringProp name="Argument.name">deliveryModeSelected</stringProp>
-                </elementProp>
-                <elementProp name="potentialPromotionId" elementType="HTTPArgument">
-                  <boolProp name="HTTPArgument.always_encode">false</boolProp>
-                  <stringProp name="Argument.value"></stringProp>
-                  <stringProp name="Argument.metadata">=</stringProp>
-                  <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                  <stringProp name="Argument.name">potentialPromotionId</stringProp>
-                </elementProp>
-                <elementProp name="multipleBSelectedProduct" elementType="HTTPArgument">
-                  <boolProp name="HTTPArgument.always_encode">false</boolProp>
-                  <stringProp name="Argument.value"></stringProp>
-                  <stringProp name="Argument.metadata">=</stringProp>
-                  <boolProp name="HTTPArgument.use_equals">true</boolProp>
-                  <stringProp name="Argument.name">multipleBSelectedProduct</stringProp>
+                  <stringProp name="Argument.name">scheduleProductCode</stringProp>
                 </elementProp>
                 <elementProp name="CSRFToken" elementType="HTTPArgument">
                   <boolProp name="HTTPArgument.always_encode">false</boolProp>
@@ -791,7 +851,7 @@
             <stringProp name="HTTPSampler.response_timeout"></stringProp>
             <stringProp name="HTTPSampler.protocol">https</stringProp>
             <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-            <stringProp name="HTTPSampler.path">/cart/add</stringProp>
+            <stringProp name="HTTPSampler.path">/p/getComfamaCustomerFromCRM/</stringProp>
             <stringProp name="HTTPSampler.method">POST</stringProp>
             <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
             <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -1748,7 +1808,7 @@
             <hashTree/>
           </hashTree>
         </hashTree>
-        <GenericController guiclass="LogicControllerGui" testclass="GenericController" testname="Cart Page" enabled="true"/>
+        <GenericController guiclass="LogicControllerGui" testclass="GenericController" testname="Cart Page" enabled="false"/>
         <hashTree>
           <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="View Cart Page" enabled="true">
             <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
@@ -1778,7 +1838,7 @@
             <hashTree/>
           </hashTree>
         </hashTree>
-        <RandomController guiclass="RandomControlGui" testclass="RandomController" testname="Modify Cart" enabled="true">
+        <RandomController guiclass="RandomControlGui" testclass="RandomController" testname="Modify Cart" enabled="false">
           <intProp name="InterleaveControl.style">1</intProp>
         </RandomController>
         <hashTree>
@@ -2172,7 +2232,7 @@
             <hashTree/>
           </hashTree>
         </hashTree>
-        <GenericController guiclass="LogicControllerGui" testclass="GenericController" testname="Delivery Checkout" enabled="true"/>
+        <GenericController guiclass="LogicControllerGui" testclass="GenericController" testname="Delivery Checkout" enabled="false"/>
         <hashTree>
           <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="Checkout Transaction" enabled="true">
             <boolProp name="TransactionController.parent">false</boolProp>
@@ -4992,7 +5052,7 @@
             </hashTree>
           </hashTree>
         </hashTree>
-        <GenericController guiclass="LogicControllerGui" testclass="GenericController" testname="Place Review" enabled="true"/>
+        <GenericController guiclass="LogicControllerGui" testclass="GenericController" testname="Place Review" enabled="false"/>
         <hashTree>
           <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSVProducts" enabled="true">
             <stringProp name="filename">${inputDataFolder}productInputData.csv</stringProp>
@@ -5128,8 +5188,8 @@
             <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
               <collectionProp name="Arguments.arguments">
                 <elementProp name="q" elementType="HTTPArgument">
-                  <boolProp name="HTTPArgument.always_encode">true</boolProp>
-                  <stringProp name="Argument.value">${postcode}</stringProp>
+                  <boolProp name="HTTPArgument.always_encode">false</boolProp>
+                  <stringProp name="Argument.value">bog</stringProp>
                   <stringProp name="Argument.metadata">=</stringProp>
                   <boolProp name="HTTPArgument.use_equals">true</boolProp>
                   <stringProp name="Argument.name">q</stringProp>
@@ -5141,6 +5201,13 @@
                   <boolProp name="HTTPArgument.use_equals">true</boolProp>
                   <stringProp name="Argument.name">page</stringProp>
                 </elementProp>
+                <elementProp name="searchType" elementType="HTTPArgument">
+                  <boolProp name="HTTPArgument.always_encode">false</boolProp>
+                  <stringProp name="Argument.value">location</stringProp>
+                  <stringProp name="Argument.metadata">=</stringProp>
+                  <boolProp name="HTTPArgument.use_equals">true</boolProp>
+                  <stringProp name="Argument.name">searchType</stringProp>
+                </elementProp>
               </collectionProp>
             </elementProp>
             <stringProp name="HTTPSampler.domain">${baseUrl}</stringProp>
@@ -5149,7 +5216,7 @@
             <stringProp name="HTTPSampler.response_timeout"></stringProp>
             <stringProp name="HTTPSampler.protocol"></stringProp>
             <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-            <stringProp name="HTTPSampler.path">store-finder</stringProp>
+            <stringProp name="HTTPSampler.path">/comfama/es/store-finder</stringProp>
             <stringProp name="HTTPSampler.method">GET</stringProp>
             <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
             <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
