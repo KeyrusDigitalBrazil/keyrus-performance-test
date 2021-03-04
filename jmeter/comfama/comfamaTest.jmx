@@ -5773,19 +5773,20 @@
         <stringProp name="filename"></stringProp>
       </ResultCollector>
       <hashTree/>
-      <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Search" enabled="true">
+      <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Search" enabled="false">
         <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
         <elementProp name="ThreadGroup.main_controller" elementType="LoopController" guiclass="LoopControlPanel" testclass="LoopController" testname="Controlador de Iteração" enabled="true">
           <boolProp name="LoopController.continue_forever">false</boolProp>
           <intProp name="LoopController.loops">-1</intProp>
         </elementProp>
-        <stringProp name="ThreadGroup.num_threads">500</stringProp>
-        <stringProp name="ThreadGroup.ramp_time">1</stringProp>
+        <stringProp name="ThreadGroup.num_threads">3000</stringProp>
+        <stringProp name="ThreadGroup.ramp_time">300</stringProp>
         <longProp name="ThreadGroup.start_time">1614702754000</longProp>
         <longProp name="ThreadGroup.end_time">1614702754000</longProp>
         <boolProp name="ThreadGroup.scheduler">false</boolProp>
         <stringProp name="ThreadGroup.duration"></stringProp>
         <stringProp name="ThreadGroup.delay"></stringProp>
+        <boolProp name="ThreadGroup.delayedStart">true</boolProp>
       </ThreadGroup>
       <hashTree>
         <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Homepage" enabled="true">
@@ -5807,7 +5808,7 @@
         </ModuleController>
         <hashTree/>
       </hashTree>
-      <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Product category - product" enabled="true">
+      <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Product category - product" enabled="false">
         <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
         <elementProp name="ThreadGroup.main_controller" elementType="LoopController" guiclass="LoopControlPanel" testclass="LoopController" testname="Controlador de Iteração" enabled="true">
           <boolProp name="LoopController.continue_forever">false</boolProp>
@@ -5854,10 +5855,10 @@
         <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
         <elementProp name="ThreadGroup.main_controller" elementType="LoopController" guiclass="LoopControlPanel" testclass="LoopController" testname="Controlador de Iteração" enabled="true">
           <boolProp name="LoopController.continue_forever">false</boolProp>
-          <stringProp name="LoopController.loops">1</stringProp>
+          <intProp name="LoopController.loops">-1</intProp>
         </elementProp>
-        <stringProp name="ThreadGroup.num_threads">500</stringProp>
-        <stringProp name="ThreadGroup.ramp_time">1</stringProp>
+        <stringProp name="ThreadGroup.num_threads">3000</stringProp>
+        <stringProp name="ThreadGroup.ramp_time">360</stringProp>
         <longProp name="ThreadGroup.start_time">1614708165000</longProp>
         <longProp name="ThreadGroup.end_time">1614708165000</longProp>
         <boolProp name="ThreadGroup.scheduler">false</boolProp>
@@ -5874,33 +5875,90 @@
           </collectionProp>
         </ModuleController>
         <hashTree/>
-        <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Category" enabled="true">
-          <collectionProp name="ModuleController.node_path">
-            <stringProp name="-412646531">Área de Trabalho</stringProp>
-            <stringProp name="1917162517">B2C Accelerator Test Plan</stringProp>
-            <stringProp name="-1402880153">Modules</stringProp>
-            <stringProp name="-1046644366">Browse Categories</stringProp>
-          </collectionProp>
-        </ModuleController>
-        <hashTree/>
-        <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Product" enabled="true">
-          <collectionProp name="ModuleController.node_path">
-            <stringProp name="-412646531">Área de Trabalho</stringProp>
-            <stringProp name="1917162517">B2C Accelerator Test Plan</stringProp>
-            <stringProp name="-1402880153">Modules</stringProp>
-            <stringProp name="1375920698">Browse Products</stringProp>
-          </collectionProp>
-        </ModuleController>
-        <hashTree/>
-        <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Add to cart" enabled="true">
-          <collectionProp name="ModuleController.node_path">
-            <stringProp name="-412646531">Área de Trabalho</stringProp>
-            <stringProp name="1917162517">B2C Accelerator Test Plan</stringProp>
-            <stringProp name="-1402880153">Modules</stringProp>
-            <stringProp name="1014679814">Add To Cart</stringProp>
-          </collectionProp>
-        </ModuleController>
-        <hashTree/>
+        <ThroughputController guiclass="ThroughputControllerGui" testclass="ThroughputController" testname="From Home to Search" enabled="true">
+          <intProp name="ThroughputController.style">1</intProp>
+          <boolProp name="ThroughputController.perThread">false</boolProp>
+          <intProp name="ThroughputController.maxThroughput">1</intProp>
+          <FloatProperty>
+            <name>ThroughputController.percentThroughput</name>
+            <value>70.0</value>
+            <savedValue>0.0</savedValue>
+          </FloatProperty>
+        </ThroughputController>
+        <hashTree>
+          <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Search" enabled="true">
+            <collectionProp name="ModuleController.node_path">
+              <stringProp name="-412646531">Área de Trabalho</stringProp>
+              <stringProp name="1917162517">B2C Accelerator Test Plan</stringProp>
+              <stringProp name="-1402880153">Modules</stringProp>
+              <stringProp name="-1822469688">Search</stringProp>
+            </collectionProp>
+          </ModuleController>
+          <hashTree/>
+        </hashTree>
+        <ThroughputController guiclass="ThroughputControllerGui" testclass="ThroughputController" testname="From home to category" enabled="true">
+          <intProp name="ThroughputController.style">1</intProp>
+          <boolProp name="ThroughputController.perThread">false</boolProp>
+          <intProp name="ThroughputController.maxThroughput">1</intProp>
+          <FloatProperty>
+            <name>ThroughputController.percentThroughput</name>
+            <value>70.0</value>
+            <savedValue>0.0</savedValue>
+          </FloatProperty>
+        </ThroughputController>
+        <hashTree>
+          <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Category" enabled="true">
+            <collectionProp name="ModuleController.node_path">
+              <stringProp name="-412646531">Área de Trabalho</stringProp>
+              <stringProp name="1917162517">B2C Accelerator Test Plan</stringProp>
+              <stringProp name="-1402880153">Modules</stringProp>
+              <stringProp name="-1046644366">Browse Categories</stringProp>
+            </collectionProp>
+          </ModuleController>
+          <hashTree/>
+          <ThroughputController guiclass="ThroughputControllerGui" testclass="ThroughputController" testname="From category to product" enabled="true">
+            <intProp name="ThroughputController.style">1</intProp>
+            <boolProp name="ThroughputController.perThread">false</boolProp>
+            <intProp name="ThroughputController.maxThroughput">1</intProp>
+            <FloatProperty>
+              <name>ThroughputController.percentThroughput</name>
+              <value>50.0</value>
+              <savedValue>0.0</savedValue>
+            </FloatProperty>
+          </ThroughputController>
+          <hashTree>
+            <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Product" enabled="true">
+              <collectionProp name="ModuleController.node_path">
+                <stringProp name="-412646531">Área de Trabalho</stringProp>
+                <stringProp name="1917162517">B2C Accelerator Test Plan</stringProp>
+                <stringProp name="-1402880153">Modules</stringProp>
+                <stringProp name="1375920698">Browse Products</stringProp>
+              </collectionProp>
+            </ModuleController>
+            <hashTree/>
+            <ThroughputController guiclass="ThroughputControllerGui" testclass="ThroughputController" testname="From product to cart" enabled="true">
+              <intProp name="ThroughputController.style">1</intProp>
+              <boolProp name="ThroughputController.perThread">false</boolProp>
+              <intProp name="ThroughputController.maxThroughput">1</intProp>
+              <FloatProperty>
+                <name>ThroughputController.percentThroughput</name>
+                <value>5.0</value>
+                <savedValue>0.0</savedValue>
+              </FloatProperty>
+            </ThroughputController>
+            <hashTree>
+              <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Add to cart" enabled="true">
+                <collectionProp name="ModuleController.node_path">
+                  <stringProp name="-412646531">Área de Trabalho</stringProp>
+                  <stringProp name="1917162517">B2C Accelerator Test Plan</stringProp>
+                  <stringProp name="-1402880153">Modules</stringProp>
+                  <stringProp name="1014679814">Add To Cart</stringProp>
+                </collectionProp>
+              </ModuleController>
+              <hashTree/>
+            </hashTree>
+          </hashTree>
+        </hashTree>
       </hashTree>
     </hashTree>
   </hashTree>
